@@ -1,7 +1,7 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  5 FEB 2022 22:05
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 FEB 2022 22:19
  system commands enabled.
-**vespers-2022.tex
-(./vespers-2022.tex
+**03-19-2022_St_Joseph.tex
+(./03-19-2022_St_Joseph.tex
 LaTeX2e <2020-02-02> patch level 2
 Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
 Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
@@ -843,7 +843,7 @@ Lua module: gregoriotex 2021/03/13 6.0.0 GregorioTeX module.
 Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
-(vespers-2022.gaux)
+(03-19-2022_St_Joseph.gaux)
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write4
 \gre@read@temp=\read4
@@ -1115,9 +1115,9 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \colbreak@box=\box122
 \mc@col@check@num=\count384
 )
-(./vespers-2022.aux)
-\openout1 = vespers-2022.aux
+No file 03-19-2022_St_Joseph.aux.
 
+\openout1 = 03-19-2022_St_Joseph.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
@@ -1129,7 +1129,7 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 4.
@@ -1279,13 +1279,8 @@ LaTeX Warning: Reference `mdf@pagelabel-4' on page 3 undefined on input line 100
 Module gregoriotex Info: Looking in  on input line 103
 Module gregoriotex Info: Found ps110-antiphon.gabc directly on input line 103
 Module gregoriotex Info: Looking in  on input line 103
-Module gregoriotex Info: Cannot find ps110-antiphon-6_0_0.gtex on input line 103
-
-Module gregoriotex Info: The file ps110-antiphon-6_0_0.gtex does not exist. Will
- use gabc file on input line 103
-Module gregoriotex Info: compiling the score ps110-antiphon.gabc... on input lin
-e 103
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 103
+Module gregoriotex Info: Found ps110-antiphon-6_0_0.gtex directly on input line 
+103
 (./ps110-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1345,12 +1340,8 @@ LaTeX Warning: Reference `mdf@pagelabel-5' on page 4 undefined on input line 141
 Module gregoriotex Info: Looking in  on input line 149
 Module gregoriotex Info: Found ps111-antiphon.gabc directly on input line 149
 Module gregoriotex Info: Looking in  on input line 149
-Module gregoriotex Info: Cannot find ps111-antiphon-6_0_0.gtex on input line 149
-
-Module gregoriotex Info: The file ps111-antiphon-6_0_0.gtex does not exist. Will
- use gabc file on input line 149
-Module gregoriotex Info: compiling the score ps111-antiphon.gabc... on input lin
-e 149
+Module gregoriotex Info: Found ps111-antiphon-6_0_0.gtex directly on input line 
+149
 (./ps111-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1394,6 +1385,7 @@ Underfull \hbox (badness 2384) in paragraph at lines 183--183
 
 [5]
 Module gregoriotex Info: Processing gabc snippet... on input line 192
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 192
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1410,12 +1402,8 @@ LaTeX Warning: Reference `mdf@pagelabel-6' on page 6 undefined on input line 215
 Module gregoriotex Info: Looking in  on input line 223
 Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 223
 Module gregoriotex Info: Looking in  on input line 223
-Module gregoriotex Info: Cannot find ps112-antiphon-6_0_0.gtex on input line 223
-
-Module gregoriotex Info: The file ps112-antiphon-6_0_0.gtex does not exist. Will
- use gabc file on input line 223
-Module gregoriotex Info: compiling the score ps112-antiphon.gabc... on input lin
-e 223
+Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
+223
 (./ps112-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1452,12 +1440,8 @@ Module gregoriotex Info: Looking in  on input line 266
 Module gregoriotex Info: Found ps116-antiphon-only.gabc directly on input line 2
 66
 Module gregoriotex Info: Looking in  on input line 266
-Module gregoriotex Info: Cannot find ps116-antiphon-only-6_0_0.gtex on input lin
-e 266
-Module gregoriotex Info: The file ps116-antiphon-only-6_0_0.gtex does not exist.
- Will use gabc file on input line 266
-Module gregoriotex Info: compiling the score ps116-antiphon-only.gabc... on inpu
-t line 266
+Module gregoriotex Info: Found ps116-antiphon-only-6_0_0.gtex directly on input 
+line 266
 (./ps116-antiphon-only-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1466,12 +1450,8 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [7]
 Module gregoriotex Info: Looking in  on input line 271
 Module gregoriotex Info: Found ps116-intonation.gabc directly on input line 271
 Module gregoriotex Info: Looking in  on input line 271
-Module gregoriotex Info: Cannot find ps116-intonation-6_0_0.gtex on input line 2
-71
-Module gregoriotex Info: The file ps116-intonation-6_0_0.gtex does not exist. Wi
-ll use gabc file on input line 271
-Module gregoriotex Info: compiling the score ps116-intonation.gabc... on input l
-ine 271
+Module gregoriotex Info: Found ps116-intonation-6_0_0.gtex directly on input lin
+e 271
  (./ps116-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1498,12 +1478,8 @@ Module gregoriotex Info: Looking in  on input line 316
 Module gregoriotex Info: Found ../hymns/te-joseph-celebrent.gabc directly on inp
 ut line 316
 Module gregoriotex Info: Looking in  on input line 316
-Module gregoriotex Info: Cannot find ../hymns/te-joseph-celebrent-6_0_0.gtex on 
-input line 316
-Module gregoriotex Info: The file ../hymns/te-joseph-celebrent-6_0_0.gtex does n
-ot exist. Will use gabc file on input line 316
-Module gregoriotex Info: compiling the score ../hymns/te-joseph-celebrent.gabc..
-. on input line 316
+Module gregoriotex Info: Found ../hymns/te-joseph-celebrent-6_0_0.gtex directly 
+on input line 316
 (../hymns/te-joseph-celebrent-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [8]
@@ -1537,12 +1513,8 @@ Module gregoriotex Info: Looking in  on input line 372
 Module gregoriotex Info: Found magnificat-antiphon-only.gabc directly on input l
 ine 372
 Module gregoriotex Info: Looking in  on input line 372
-Module gregoriotex Info: Cannot find magnificat-antiphon-only-6_0_0.gtex on inpu
-t line 372
-Module gregoriotex Info: The file magnificat-antiphon-only-6_0_0.gtex does not e
-xist. Will use gabc file on input line 372
-Module gregoriotex Info: compiling the score magnificat-antiphon-only.gabc... on
- input line 372
+Module gregoriotex Info: Found magnificat-antiphon-only-6_0_0.gtex directly on i
+nput line 372
 (./magnificat-antiphon-only-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1566,12 +1538,8 @@ Module gregoriotex Info: Looking in  on input line 381
 Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
  381
 Module gregoriotex Info: Looking in  on input line 381
-Module gregoriotex Info: Cannot find magnificat-intonation-6_0_0.gtex on input l
-ine 381
-Module gregoriotex Info: The file magnificat-intonation-6_0_0.gtex does not exis
-t. Will use gabc file on input line 381
-Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
-put line 381
+Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
+t line 381
 (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1626,11 +1594,8 @@ Overfull \hbox (28.55754pt too wide) in paragraph at lines 454--454
 Module gregoriotex Info: Looking in  on input line 462
 Module gregoriotex Info: Found comm-lent-3.gabc directly on input line 462
 Module gregoriotex Info: Looking in  on input line 462
-Module gregoriotex Info: Cannot find comm-lent-3-6_0_0.gtex on input line 462
-Module gregoriotex Info: The file comm-lent-3-6_0_0.gtex does not exist. Will us
-e gabc file on input line 462
-Module gregoriotex Info: compiling the score comm-lent-3.gabc... on input line 4
-62
+Module gregoriotex Info: Found comm-lent-3-6_0_0.gtex directly on input line 462
+
 (./comm-lent-3-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1655,12 +1620,8 @@ Module gregoriotex Info: Looking in  on input line 498
 Module gregoriotex Info: Found ../common/benedicamus-2v-solem.gabc directly on i
 nput line 498
 Module gregoriotex Info: Looking in  on input line 498
-Module gregoriotex Info: Cannot find ../common/benedicamus-2v-solem-6_0_0.gtex o
-n input line 498
-Module gregoriotex Info: The file ../common/benedicamus-2v-solem-6_0_0.gtex does
- not exist. Will use gabc file on input line 498
-Module gregoriotex Info: compiling the score ../common/benedicamus-2v-solem.gabc
-... on input line 498
+Module gregoriotex Info: Found ../common/benedicamus-2v-solem-6_0_0.gtex directl
+y on input line 498
  (../common/benedicamus-2v-solem-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1674,12 +1635,8 @@ Module gregoriotex Info: Looking in  on input line 533
 Module gregoriotex Info: Found ../marian-anthems/ave-regina-caelorum-simple.gabc
  directly on input line 533
 Module gregoriotex Info: Looking in  on input line 533
-Module gregoriotex Info: Cannot find ../marian-anthems/ave-regina-caelorum-simpl
-e-6_0_0.gtex on input line 533
-Module gregoriotex Info: The file ../marian-anthems/ave-regina-caelorum-simple-6
-_0_0.gtex does not exist. Will use gabc file on input line 533
-Module gregoriotex Info: compiling the score ../marian-anthems/ave-regina-caelor
-um-simple.gabc... on input line 533
+Module gregoriotex Info: Found ../marian-anthems/ave-regina-caelorum-simple-6_0_
+0.gtex directly on input line 533
 (../marian-anthems/ave-regina-caelorum-simple-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1709,7 +1666,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 584.
 LaTeX Warning: Reference `mdf@pagelabel-12' on page 14 undefined on input line 5
 87.
 
-[14] (./vespers-2022.aux)
+[14] (./03-19-2022_St_Joseph.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1722,7 +1679,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29322 strings out of 481365
+ 29342 strings out of 481365
  195331,794899 words of node,token memory allocated
  2515 words of node memory still in use:
    15 hlist, 7 vlist, 9 rule, 1 local_par, 10 glue, 15 kern, 6 penalty, 7 glyph,
@@ -1731,8 +1688,8 @@ Here is how much of LuaTeX's memory you used:
 4
  45792 multiletter control sequences out of 65536+600000
  68 fonts using 8725915 bytes
- 51i,12n,60p,860b,6013s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing vespers-2022.gaux on input line 0
+ 51i,12n,60p,868b,6013s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing 03-19-2022_St_Joseph.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
@@ -1741,7 +1698,7 @@ ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on vespers-2022.pdf (14 pages, 108300 bytes).
+Output written on 03-19-2022_St_Joseph.pdf (14 pages, 108300 bytes).
 
 PDF statistics: 76 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
