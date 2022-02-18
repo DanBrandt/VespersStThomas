@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  5 FEB 2022 22:25
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  17 FEB 2022 20:51
  system commands enabled.
 **03-26-2022.tex
 (./03-26-2022.tex
@@ -1181,7 +1181,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 9.60007pt on input line 137.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(../psalms/magnificat-8.tex)
+(../psalms/magnificat-3.tex)
 Package mdframed Info: mdframed works in twoside mode on input line 86.
 Module gregoriotex Info: Looking in  on input line 92
 Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 9
@@ -1201,11 +1201,6 @@ Module gregoriotex Info: Found an--o_doctor_optime_john_damascene--solesmes_1961
 Module gregoriotex Info: Looking in  on input line 133
 Module gregoriotex Info: Found an--o_doctor_optime_john_damascene--solesmes_1961
 -6_0_0.gtex directly on input line 133
-Module gregoriotex Info: an--o_doctor_optime_john_damascene--solesmes_1961.gabc 
-has been modified and an--o_doctor_optime_john_damascene--solesmes_1961-6_0_0.gt
-ex needs to be updated. Recompiling the gabc file. on input line 133
-Module gregoriotex Info: compiling the score an--o_doctor_optime_john_damascene-
--solesmes_1961.gabc... on input line 133
 
 (./an--o_doctor_optime_john_damascene--solesmes_1961-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1269,16 +1264,13 @@ Here is how much of LuaTeX's memory you used:
  45658 multiletter control sequences out of 65536+600000
  72 fonts using 9013019 bytes
  51i,12n,64p,837b,4446s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing 03-26-2022.gaux on input line 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/lo
 cal/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 03-26-2022.pdf (4 pages, 72105 bytes).
+Output written on 03-26-2022.pdf (4 pages, 71687 bytes).
 
 PDF statistics: 44 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream

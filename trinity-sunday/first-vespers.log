@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  14 FEB 2022 01:54
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  17 FEB 2022 19:09
  system commands enabled.
 **first-vespers.tex
 (./first-vespers.tex
@@ -1201,21 +1201,21 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 9.60007pt on input line 13.
 Module gregoriotex Info: Looking in  on input line 19
-Module gregoriotex Info: Found ../common/deus-in-adjutorium.gabc directly on inp
-ut line 19
+Module gregoriotex Info: Found ../common/deus-in-adjutorium-solemn.gabc directly
+ on input line 19
 Module gregoriotex Info: Looking in  on input line 19
-Module gregoriotex Info: Found ../common/deus-in-adjutorium-6_0_0.gtex directly 
-on input line 19
+Module gregoriotex Info: Found ../common/deus-in-adjutorium-solemn-6_0_0.gtex di
+rectly on input line 19
 
-(../common/deus-in-adjutorium-6_0_0.gtex
+(../common/deus-in-adjutorium-solemn-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 16.
+(Font)              scaled to size 7.68005pt on input line 15.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 16.
+(Font)              scaled to size 7.68005pt on input line 15.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 38.40027pt on input line 16.
+(Font)              scaled to size 38.40027pt on input line 15.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [1
 
@@ -1269,13 +1269,9 @@ Underfull \hbox (badness 1776) in paragraph at lines 19--21
  []
 
 )
-Underfull \hbox (badness 2103) in paragraph at lines 25--54
-[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
- []
-
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 8.64006pt on input line 54.
-(../psalms/english/ps109.tex) [2]
+ (../psalms/english/ps109.tex) [2]
 Package mdframed Info: mdframed works in twoside mode on input line 59.
 Package mdframed Info: mdframed works in twoside mode on input line 71.
 Module gregoriotex Info: Looking in  on input line 78
@@ -1737,18 +1733,21 @@ Here is how much of LuaTeX's memory you used:
  2378 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 11 glue, 13 kern, 6 penalty, 8 glyph,
  144 attribute, 301 glue_spec, 22 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:16194,3:1392,4:24,5:2096,6:165,7:3696,8:2,9:2420,10:23,11:
+   avail lists: 1:2,2:16194,3:1392,4:28,5:2096,6:165,7:3696,8:2,9:2420,10:23,11:
 4
  45821 multiletter control sequences out of 65536+600000
  75 fonts using 9219371 bytes
  51i,12n,64p,861b,2674s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing first-vespers.gaux on input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on first-vespers.pdf (13 pages, 102647 bytes).
+Output written on first-vespers.pdf (13 pages, 102828 bytes).
 
 PDF statistics: 73 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
