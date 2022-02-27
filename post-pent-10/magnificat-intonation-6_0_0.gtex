@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Magnificat.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{d2f23621d025f99d088c50f11662e0c19574b839}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{feab359ad54fa52a871e1e6469e214e7533aaf9e}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{8.G}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -72,19 +72,19 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{} }{}{\GreStar{}}{ }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{M}{a}{}{M}{a}}{}{{0}{0}}{}{%
+\GreSetFixedNextTextFormat{1}\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{} }{}{\GreStar{}}{ }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{M}{a}{}{M}{a}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{1}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{M}{a}{}{M}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{gn}{í}{}{g}{ní}}{}{{8}{0}}{}{%
+\GreSetFixedTextFormat{1}\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{M}{a}{}{M}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{gn}{í}{}{g}{ní}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{gn}{í}{}{g}{ní}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{f}{i}{}{f}{i}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{1}\GreSyllable{\GreSetThisSyllable{gn}{í}{}{g}{ní}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{f}{i}{}{f}{i}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{10}{\GreNextCustos{9}{}}{8}%
 {%
@@ -174,12 +174,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{2. }{E}{t}{2}{. Et}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{2. }{\GreItalic{E}}{\GreItalic{t}}{2}{. \GreItalic{E}\GreItalic{t}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{2. }{E}{t}{2}{. Et}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{x}{e}{x}}{}{{0}{0}}{}{%
+\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{2. }{\GreItalic{E}}{\GreItalic{t}}{2}{. \GreItalic{E}\GreItalic{t}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{x}{e}{x}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -187,7 +187,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{e}{x}{e}{x}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{u}{l}{s}{ul}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{1}\GreSyllable{\GreSetThisSyllable{}{e}{x}{e}{x}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{u}{l}{s}{ul}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{12}{}}{0}%
 {%

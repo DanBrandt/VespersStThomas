@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 FEB 2022 23:24
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 FEB 2022 23:56
  system commands enabled.
 **04-30-2022.tex
 (./04-30-2022.tex
@@ -1173,12 +1173,17 @@ Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Module gregoriotex Info: Looking in  on input line 91
+Module gregoriotex Info: Looking in  on input line 90
 Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
- 91
-Module gregoriotex Info: Looking in  on input line 91
+ 90
+Module gregoriotex Info: Looking in  on input line 90
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
-t line 91
+t line 90
+Module gregoriotex Info: magnificat-intonation.gabc has been modified and magnif
+icat-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on in
+put line 90
+Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
+put line 90
  (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1188,21 +1193,21 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/magni
 ficat-8.tex
 [2])
-Package mdframed Info: mdframed works in twoside mode on input line 96.
-Module gregoriotex Info: Looking in  on input line 102
+Package mdframed Info: mdframed works in twoside mode on input line 95.
+Module gregoriotex Info: Looking in  on input line 101
 Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 1
-02
-Module gregoriotex Info: Looking in  on input line 102
+01
+Module gregoriotex Info: Looking in  on input line 101
 Module gregoriotex Info: Found magnificat-antiphon-6_0_0.gtex directly on input 
-line 102
+line 101
  (./magnificat-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 107.
+Package mdframed Info: mdframed works in twoside mode on input line 106.
 
-Underfull \hbox (badness 4108) in paragraph at lines 135--135
+Underfull \hbox (badness 4108) in paragraph at lines 134--134
 \T1/mdbch/m/n/10 gaudiis fácias pérfrui sempitérnis. Per eúmdem
  []
 
@@ -1210,12 +1215,12 @@ Underfull \hbox (badness 4108) in paragraph at lines 135--135
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-Module gregoriotex Info: Looking in  on input line 146
+Module gregoriotex Info: Looking in  on input line 145
 Module gregoriotex Info: Found ../commemorations/an--ego_sum_pastor_ovium--soles
-mes.gabc directly on input line 146
-Module gregoriotex Info: Looking in  on input line 146
+mes.gabc directly on input line 145
+Module gregoriotex Info: Looking in  on input line 145
 Module gregoriotex Info: Found ../commemorations/an--ego_sum_pastor_ovium--soles
-mes-6_0_0.gtex directly on input line 146
+mes-6_0_0.gtex directly on input line 145
 
 (../commemorations/an--ego_sum_pastor_ovium--solesmes-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1228,56 +1233,57 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
 (Font)              scaled to size 9.60007pt on input line 12.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 171
+Module gregoriotex Info: Looking in  on input line 170
 Module gregoriotex Info: Found ../commemorations/virgin-2v-pt.gabc directly on i
-nput line 171
-Module gregoriotex Info: Looking in  on input line 171
+nput line 170
+Module gregoriotex Info: Looking in  on input line 170
 Module gregoriotex Info: Found ../commemorations/virgin-2v-pt-6_0_0.gtex directl
-y on input line 171
+y on input line 170
 
 (../commemorations/virgin-2v-pt-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 2644) in paragraph at lines 189--189
-\T1/mdbch/m/n/10 solemnitáte lætémur, et tantæ virtútis proficiámus
+Underfull \hbox (badness 1048) in paragraph at lines 188--188
+\T1/mdbch/m/n/10 beátæ Catharínæ Vírginis tuæ natalícia cólimus; et
  []
 
-Module gregoriotex Info: Looking in  on input line 207
+
+Overfull \hbox (2.6139pt too wide) in paragraph at lines 188--188
+\T1/mdbch/m/n/10 ánnua solemnitáte lætémur, et tantæ virtútis proficiámu
+s
+ []
+
+Module gregoriotex Info: Looking in  on input line 206
 Module gregoriotex Info: Found ../common/benedicamus-tp.gabc directly on input l
-ine 207
-Module gregoriotex Info: Looking in  on input line 207
+ine 206
+Module gregoriotex Info: Looking in  on input line 206
 Module gregoriotex Info: Found ../common/benedicamus-tp-6_0_0.gtex directly on i
-nput line 207
+nput line 206
 (../common/benedicamus-tp-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
-Package mdframed Info: mdframed works in twoside mode on input line 234.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4]
+Package mdframed Info: mdframed works in twoside mode on input line 233.
  [5] (./04-30-2022.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 )
 
 Here is how much of LuaTeX's memory you used:
  29135 strings out of 481365
- 244174,794899 words of node,token memory allocated
- 2325 words of node memory still in use:
+ 244175,794899 words of node,token memory allocated
+ 2330 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 10 glue, 15 kern, 6 penalty, 7 glyph,
- 151 attribute, 288 glue_spec, 23 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:5,2:38150,3:2801,4:72,5:4544,6:287,7:5456,8:3,9:5624,10:68,11:
+ 151 attribute, 289 glue_spec, 23 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:3,2:38159,3:2801,4:72,5:4543,6:287,7:5457,8:4,9:5625,10:68,11:
 1
  45658 multiletter control sequences out of 65536+600000
  72 fonts using 9014331 bytes
- 51i,12n,65p,837b,6864s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,12n,65p,837b,6866s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing 04-30-2022.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1287,7 +1293,7 @@ ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 04-30-2022.pdf (5 pages, 78137 bytes).
+Output written on 04-30-2022.pdf (5 pages, 79201 bytes).
 
 PDF statistics: 47 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream

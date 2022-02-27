@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  5 FEB 2022 22:25
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 FEB 2022 22:02
  system commands enabled.
 **03-12-2022.tex
 (./03-12-2022.tex
@@ -1177,6 +1177,11 @@ Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
 Module gregoriotex Info: Looking in  on input line 81
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
 t line 81
+Module gregoriotex Info: magnificat-intonation.gabc has been modified and magnif
+icat-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on in
+put line 81
+Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
+put line 81
  (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1227,37 +1232,24 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
 (Font)              scaled to size 9.60007pt on input line 12.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 1122) in paragraph at lines 153--153
+Underfull \hbox (badness 1122) in paragraph at lines 152--152
 \T1/mdbch/m/n/10 qui peccatórum nostrórum póndere prémimur, ejus
  []
 
-
-Underfull \hbox (badness 1189) in paragraph at lines 153--153
-\T1/mdbch/m/n/10 Jesum Christum, Fílium tuum: qui tecum vivit et
- []
-
-Module gregoriotex Info: Looking in  on input line 171
+Module gregoriotex Info: Looking in  on input line 170
 Module gregoriotex Info: Found ../common/benedicamus-advent-lent.gabc directly o
-n input line 171
-Module gregoriotex Info: Looking in  on input line 171
+n input line 170
+Module gregoriotex Info: Looking in  on input line 170
 Module gregoriotex Info: Found ../common/benedicamus-advent-lent-6_0_0.gtex dire
-ctly on input line 171
+ctly on input line 170
 (../common/benedicamus-advent-lent-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 198.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
-Package mdframed Info: Not enough space on this page on input line 201.
-
-[4] (./03-12-2022.aux)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [3]
+Package mdframed Info: mdframed works in twoside mode on input line 197.
+Package mdframed Info: Not enough space on this page on input line 200.
+ [4] (./03-12-2022.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1266,21 +1258,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  29120 strings out of 481365
  156259,794899 words of node,token memory allocated
- 2295 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 10 glue, 15 kern, 6 penalty, 7 glyph,
- 151 attribute, 282 glue_spec, 23 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:5,2:23624,3:1810,4:59,5:2727,6:181,7:3747,8:2,9:3436,10:52,11:
+ 2380 words of node memory still in use:
+   15 hlist, 6 vlist, 9 rule, 1 local_par, 10 glue, 15 kern, 6 penalty, 7 glyph,
+ 172 attribute, 284 glue_spec, 26 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:5,2:23600,3:1810,4:59,5:2725,6:181,7:3990,8:2,9:3433,10:52,11:
 1
  45658 multiletter control sequences out of 65536+600000
  72 fonts using 9013019 bytes
  51i,11n,64p,837b,4446s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing 03-12-2022.gaux on input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/lo
 cal/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 03-12-2022.pdf (4 pages, 71156 bytes).
+Output written on 03-12-2022.pdf (4 pages, 71944 bytes).
 
 PDF statistics: 44 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream

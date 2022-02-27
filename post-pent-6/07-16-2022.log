@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  18 FEB 2022 23:54
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  27 FEB 2022 01:30
  system commands enabled.
 **07-16-2022.tex
 (./07-16-2022.tex
@@ -1219,11 +1219,6 @@ Underfull \hbox (badness 1112) in paragraph at lines 108--108
 \T1/mdbch/m/n/10 Christum, Fílium tuum: qui tecum vivit et regnat
  []
 
-
-Underfull \hbox (badness 2111) in paragraph at lines 108--108
-\T1/mdbch/m/n/10 in unitáte Spíritus Sancti, Deus, per ómnia sǽcula
- []
-
 Module gregoriotex Info: Looking in  on input line 117
 Module gregoriotex Info: Found ../commemorations/conf-non-pont-1v.gabc directly 
 on input line 117
@@ -1260,21 +1255,19 @@ Overfull \hbox (38.02524pt too wide) in paragraph at lines 162--162
 ónem
  []
 
-[3
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
-Module gregoriotex Info: Looking in  on input line 179
+[3]
+Module gregoriotex Info: Looking in  on input line 180
 Module gregoriotex Info: Found ../common/benedicamus-tone-8.gabc directly on inp
-ut line 179
-Module gregoriotex Info: Looking in  on input line 179
+ut line 180
+Module gregoriotex Info: Looking in  on input line 180
 Module gregoriotex Info: Found ../common/benedicamus-tone-8-6_0_0.gtex directly 
-on input line 179
+on input line 180
  (../common/benedicamus-tone-8-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 206.
+Package mdframed Info: mdframed works in twoside mode on input line 207.
  [4] (./07-16-2022.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1284,10 +1277,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  29133 strings out of 481365
  100000,794899 words of node,token memory allocated
- 2293 words of node memory still in use:
+ 2308 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 11 glue, 13 kern, 6 penalty, 8 glyph,
- 144 attribute, 284 glue_spec, 22 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:14438,3:1111,4:31,5:1698,6:154,7:4774,8:2,9:2115,10:27,11:
+ 144 attribute, 287 glue_spec, 22 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:2,2:14438,3:1110,4:31,5:1695,6:154,7:4775,8:2,9:2115,10:27,11:
 2
  45658 multiletter control sequences out of 65536+600000
  72 fonts using 9013675 bytes
@@ -1298,7 +1291,7 @@ ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 07-16-2022.pdf (4 pages, 71471 bytes).
+Output written on 07-16-2022.pdf (4 pages, 72095 bytes).
 
 PDF statistics: 44 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream

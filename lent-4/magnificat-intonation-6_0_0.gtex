@@ -9,7 +9,7 @@
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreHeader{annotation}{3a}%
 \GreEndHeaders %
-\GreBeginScore{2a4e74173dc3c07b854cab266fc37bd00c04b32d}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{747245358ba8e09f08928229f4c022977dbf9c9c}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreAnnotationLines{3a}{}%
 \GreMode{\GreModeNumber{3}}{}{}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
@@ -71,19 +71,19 @@
 }{}{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}\GreStar{}}{}{\GreStar{}}{\GreStar{}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{1. M}{a}{}{1}{. Ma}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}\GreStar{}}{}{\GreStar{}}{\GreStar{}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{1. \GreItalic{M}}{\GreItalic{a}}{}{1}{. \GreItalic{M}\GreItalic{a}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{1}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{1. M}{a}{}{1}{. Ma}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{gn}{í}{}{g}{ní}}{}{{0}{0}}{}{%
+\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{1. \GreItalic{M}}{\GreItalic{a}}{}{1}{. \GreItalic{M}\GreItalic{a}}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{gn}{í}{}{g}{ní}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{gn}{í}{}{g}{ní}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{f}{i}{}{f}{i}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{1}\GreSyllable{\GreSetThisSyllable{gn}{í}{}{g}{ní}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{f}{i}{}{f}{i}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -173,12 +173,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{2. }{E}{t}{2}{. Et}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{2. }{\GreItalic{E}}{\GreItalic{t}}{2}{. \GreItalic{E}\GreItalic{t}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{2. }{E}{t}{2}{. Et}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{x}{e}{x}}{}{{0}{0}}{}{%
+\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{2. }{\GreItalic{E}}{\GreItalic{t}}{2}{. \GreItalic{E}\GreItalic{t}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{x}{e}{x}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -186,7 +186,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{e}{x}{e}{x}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{u}{l}{s}{ul}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{1}\GreSyllable{\GreSetThisSyllable{}{e}{x}{e}{x}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{u}{l}{s}{ul}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{10}{\GreNextCustos{11}{}}{0}%
 {%

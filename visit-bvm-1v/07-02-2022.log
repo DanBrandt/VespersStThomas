@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  17 FEB 2022 23:58
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  27 FEB 2022 01:22
  system commands enabled.
 **07-02-2022.tex
 (./07-02-2022.tex
@@ -1481,8 +1481,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7
 Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
 ]
 Module gregoriotex Info: Looking in  on input line 195
 Module gregoriotex Info: Found ../hymns/ave-maris-stella.gabc directly on input 
@@ -1535,13 +1533,15 @@ Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (1.9456pt too wide) in paragraph at lines 294--294
-[]\T1/mdbch/m/n/10 3. Quia respéxit humilitátem ancíllæ
+Overfull \hbox (1.8112pt too wide) in paragraph at lines 294--294
+[]\T1/mdbch/m/n/10 3. \T1/mdbch/m/it/10 Quia \T1/mdbch/m/n/10 respéxit humilit
+átem ancíllæ
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 294--294
-[]\T1/mdbch/m/n/10 10. Sicut locútus est ad patres
+Underfull \hbox (badness 1436) in paragraph at lines 294--294
+[]\T1/mdbch/m/n/10 10. \T1/mdbch/m/it/10 Sicut \T1/mdbch/m/n/10 locútus est ad
+ patres
  []
 
 (../psalms/english/magnificat.tex
@@ -1556,10 +1556,7 @@ Underfull \hbox (badness 1478) in paragraph at lines 19--20
 
 )
 Package mdframed Info: mdframed works in twoside mode on input line 305.
- [11
-Missing character: There is no ǽ (U+01FD) in font mdbchb8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
+ [11]
 Overfull \hbox (23.04715pt too wide) in paragraph at lines 333--333
 \T1/mdbch/m/n/10 Dómine, cæléstis grátiæ munus impertíre:
  []
@@ -1644,10 +1641,7 @@ Underfull \hbox (badness 1448) in paragraph at lines 361--362
 \T1/mdbch/m/it/9 thou didst constitute Shepherd of the
  []
 
-[12
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
+[12]
 Module gregoriotex Info: Looking in  on input line 369
 Module gregoriotex Info: Found ../commemorations/praevaluit_david.gabc directly 
 on input line 369
@@ -1664,14 +1658,16 @@ Overfull \hbox (9.23843pt too wide) in paragraph at lines 384--384
  []
 
 
-Overfull \hbox (8.25096pt too wide) in paragraph at lines 384--384
-[]\T1/mdbch/m/n/10 Orémus. Da nobis, quǽsumus, Dómine:
+Underfull \hbox (badness 2521) in paragraph at lines 384--384
+[]\T1/mdbch/m/n/10 Orémus. Da nobis, qu[]æsumus,
  []
 
-[13
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
+
+Overfull \hbox (4.64641pt too wide) in paragraph at lines 384--384
+\T1/mdbch/m/n/10 nobis tuo órdine dirigátur; et Ecclésia
+ []
+
+[13]
 Module gregoriotex Info: Looking in  on input line 400
 Module gregoriotex Info: Found ../common/benedicamus-2v-double.gabc directly on 
 input line 400
@@ -1762,7 +1758,7 @@ ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 07-02-2022.pdf (15 pages, 106490 bytes).
+Output written on 07-02-2022.pdf (15 pages, 107562 bytes).
 
 PDF statistics: 79 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream

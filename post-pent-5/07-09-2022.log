@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  18 FEB 2022 21:57
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  27 FEB 2022 01:26
  system commands enabled.
 **07-09-2022.tex
 (./07-09-2022.tex
@@ -1046,14 +1046,7 @@ Sidefoothsep and sidefootwidth: 7pt and 128pt
 Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-) (./07-09-2022.aux
-
-Package babel Warning: Unknown language `latin'. Very likely you
-(babel)                requested it in a previous run. Expect some
-(babel)                wrong results in this run, which should vanish
-(babel)                in the next one. Reported on input line 6.
-
-)
+) (./07-09-2022.aux)
 \openout1 = 07-09-2022.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -1187,6 +1180,11 @@ Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
 Module gregoriotex Info: Looking in  on input line 68
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
 t line 68
+Module gregoriotex Info: magnificat-intonation.gabc has been modified and magnif
+icat-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on in
+put line 68
+Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
+put line 68
  (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1194,6 +1192,10 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/magni
 ficat-1.tex)
 Package mdframed Info: mdframed works in twoside mode on input line 73.
+
+LaTeX Warning: Reference `mdf@pagelabel-1' on page 2 undefined on input line 76.
+
+
 Module gregoriotex Info: Looking in  on input line 79
 Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 7
 9
@@ -1222,6 +1224,11 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 84.
 
+
+LaTeX Warning: Reference `mdf@pagelabel-2' on page 3 undefined on input line 87.
+
+
+
 Overfull \hbox (9.02927pt too wide) in paragraph at lines 107--107
 \T1/mdbch/m/n/10 præparásti: \gre@font@variant@D \T1/mdbch/m/n/10 infúnde
  córdibus nostris tui amóris afféctum;
@@ -1244,17 +1251,19 @@ Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (2.59084pt too wide) in paragraph at lines 133--133
-\T1/mdbch/m/n/10 gloriósos Mártyres fortes in sua confessióne cognóvimus,
+Underfull \hbox (badness 4981) in paragraph at lines 133--133
+[]\T1/mdbch/m/n/10 Orémus. Præsta, qu[]æsumus, omnípotens Deus:
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 133--133
+\T1/mdbch/m/n/10 cognóvimus, pios apud te in nostra intercessióne
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
+ [3]
 Module gregoriotex Info: Looking in  on input line 144
 Module gregoriotex Info: Found ../commemorations/suffrage-saints.gabc directly o
 n input line 144
@@ -1267,18 +1276,13 @@ Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 2538) in paragraph at lines 172--172
-\T1/mdbch/m/n/10 libertáte. Per eúndem Dóminum nostrum Jesum
+Underfull \hbox (badness 1881) in paragraph at lines 172--172
+\T1/mdbch/m/n/10 libertáte. Per eúmdem Dóminum nostrum Jesum
  []
 
 
 Underfull \hbox (badness 2547) in paragraph at lines 172--172
 \T1/mdbch/m/n/10 Christum Fílium tuum, qui tecum vivit et regnat
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 172--172
-\T1/mdbch/m/n/10 in unitáte Spíritus Sancti, Deus, per ómnia sǽcula
  []
 
 Module gregoriotex Info: Looking in  on input line 190
@@ -1293,32 +1297,44 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 217.
- [4
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-] (./07-09-2022.aux)
+
+
+LaTeX Warning: Reference `mdf@pagelabel-3' on page 4 undefined on input line 220
+.
+
+[4] (./07-09-2022.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29133 strings out of 481365
- 156261,794899 words of node,token memory allocated
+ 29132 strings out of 481365
+ 156267,794899 words of node,token memory allocated
  2308 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 11 glue, 13 kern, 6 penalty, 8 glyph,
  144 attribute, 287 glue_spec, 22 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:27035,3:2032,4:31,5:3256,6:269,7:4530,8:3,9:4184,10:27,11:
+   avail lists: 1:3,2:27249,3:2032,4:31,5:3267,6:269,7:4530,8:4,9:4184,10:27,11:
 1
- 45658 multiletter control sequences out of 65536+600000
+ 45657 multiletter control sequences out of 65536+600000
  72 fonts using 9013675 bytes
- 51i,11n,64p,837b,3179s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,11n,64p,837b,3177s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing 07-09-2022.gaux on input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/lo
 cal/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 07-09-2022.pdf (4 pages, 75394 bytes).
+Output written on 07-09-2022.pdf (4 pages, 76219 bytes).
 
 PDF statistics: 44 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream

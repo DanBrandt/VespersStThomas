@@ -9,7 +9,7 @@
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreHeader{annotation}{1D}%
 \GreEndHeaders %
-\GreBeginScore{ffbdcf5c3da7ba3ff3f0dbb8636ae5687f443163}{11}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{9c586b0d9f3ebba64e6e7a5f6883a022a1261f54}{11}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{1D}{}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
@@ -129,12 +129,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{2. }{E}{t}{2}{. Et}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{2. }{\GreItalic{E}}{\GreItalic{t}}{2}{. \GreItalic{E}\GreItalic{t}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{2. }{E}{t}{2}{. Et}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{x}{e}{x}}{}{{0}{0}}{}{%
+\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{2. }{\GreItalic{E}}{\GreItalic{t}}{2}{. \GreItalic{E}\GreItalic{t}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{x}{e}{x}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
@@ -142,7 +142,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{e}{x}{e}{x}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{u}{l}{s}{ul}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{1}\GreSyllable{\GreSetThisSyllable{}{e}{x}{e}{x}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{u}{l}{s}{ul}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{10}{}}{0}%
 {%

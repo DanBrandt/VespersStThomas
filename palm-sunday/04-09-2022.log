@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 FEB 2022 22:26
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 FEB 2022 23:43
  system commands enabled.
 **04-09-2022.tex
 (./04-09-2022.tex
@@ -844,6 +844,7 @@ Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
 (04-09-2022.gaux)
+Module gregoriotex Info: Reading 04-09-2022.gaux on input line 125
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write4
 \gre@read@temp=\read4
@@ -1045,10 +1046,16 @@ Sidefoothsep and sidefootwidth: 7pt and 128pt
 Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-)
-No file 04-09-2022.aux.
+) (./04-09-2022.aux
 
+Package babel Warning: Unknown language `latin'. Very likely you
+(babel)                requested it in a previous run. Expect some
+(babel)                wrong results in this run, which should vanish
+(babel)                in the next one. Reported on input line 6.
+
+)
 \openout1 = 04-09-2022.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
@@ -1060,7 +1067,7 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -1136,10 +1143,6 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 Package mdframed Info: mdframed works in twoside mode on input line 32.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 9.60007pt on input line 33.
-
-LaTeX Warning: Reference `mdf@pagelabel-1' on page 1 undefined on input line 35.
-
-
 Module gregoriotex Info: Looking in  on input line 38
 Module gregoriotex Info: Found ../hymns/vexilla-regis-passiontide.gabc directly 
 on input line 38
@@ -1182,10 +1185,11 @@ Module gregoriotex Info: Looking in  on input line 95
 Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
  95
 Module gregoriotex Info: Looking in  on input line 95
-Module gregoriotex Info: Cannot find magnificat-intonation-6_0_0.gtex on input l
-ine 95
-Module gregoriotex Info: The file magnificat-intonation-6_0_0.gtex does not exis
-t. Will use gabc file on input line 95
+Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
+t line 95
+Module gregoriotex Info: magnificat-intonation.gabc has been modified and magnif
+icat-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on in
+put line 95
 Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
 put line 95
  (./magnificat-intonation-6_0_0.gtex
@@ -1195,32 +1199,18 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 (../psalms/magnificat-4-E-A-d.tex [2])
 Package mdframed Info: mdframed works in twoside mode on input line 100.
-
-
-LaTeX Warning: Reference `mdf@pagelabel-2' on page 3 undefined on input line 103
-.
-
 Module gregoriotex Info: Looking in  on input line 106
 Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 1
 06
 Module gregoriotex Info: Looking in  on input line 106
-Module gregoriotex Info: Cannot find magnificat-antiphon-6_0_0.gtex on input lin
-e 106
-Module gregoriotex Info: The file magnificat-antiphon-6_0_0.gtex does not exist.
- Will use gabc file on input line 106
-Module gregoriotex Info: compiling the score magnificat-antiphon.gabc... on inpu
-t line 106
-(./magnificat-antiphon-6_0_0.gtex
+Module gregoriotex Info: Found magnificat-antiphon-6_0_0.gtex directly on input 
+line 106
+ (./magnificat-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 111.
-
-
-LaTeX Warning: Reference `mdf@pagelabel-3' on page 3 undefined on input line 114
-.
-
 
 Overfull \hbox (3.8274pt too wide) in paragraph at lines 141--141
 \T1/mdbch/m/n/10 generi, ad imitandum humilitátis exémplum, Salvatórem
@@ -1249,16 +1239,14 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 186.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `mdf@pagelabel-4' on page 3 undefined on input line 189
-.
+ [3]
+Package mdframed Info: Not enough space on this page on input line 189.
 
-[3] (./04-09-2022.aux)
+[4] (./04-09-2022.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1266,16 +1254,16 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29102 strings out of 481365
- 244162,794899 words of node,token memory allocated
+ 29112 strings out of 481365
+ 244172,794899 words of node,token memory allocated
  2254 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 10 glue, 13 kern, 6 penalty, 7 glyph,
  144 attribute, 279 glue_spec, 22 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:6,2:36617,3:2864,4:75,5:4337,6:284,7:5674,8:3,9:5493,10:67,11:
+   avail lists: 1:6,2:36617,3:2859,4:65,5:4331,6:284,7:5626,8:2,9:5493,10:59,11:
 1
- 45658 multiletter control sequences out of 65536+600000
+ 45659 multiletter control sequences out of 65536+600000
  72 fonts using 9012363 bytes
- 51i,12n,60p,837b,6502s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,12n,60p,837b,6568s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing 04-09-2022.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1285,10 +1273,10 @@ ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 04-09-2022.pdf (3 pages, 72370 bytes).
+Output written on 04-09-2022.pdf (4 pages, 73154 bytes).
 
-PDF statistics: 41 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+PDF statistics: 44 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

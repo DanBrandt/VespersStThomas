@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  17 FEB 2022 20:51
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 FEB 2022 22:26
  system commands enabled.
 **03-26-2022.tex
 (./03-26-2022.tex
@@ -1195,13 +1195,17 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [2]
 Package mdframed Info: mdframed works in twoside mode on input line 97.
+
+Underfull \hbox (badness 1112) in paragraph at lines 124--124
+\T1/mdbch/m/n/10 Christum, Fílium tuum: qui tecum vivit et regnat
+ []
+
 Module gregoriotex Info: Looking in  on input line 133
 Module gregoriotex Info: Found an--o_doctor_optime_john_damascene--solesmes_1961
 .gabc directly on input line 133
 Module gregoriotex Info: Looking in  on input line 133
 Module gregoriotex Info: Found an--o_doctor_optime_john_damascene--solesmes_1961
 -6_0_0.gtex directly on input line 133
-
 (./an--o_doctor_optime_john_damascene--solesmes_1961-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1213,41 +1217,43 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
 (Font)              scaled to size 9.60007pt on input line 12.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 1953) in paragraph at lines 151--151
+Underfull \hbox (badness 1953) in paragraph at lines 152--152
 \T1/mdbch/m/n/10 sacrárum imáginum asseréndum, beátum Joánnem
  []
 
 
-Overfull \hbox (7.56355pt too wide) in paragraph at lines 151--151
+Overfull \hbox (7.56355pt too wide) in paragraph at lines 152--152
 \T1/mdbch/m/n/10 cælésti doctrína et admirábili spíritus fortitúdine imbu
 ísti:
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 151--151
+Underfull \hbox (badness 3364) in paragraph at lines 152--152
 \T1/mdbch/m/n/10 concéde nobis ejus intercessióne et exémplo; ut,
  []
 
 
-Overfull \hbox (6.9243pt too wide) in paragraph at lines 151--151
+Overfull \hbox (6.9243pt too wide) in paragraph at lines 152--152
 \T1/mdbch/m/n/10 quorum cólimus imágines, virtútes imitémur et patrocínia
  []
 
-Module gregoriotex Info: Looking in  on input line 170
+Module gregoriotex Info: Looking in  on input line 171
 Module gregoriotex Info: Found ../common/benedicamus-advent-lent.gabc directly o
-n input line 170
-Module gregoriotex Info: Looking in  on input line 170
+n input line 171
+Module gregoriotex Info: Looking in  on input line 171
 Module gregoriotex Info: Found ../common/benedicamus-advent-lent-6_0_0.gtex dire
-ctly on input line 170
+ctly on input line 171
 (../common/benedicamus-advent-lent-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [3
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
-Package mdframed Info: mdframed works in twoside mode on input line 197.
- [4] (./03-26-2022.aux)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Underfull \vbox (badness 1845) has occurred while \output is active []
+
+ [3]
+Package mdframed Info: mdframed works in twoside mode on input line 198.
+
+[4] (./03-26-2022.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1256,10 +1262,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  29120 strings out of 481365
  156259,794899 words of node,token memory allocated
- 2380 words of node memory still in use:
-   15 hlist, 6 vlist, 9 rule, 1 local_par, 10 glue, 15 kern, 6 penalty, 7 glyph,
- 172 attribute, 284 glue_spec, 26 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:6,2:23600,3:1810,4:59,5:2726,6:181,7:3740,8:2,9:3435,10:52,11:
+ 2395 words of node memory still in use:
+   15 hlist, 7 vlist, 9 rule, 1 local_par, 10 glue, 15 kern, 6 penalty, 7 glyph,
+ 179 attribute, 282 glue_spec, 27 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:6,2:23592,3:1810,4:59,5:2728,6:181,7:3980,8:2,9:3434,10:52,11:
 1
  45658 multiletter control sequences out of 65536+600000
  72 fonts using 9013019 bytes
@@ -1270,7 +1276,7 @@ ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 03-26-2022.pdf (4 pages, 71687 bytes).
+Output written on 03-26-2022.pdf (4 pages, 72581 bytes).
 
 PDF statistics: 44 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
