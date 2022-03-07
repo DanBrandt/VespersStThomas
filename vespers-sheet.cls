@@ -14,6 +14,7 @@
 \RequirePackage{paracol}
 \RequirePackage{mdframed}
 \RequirePackage{paracol}
+\RequirePackage{xcolor}
 
 \RequirePackage{babel}
 %\babelprovide[hyphenrules=liturgicallatin]{ecclesiasticlatin}

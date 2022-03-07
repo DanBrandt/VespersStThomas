@@ -6,7 +6,7 @@
 \GreHeader{office-part}{Toni Communes}%
 \GreHeader{book}{The Liber Usualis, 1961, p. 112 & The Liber Usualis, 1961, p. 250}%
 \GreEndHeaders %
-\GreBeginScore{af42486729471a294784ded6eef060166d88bbfa}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{d73c5790c1d388409cee35160967658190902be5}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -225,7 +225,7 @@
 \GreGlyphHeights{10}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{n}{a}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{n}{a\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{n}{a}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{n}{a\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreItalic{\GreColored{\GreSpecial{(}b}}}{\GreItalic{\GreColored{o}}}{\GreItalic{\GreColored{w\GreSpecial{)}}} }{\GreItalic{\GreColored{\GreSpecial{(}}}}{\GreItalic{\GreColored{b}}\GreItalic{\GreColored{o}}\GreItalic{\GreColored{w\GreSpecial{)}}} }}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{8}{}}{0}%
 {%
@@ -236,9 +236,9 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Gl}{ó}{}{G}{ló}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{\GreItalic{\GreColored{\GreSpecial{(}b}}}{\GreItalic{\GreColored{o}}}{\GreItalic{\GreColored{w\GreSpecial{)}}} }{\GreItalic{\GreColored{\GreSpecial{(}}}}{\GreItalic{\GreColored{b}}\GreItalic{\GreColored{o}}\GreItalic{\GreColored{w\GreSpecial{)}}} }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Gl}{ó}{}{G}{ló}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioFinalis{1}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{Gl}{ó}{}{G}{ló}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{i}{}{r}{i}}{}{{0}{0}}{}{%
@@ -369,7 +369,7 @@
 \GreGlyphHeights{10}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{ct}{o}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{c}{to\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ct}{o}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{c}{to\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreItalic{\GreColored{\GreSpecial{(}r}}}{\GreItalic{\GreColored{i}}}{\GreItalic{\GreColored{se\GreSpecial{)}}}}{\GreItalic{\GreColored{\GreSpecial{(}}}}{\GreItalic{\GreColored{r}}\GreItalic{\GreColored{i}}\GreItalic{\GreColored{se\GreSpecial{)}}}}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{8}{}}{0}%
 {%
@@ -380,9 +380,9 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{S}{i}{}{S}{i}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{\GreItalic{\GreColored{\GreSpecial{(}r}}}{\GreItalic{\GreColored{i}}}{\GreItalic{\GreColored{se\GreSpecial{)}}}}{\GreItalic{\GreColored{\GreSpecial{(}}}}{\GreItalic{\GreColored{r}}\GreItalic{\GreColored{i}}\GreItalic{\GreColored{se\GreSpecial{)}}}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{S}{i}{}{S}{i}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioMaior{0}{}%
+\GreDivisioMaior{1}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{S}{i}{}{S}{i}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{t}{c}{ut}}{}{{0}{0}}{}{%

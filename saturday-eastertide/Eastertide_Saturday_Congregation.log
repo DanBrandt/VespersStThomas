@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 FEB 2022 22:44
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  6 MAR 2022 00:39
  system commands enabled.
 **Eastertide_Saturday_Congregation.tex
 (./Eastertide_Saturday_Congregation.tex
@@ -731,6 +731,24 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@zref@counter=\count314
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/02/14 3.40 The Babel package
 
@@ -764,24 +782,6 @@ File: babel.def 2020/02/14 3.40 Babel common definitions
 (/usr/local/share/texmf/tex/lualatex/gregoriotex/gregoriotex.sty
 Package: gregoriotex 2021/03/13 v6.0.0 GregorioTeX system.
 
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: luatex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
 (/usr/share/texlive/texmf-dist/tex/latex/luacolor/luacolor.sty
 Package: luacolor 2019/11/29 v1.13 Color support via LuaTeX's attributes (HO)
 \LuaCol@Attribute=\attribute7
@@ -844,6 +844,8 @@ Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
 (Eastertide_Saturday_Congregation.gaux)
+Module gregoriotex Info: Reading Eastertide_Saturday_Congregation.gaux on input 
+line 125
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write4
 \gre@read@temp=\read4
@@ -1115,9 +1117,22 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \colbreak@box=\box122
 \mc@col@check@num=\count384
 )
-No file Eastertide_Saturday_Congregation.aux.
+(./Eastertide_Saturday_Congregation.aux
 
+Package babel Warning: Unknown language `latin'. Very likely you
+(babel)                requested it in a previous run. Expect some
+(babel)                wrong results in this run, which should vanish
+(babel)                in the next one. Reported on input line 8.
+
+
+Package babel Warning: Unknown language `english'. Very likely you
+(babel)                requested it in a previous run. Expect some
+(babel)                wrong results in this run, which should vanish
+(babel)                in the next one. Reported on input line 25.
+
+)
 \openout1 = Eastertide_Saturday_Congregation.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
@@ -1129,7 +1144,7 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 4.
@@ -1188,17 +1203,13 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 10.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 11.52008pt on input line 11.
-
-
-LaTeX Warning: Reference `mdf@pagelabel-1' on page 1 undefined on input line 14.
-
-
 Module gregoriotex Info: Looking in  on input line 17
 Module gregoriotex Info: Found ../common/deus-in-adjutorium.gabc directly on inp
 ut line 17
 Module gregoriotex Info: Looking in  on input line 17
 Module gregoriotex Info: Found ../common/deus-in-adjutorium-6_0_0.gtex directly 
 on input line 17
+
 (../common/deus-in-adjutorium-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1218,17 +1229,12 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 16.58891pt on input line 28.
 Package mdframed Info: mdframed works in twoside mode on input line 33.
-
-
-LaTeX Warning: Reference `mdf@pagelabel-2' on page 2 undefined on input line 36.
-
-
 Module gregoriotex Info: Looking in  on input line 39
 Module gregoriotex Info: Found ps143-intonation.gabc directly on input line 39
 Module gregoriotex Info: Looking in  on input line 39
 Module gregoriotex Info: Found ps143-intonation-6_0_0.gtex directly on input lin
 e 39
-(./ps143-intonation-6_0_0.gtex
+ (./ps143-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1273,17 +1279,12 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 10.51207pt on input line 31.
 [2])
 Package mdframed Info: mdframed works in twoside mode on input line 56.
-
-
-LaTeX Warning: Reference `mdf@pagelabel-3' on page 3 undefined on input line 60.
-
-
 Module gregoriotex Info: Looking in  on input line 63
 Module gregoriotex Info: Found ps144-intonation.gabc directly on input line 63
 Module gregoriotex Info: Looking in  on input line 63
 Module gregoriotex Info: Found ps144-intonation-6_0_0.gtex directly on input lin
 e 63
-(./ps144-intonation-6_0_0.gtex
+ (./ps144-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1344,6 +1345,18 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Underfull \hbox (badness 1253) in paragraph at lines 13--14
 \T1/mdbch/m/n/12 et víduam \T1/mdbch/m/it/12 su\T1/mdbch/b/n/12 scí\T1/mdbch/
 m/n/12 piet: * et vias peccató\T1/mdbch/m/it/12 rum
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 15--16
+[]\T1/mdbch/m/n/12 9. Regnábit Dóminus in s[]æcula, Deus
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 15--16
+\T1/mdbch/m/n/12 tu\T1/mdbch/m/it/12 us\T1/mdbch/m/n/12 , \T1/mdbch/b/n/12 Si\T
+1/mdbch/m/n/12 on, * \T1/mdbch/m/it/12 (stand) \T1/mdbch/m/n/12 in generatióne
+m et
  []
 
 )
@@ -1446,67 +1459,55 @@ Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 137.
+Package mdframed Info: mdframed works in twoside mode on input line 139.
 
-
-LaTeX Warning: Reference `mdf@pagelabel-4' on page 7 undefined on input line 140
-.
-
-Module gregoriotex Info: Looking in  on input line 145
-Module gregoriotex Info: Found ../hymns/ad-coenam-agni.gabc directly on input li
-ne 145
-Module gregoriotex Info: Looking in  on input line 145
-Module gregoriotex Info: Found ../hymns/ad-coenam-agni-6_0_0.gtex directly on in
-put line 145
-(../hymns/ad-coenam-agni-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
+Module gregoriotex Info: Looking in  on input line 149
+Module gregoriotex Info: Found ../hymns/ad-coenam-agni.gabc directly on input li
+ne 149
+Module gregoriotex Info: Looking in  on input line 149
+Module gregoriotex Info: Found ../hymns/ad-coenam-agni-6_0_0.gtex directly on in
+put line 149
+
+(../hymns/ad-coenam-agni-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-[8]
-Module gregoriotex Info: Processing gabc snippet... on input line 192
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 192
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [8]
+Module gregoriotex Info: Processing gabc snippet... on input line 198
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 198
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Module gregoriotex Info: Processing gabc snippet... on input line 197
+Module gregoriotex Info: Processing gabc snippet... on input line 203
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Package mdframed Info: mdframed works in twoside mode on input line 205.
-
-
-LaTeX Warning: Reference `mdf@pagelabel-5' on page 9 undefined on input line 208
-.
-
-Module gregoriotex Info: Looking in  on input line 215
+Package mdframed Info: mdframed works in twoside mode on input line 211.
+ [9]
+Module gregoriotex Info: Looking in  on input line 225
 Module gregoriotex Info: Found ../common/benedicamus-tp.gabc directly on input l
-ine 215
-Module gregoriotex Info: Looking in  on input line 215
+ine 225
+Module gregoriotex Info: Looking in  on input line 225
 Module gregoriotex Info: Found ../common/benedicamus-tp-6_0_0.gtex directly on i
-nput line 215
+nput line 225
+
 (../common/benedicamus-tp-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [9]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing basic data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-Package mdframed Info: mdframed works in twoside mode on input line 244.
+Package mdframed Info: mdframed works in twoside mode on input line 258.
 
-
-LaTeX Warning: Reference `mdf@pagelabel-6' on page 10 undefined on input line 24
-7.
-
-
-Overfull \hbox (1.35059pt too wide) in paragraph at lines 256--256
+Overfull \hbox (1.35059pt too wide) in paragraph at lines 273--273
 [][][]\T1/mdbch/m/n/12 V. Divínum auxílium máneat semper nobíscum. 
  []
 
@@ -1514,36 +1515,26 @@ Overfull \hbox (1.35059pt too wide) in paragraph at lines 256--256
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 )
 
 Here is how much of LuaTeX's memory you used:
- 29444 strings out of 481365
- 244167,794899 words of node,token memory allocated
- 2426 words of node memory still in use:
-   15 hlist, 6 vlist, 9 rule, 1 local_par, 10 glue, 16 kern, 6 penalty, 7 glyph,
- 179 attribute, 289 glue_spec, 27 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:7,2:42935,3:3181,4:62,5:5029,6:342,7:6886,8:2,9:6121,10:58,11:
+ 29451 strings out of 481365
+ 244175,794899 words of node,token memory allocated
+ 3128 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 44 glue, 16 kern, 6 penalty, 7 glyph,
+ 396 attribute, 288 glue_spec, 58 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:7,2:37552,3:2762,4:44,5:4494,6:286,7:5924,8:2,9:5548,10:43,11:
 4
- 45881 multiletter control sequences out of 65536+600000
+ 45883 multiletter control sequences out of 65536+600000
  68 fonts using 8722635 bytes
- 51i,12n,60p,880b,6584s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing Eastertide_Saturday_Congregation.gaux on input 
-line 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
+ 51i,12n,65p,880b,6588s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on Eastertide_Saturday_Congregation.pdf (10 pages, 96086 bytes).
+Output written on Eastertide_Saturday_Congregation.pdf (10 pages, 96672 bytes).
 
 PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream

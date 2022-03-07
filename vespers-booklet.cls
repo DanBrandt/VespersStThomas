@@ -9,6 +9,7 @@
 \RequirePackage{paracol}
 \RequirePackage{mdframed}
 \RequirePackage{paracol}
+\RequirePackage{xcolor}
 
 \RequirePackage{babel}
 %\RequirePackage[ecclesiasticlatin.usej, english]{babel}
