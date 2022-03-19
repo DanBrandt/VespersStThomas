@@ -1,7 +1,7 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  19 MAR 2022 00:15
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  19 MAR 2022 00:18
  system commands enabled.
-**12-03-2021.tex
-(./12-03-2021.tex
+**12-03-2022.tex
+(./12-03-2022.tex
 LaTeX2e <2020-02-02> patch level 2
 Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
 Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
@@ -843,8 +843,7 @@ Lua module: gregoriotex 2021/03/13 6.0.0 GregorioTeX module.
 Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
-(12-03-2021.gaux)
-Module gregoriotex Info: Reading 12-03-2021.gaux on input line 125
+(12-03-2022.gaux)
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write4
 \gre@read@temp=\read4
@@ -1046,16 +1045,10 @@ Sidefoothsep and sidefootwidth: 7pt and 128pt
 Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-) (./12-03-2021.aux
-
-Package babel Warning: Unknown language `latin'. Very likely you
-(babel)                requested it in a previous run. Expect some
-(babel)                wrong results in this run, which should vanish
-(babel)                in the next one. Reported on input line 6.
-
 )
-\openout1 = 12-03-2021.aux
+No file 12-03-2022.aux.
 
+\openout1 = 12-03-2022.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
@@ -1067,7 +1060,7 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -1186,13 +1179,18 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 (../psalms/magnificat-7.tex) [2]
 Package mdframed Info: mdframed works in twoside mode on input line 96.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-1' on page 3 undefined on input line 99.
+
+
 Module gregoriotex Info: Looking in  on input line 102
 Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 1
 02
 Module gregoriotex Info: Looking in  on input line 102
 Module gregoriotex Info: Found magnificat-antiphon-6_0_0.gtex directly on input 
 line 102
- (./magnificat-antiphon-6_0_0.gtex
+(./magnificat-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Overfull \hbox (8.45567pt too wide) detected at line 106
@@ -1202,13 +1200,18 @@ Overfull \hbox (8.45567pt too wide) detected at line 106
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 107.
+
+
+LaTeX Warning: Reference `mdf@pagelabel-2' on page 3 undefined on input line 110
+.
+
 Module gregoriotex Info: Looking in  on input line 144
 Module gregoriotex Info: Found ../commemorations/one-martyr-2v.gabc directly on 
 input line 144
 Module gregoriotex Info: Looking in  on input line 144
 Module gregoriotex Info: Found ../commemorations/one-martyr-2v-6_0_0.gtex direct
 ly on input line 144
- (../commemorations/one-martyr-2v-6_0_0.gtex
+(../commemorations/one-martyr-2v-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1301,30 +1304,44 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 293.
- [5] (./12-03-2021.aux)
+
+
+LaTeX Warning: Reference `mdf@pagelabel-3' on page 5 undefined on input line 299
+.
+
+[5] (./12-03-2022.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29157 strings out of 481365
- 156263,794899 words of node,token memory allocated
+ 29151 strings out of 481365
+ 156266,794899 words of node,token memory allocated
  2370 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 10 glue, 15 kern, 6 penalty, 7 glyph,
  151 attribute, 297 glue_spec, 23 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:5,2:28627,3:2132,4:59,5:3517,6:222,7:4256,8:2,9:4229,10:54,11:
+   avail lists: 1:2,2:28386,3:2128,4:71,5:3489,6:216,7:4272,8:2,9:4143,10:63,11:
 2
- 45658 multiletter control sequences out of 65536+600000
+ 45657 multiletter control sequences out of 65536+600000
  72 fonts using 9015643 bytes
- 51i,12n,65p,837b,4894s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,12n,60p,837b,4796s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing 12-03-2022.gaux on input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/lo
 cal/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 12-03-2021.pdf (5 pages, 81429 bytes).
+Output written on 12-03-2022.pdf (5 pages, 81438 bytes).
 
 PDF statistics: 47 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
