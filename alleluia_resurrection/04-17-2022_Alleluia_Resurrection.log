@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  1 APR 2022 08:31
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  1 APR 2022 20:36
  system commands enabled.
 **04-17-2022_Alleluia_Resurrection.tex
 (./04-17-2022_Alleluia_Resurrection.tex
@@ -1126,13 +1126,13 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 9.60007pt on input line 7.
 Package mdframed Info: mdframed works in twoside mode on input line 10.
 Module gregoriotex Info: Looking in  on input line 18
-Module gregoriotex Info: Found alleluia_psalm_150_1_9.gabc directly on input lin
+Module gregoriotex Info: Found alleluia_psalm_150_1_6.gabc directly on input lin
 e 18
 Module gregoriotex Info: Looking in  on input line 18
-Module gregoriotex Info: Found alleluia_psalm_150_1_9-6_0_0.gtex directly on inp
+Module gregoriotex Info: Found alleluia_psalm_150_1_6-6_0_0.gtex directly on inp
 ut line 18
 
-(./alleluia_psalm_150_1_9-6_0_0.gtex
+(./alleluia_psalm_150_1_6-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
@@ -1140,23 +1140,23 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 7.68005pt on input line 18.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 106.
+(Font)              scaled to size 9.60007pt on input line 123.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package babel Info: \l@latin = using hyphenrules for nil
-(babel)             (\language6) on input line 31.
+(babel)             (\language6) on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/la/babel-latin.tex
 Package babel Info: Importing basic data for latin
 (babel)             from babel-la.ini. Reported on input line 9.
 )
-(./psalm_150_9.tex)
+(./psalm_150_6.tex)
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 8.64006pt on input line 31.
-Module gregoriotex Info: Looking in  on input line 35
-Module gregoriotex Info: Found alleluia.gabc directly on input line 35
-Module gregoriotex Info: Looking in  on input line 35
-Module gregoriotex Info: Found alleluia-6_0_0.gtex directly on input line 35
+(Font)              scaled to size 8.64006pt on input line 30.
+Module gregoriotex Info: Looking in  on input line 34
+Module gregoriotex Info: Found alleluia.gabc directly on input line 34
+Module gregoriotex Info: Looking in  on input line 34
+Module gregoriotex Info: Found alleluia-6_0_0.gtex directly on input line 34
  (./alleluia-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1167,46 +1167,81 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
 (Font)              scaled to size 9.60007pt on input line 12.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [1
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Package mdframed Info: mdframed works in twoside mode on input line 37.
+ [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package mdframed Info: mdframed works in twoside mode on input line 40.
-Package mdframed Info: Not enough space on this page on input line 43.
-Module gregoriotex Info: Looking in  on input line 46
-Module gregoriotex Info: Found ad_coenam.gabc directly on input line 46
-Module gregoriotex Info: Looking in  on input line 46
-Module gregoriotex Info: Found ad_coenam-6_0_0.gtex directly on input line 46
- (./ad_coenam-6_0_0.gtex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no † (U+2020) in font mdbchr8t!
+Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
+]
+Module gregoriotex Info: Looking in  on input line 47
+Module gregoriotex Info: Found o_filii_et_filiae_1.gabc directly on input line 4
+7
+Module gregoriotex Info: Looking in  on input line 47
+Module gregoriotex Info: Found o_filii_et_filiae_1-6_0_0.gtex directly on input 
+line 47
+ (./o_filii_et_filiae_1-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 38.40027pt on input line 18.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [2
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
-Package mdframed Info: mdframed works in twoside mode on input line 58.
-Package mdframed Info: mdframed works in twoside mode on input line 67.
-Package mdframed Info: mdframed works in twoside mode on input line 81.
-Module gregoriotex Info: Looking in  on input line 87
-Module gregoriotex Info: Found regina_caeli.gabc directly on input line 87
-Module gregoriotex Info: Looking in  on input line 87
-Module gregoriotex Info: Found regina_caeli-6_0_0.gtex directly on input line 87
 
- (./regina_caeli-6_0_0.gtex
+Underfull \hbox (badness 10000) in paragraph at lines 11--466
+[]
+ []
+
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (./o_filii_et_fi
+liae.tex
+Overfull \hbox (6.00587pt too wide) in paragraph at lines 19--22
+[]\T1/mdbch/m/n/10 5. Et Joannes Apostolus cucurrit Petro citius, monumento
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 31--34
+[]\T1/mdbch/m/n/10 7. Ut intellexit Didymus, quia surrexerat Jesus,
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 55--58
+[]\T1/mdbch/m/n/10 11. In hoc festo sanctissimo sit laus et jubilatio,
+ []
+
+) [2
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+]
+Package mdframed Info: mdframed works in twoside mode on input line 122.
+Package mdframed Info: Not enough space on this page on input line 125.
+
+Underfull \hbox (badness 1117) in paragraph at lines 136--136
+\T1/mdbch/m/n/10 Fílium tuum, Qui tecum vivit et regnat in unitate
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 140.
+Package mdframed Info: mdframed works in twoside mode on input line 162.
+Module gregoriotex Info: Looking in  on input line 178
+Module gregoriotex Info: Found regina_caeli.gabc directly on input line 178
+Module gregoriotex Info: Looking in  on input line 178
+Module gregoriotex Info: Found regina_caeli-6_0_0.gtex directly on input line 17
+8
+(./regina_caeli-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 1337) in paragraph at lines 102--102
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 193--193
 \T1/mdbch/b/n/10 Ma\T1/mdbch/m/n/10 riam, perpetuae capiamus gaudia vitae. * Pe
 r
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 107.
+Package mdframed Info: mdframed works in twoside mode on input line 198.
 [3] (./04-17-2022_Alleluia_Resurrection.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1214,23 +1249,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29090 strings out of 481365
- 244162,794899 words of node,token memory allocated
- 1788 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 12 glue, 5 kern, 3 glyph, 111 attribute, 254 glue_s
-pec, 18 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:3,2:37935,3:2776,4:63,5:4530,6:284,7:4885,8:2,9:5588,10:60,11:
-1
- 45658 multiletter control sequences out of 65536+600000
- 65 fonts using 8584667 bytes
- 51i,11n,65p,859b,6658s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 29104 strings out of 481365
+ 125009,794899 words of node,token memory allocated
+ 2903 words of node memory still in use:
+   10 hlist, 5 vlist, 5 rule, 48 glue, 8 kern, 4 glyph, 383 attribute, 273 glue_
+spec, 56 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:2,2:10497,3:1392,4:19,5:1752,6:151,7:6699,8:2,9:2248,10:17
+ 45661 multiletter control sequences out of 65536+600000
+ 66 fonts using 8599595 bytes
+ 51i,11n,82p,859b,1854s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/shar
 e/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/local/share/texmf/f
 onts/truetype/public/gregoriotex/greciliae.ttf></usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on 04-17-2022_Alleluia_Resurrection.pdf (3 pages, 67017 bytes).
+Output written on 04-17-2022_Alleluia_Resurrection.pdf (3 pages, 64053 bytes).
 
 PDF statistics: 41 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
