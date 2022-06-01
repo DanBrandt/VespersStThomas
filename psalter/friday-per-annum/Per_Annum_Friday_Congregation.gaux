@@ -2,18 +2,26 @@ return {
  ["line_heights"]={
  },
  ["last_syllables"]={
+  ["08dd04a5a7cc02ed7712fad3b211b014718017b5.1"]={
+   [22]=22,
+  },
+  ["85c57fcf5dcf289cdabc837ff3a3439f15845eea.1"]={
+   [14]=14,
+  },
+  ["c43abee5213e5a6a8837b1af206da48b31bde661.1"]={
+   [18]=18,
+   [41]=41,
+  },
   ["592f8f59e8e9acf895a5fc82a71a5de67804f4a5.1"]={
    [18]=18,
    [58]=58,
    [38]=38,
    [79]=79,
   },
-  ["c43abee5213e5a6a8837b1af206da48b31bde661.1"]={
+  ["7be8d0510c9596953424217ce0b5452426f97226.1"]={
+   [48]=48,
    [18]=18,
-   [41]=41,
-  },
-  ["85c57fcf5dcf289cdabc837ff3a3439f15845eea.1"]={
-   [14]=14,
+   [39]=39,
   },
   ["c9a25c6a5e096597dd0545403fb0a30fa1ba4e49.1"]={
    [18]=18,
@@ -24,9 +32,11 @@ return {
  ["saved_newline_before_euouae"]={
  },
  ["state_hashes"]={
-  ["592f8f59e8e9acf895a5fc82a71a5de67804f4a5.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
-  ["c43abee5213e5a6a8837b1af206da48b31bde661.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["08dd04a5a7cc02ed7712fad3b211b014718017b5.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
   ["85c57fcf5dcf289cdabc837ff3a3439f15845eea.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["c43abee5213e5a6a8837b1af206da48b31bde661.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["592f8f59e8e9acf895a5fc82a71a5de67804f4a5.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
+  ["7be8d0510c9596953424217ce0b5452426f97226.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
   ["c9a25c6a5e096597dd0545403fb0a30fa1ba4e49.1"]="fa9892b7e1c7e7ea15d68ebb25c59fff",
  },
 }
