@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  2 JUN 2022 00:26
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  3 JUN 2022 00:46
  system commands enabled.
 **Per_Annum_Friday_Congregation.tex
 (./Per_Annum_Friday_Congregation.tex
@@ -1365,12 +1365,6 @@ Underfull \hbox (badness 2608) in paragraph at lines 224--224
  []
 
 
-Overfull \hbox (8.96011pt too wide) in paragraph at lines 224--224
-\T1/mdbch/b/n/10 con\T1/mdbch/m/n/10 cul\T1/mdbch/b/n/10 cábunt \T1/mdbch/m/n/
-10 me: * et nox illuminátio
- []
-
-
 Overfull \hbox (4.39366pt too wide) in paragraph at lines 224--224
 []\T1/mdbch/m/n/10 11. Quia ténebræ non obscurabúntur
  []
@@ -1500,22 +1494,169 @@ Module gregoriotex Info: Found ps139-antiphon-6_0_0.gtex directly on input line
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [8] (./Per_Annum
-_Friday_Congregation.aux)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 316
+Module gregoriotex Info: Found ps140-intonation.gabc directly on input line 316
+Module gregoriotex Info: Looking in  on input line 316
+Module gregoriotex Info: Found ps140-intonation-6_0_0.gtex directly on input lin
+e 316
+ (./ps140-intonation-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Underfull \hbox (badness 4660) in paragraph at lines 364--364
+[]\T1/mdbch/m/n/10 2. Dirigátur orátio mea sicut
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 364--364
+\T1/mdbch/b/n/10 me\T1/mdbch/m/n/10 o: * et óstium circumstántiæ
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 364--364
+[]\T1/mdbch/m/n/10 4. Non declínes cor meum in
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 364--364
+\T1/mdbch/m/n/10 verba ma\T1/mdbch/b/n/10 lí\T1/mdbch/m/n/10 tiæ: * ad excus
+ándas
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 364--364
+[]\T1/mdbch/m/n/10 5. Cum homínibus operántibus
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 364--364
+[]\T1/mdbch/m/n/10 8. Audient verba mea quóniam
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 364--364
+\T1/mdbch/m/n/10 pecca\T1/mdbch/b/n/10 tó\T1/mdbch/m/n/10 res: * \T1/mdbch/m/i
+t/10 (stand) \T1/mdbch/m/n/10 singuláriter
+ []
+
+[8]
+Underfull \hbox (badness 1072) in paragraph at lines 364--364
+[]\T1/mdbch/m/it/9 7. For my prayer also shall still be
+ []
+
+Module gregoriotex Info: Looking in  on input line 376
+Module gregoriotex Info: Found ps141-antiphon.gabc directly on input line 376
+Module gregoriotex Info: Looking in  on input line 376
+Module gregoriotex Info: Found ps141-antiphon-6_0_0.gtex directly on input line 
+376
+(./ps141-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 384
+Module gregoriotex Info: Found ps141-intonation.gabc directly on input line 384
+Module gregoriotex Info: Looking in  on input line 384
+Module gregoriotex Info: Found ps141-intonation-6_0_0.gtex directly on input lin
+e 384
+ (./ps141-intonation-6_0_0.gtex [9]
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Underfull \hbox (badness 4779) in paragraph at lines 432--432
+[]\T1/mdbch/m/n/10 2. Effúndo in conspéctu ejus
+ []
+
+
+Overfull \hbox (0.76163pt too wide) in paragraph at lines 432--432
+\T1/mdbch/m/n/10 oratiónem \T1/mdbch/b/n/10 me\T1/mdbch/m/n/10 am, * et tribul
+atiónem
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 432--432
+[]\T1/mdbch/m/n/10 5. Considerábam ad déxteram,
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 432--432
+\T1/mdbch/m/n/10 et vi\T1/mdbch/b/n/10 dé\T1/mdbch/m/n/10 bam: * et non erat q
+ui
+ []
+
+
+Overfull \hbox (9.02092pt too wide) in paragraph at lines 432--432
+[]\T1/mdbch/m/n/10 8. Inténde ad deprecatiónem \T1/mdbch/b/n/10 me\T1/mdbch/m
+/n/10 am: *
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 432--432
+[]\T1/mdbch/m/n/10 9. Líbera me a persequénti\T1/mdbch/b/n/10 bus
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 432--432
+[]\T1/mdbch/m/n/10 10. Educ de custódia ánimam
+ []
+
+
+Overfull \hbox (1.08812pt too wide) in paragraph at lines 432--432
+\T1/mdbch/m/n/10 meam ad confiténdum nómini \T1/mdbch/b/n/10 tu\T1/mdbch/m/n/
+10 o: *
+ []
+
+[10]
+Module gregoriotex Info: Looking in  on input line 437
+Module gregoriotex Info: Found ps141-antiphon.gabc directly on input line 437
+Module gregoriotex Info: Looking in  on input line 437
+Module gregoriotex Info: Found ps141-antiphon-6_0_0.gtex directly on input line 
+437
+ (./ps141-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Package mdframed Info: mdframed works in twoside mode on input line 441.
+
+Underfull \hbox (badness 2080) in paragraph at lines 442--443
+[]\T1/mdbch/m/n/10 Continue on to the insert for the day, containing the Hymn,
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 442--443
+\T1/mdbch/m/n/10 Magnificat, Collect, Commemorations if any are present, and
+ []
+
+
+LaTeX Warning: Reference `mdf@pagelabel-5' on page 11 undefined on input line 44
+4.
+
+[11
+Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
+] (./Per_Annum_Friday_Congregation.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29249 strings out of 481365
+ 29278 strings out of 481365
  100000,794899 words of node,token memory allocated
- 3160 words of node memory still in use:
-   15 hlist, 10 vlist, 9 rule, 1 local_par, 42 glue, 13 kern, 6 penalty, 7 glyph
-, 427 attribute, 274 glue_spec, 61 attribute_list, 2 write, 1 user_defined nodes
-
-   avail lists: 1:2,2:10572,3:940,4:19,5:1353,6:110,7:5376,8:2,9:1625,10:18
- 45780 multiletter control sequences out of 65536+600000
+ 3356 words of node memory still in use:
+   15 hlist, 5 vlist, 9 rule, 1 local_par, 54 glue, 13 kern, 6 penalty, 7 glyph,
+ 476 attribute, 283 glue_spec, 68 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:2,2:10516,3:940,4:19,5:1344,6:110,7:5365,8:2,9:1630,10:18
+ 45781 multiletter control sequences out of 65536+600000
  74 fonts using 9201819 bytes
  51i,12n,64p,877b,1982s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
@@ -1524,10 +1665,10 @@ ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on Per_Annum_Friday_Congregation.pdf (8 pages, 659473 bytes).
+Output written on Per_Annum_Friday_Congregation.pdf (11 pages, 669653 bytes).
 
-PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
