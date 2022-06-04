@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  4 JUN 2022 14:45
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  4 JUN 2022 15:02
  system commands enabled.
 **Eastertide_Friday_Congregation.tex
 (./Eastertide_Friday_Congregation.tex
@@ -1389,88 +1389,38 @@ Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 140.
-Module gregoriotex Info: Looking in  on input line 150
-Module gregoriotex Info: Found ../../hymns/magnae_deus_potentiae.gabc directly o
-n input line 150
-Module gregoriotex Info: Looking in  on input line 150
-Module gregoriotex Info: Found ../../hymns/magnae_deus_potentiae-6_0_0.gtex dire
-ctly on input line 150
-
-(../../hymns/magnae_deus_potentiae-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [8
-Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
-]
-Module gregoriotex Info: Processing gabc snippet... on input line 182
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 182
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Module gregoriotex Info: Processing gabc snippet... on input line 187
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Package mdframed Info: mdframed works in twoside mode on input line 195.
- [9
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-]
-Module gregoriotex Info: Looking in  on input line 209
-Module gregoriotex Info: Found ../../common/benedicamus-tp.gabc directly on inpu
-t line 209
-Module gregoriotex Info: Looking in  on input line 209
-Module gregoriotex Info: Found ../../common/benedicamus-tp-6_0_0.gtex directly o
-n input line 209
-
-(../../common/benedicamus-tp-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing basic data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-)
-Package mdframed Info: mdframed works in twoside mode on input line 242.
-
-Overfull \hbox (1.35059pt too wide) in paragraph at lines 257--257
-[][][]\T1/mdbch/m/n/12 V. Divínum auxílium máneat semper nobíscum. 
- []
-
-[10] (./Eastertide_Friday_Congregation.aux)
+Package mdframed Info: mdframed works in twoside mode on input line 137.
+ [8]
+(./Eastertide_Friday_Congregation.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29478 strings out of 481365
- 156260,794899 words of node,token memory allocated
- 3521 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 62 glue, 14 kern, 6 penalty, 7 glyph,
- 515 attribute, 289 glue_spec, 75 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:25923,3:1929,4:25,5:3152,6:205,7:5602,8:2,9:3722,10:23,11:
-4
- 45893 multiletter control sequences out of 65536+600000
- 77 fonts using 9339787 bytes
- 51i,12n,64p,878b,3998s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 29365 strings out of 481365
+ 125007,794899 words of node,token memory allocated
+ 2706 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 50 glue, 3 kern, 3 glyph, 370 attribute, 268 glue_s
+pec, 55 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:2,2:15632,3:1292,4:18,5:1872,6:154,7:5618,8:2,9:2194,10:16
+ 45814 multiletter control sequences out of 65536+600000
+ 76 fonts using 9324859 bytes
+ 51i,12n,64p,878b,1966s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing Eastertide_Friday_Congregation.gaux on input li
+ne 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/shar
 e/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/local/share/texmf/f
 onts/truetype/public/gregoriotex/greciliae.ttf></usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb>
-Output written on Eastertide_Friday_Congregation.pdf (10 pages, 1125139 bytes).
+Output written on Eastertide_Friday_Congregation.pdf (8 pages, 1114498 bytes).
 
-PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
