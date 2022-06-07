@@ -6,7 +6,7 @@
 \GreHeader{office-part}{Toni Communes}%
 \GreHeader{book}{The Liber Usualis, 1961, p. 112 & The Liber Usualis, 1961, p. 250}%
 \GreEndHeaders %
-\GreBeginScore{d73c5790c1d388409cee35160967658190902be5}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{0609f2f94e719bfbd737b39d5506de5939614936}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -19,7 +19,7 @@
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{\GreFirstWord{u}}{\GreFirstWord{s}}{\GreFirstWord{u}}{\GreFirstWord{s}}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{}{\GreFirstWord{u}}{\GreFirstWord{s}}{\GreFirstWord{u}}{\GreFirstWord{s}}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\maltese}{}{\maltese}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -29,9 +29,9 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{\maltese}{}{\maltese}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioMinima{0}{}{0}%
+\GreDivisioMinima{1}{}{0}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{i}{n}{i}{n}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{d}{a}{d}}{}{{0}{0}}{}{%
@@ -127,12 +127,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreSpecial{R/}. D}{ó}{}{\GreSpecial{R/}}{. Dó}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreColored{\GreSpecial{R/}.} D}{ó}{}{\GreColored{\GreSpecial{R/}}}{\GreColored{.} Dó}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{\GreSpecial{R/}. D}{ó}{}{\GreSpecial{R/}}{. Dó}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{m}{i}{}{m}{i}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{\GreColored{\GreSpecial{R/}.} D}{ó}{}{\GreColored{\GreSpecial{R/}}}{\GreColored{.} Dó}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{m}{i}{}{m}{i}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
