@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  7 JUN 2022 00:56
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 JUN 2022 00:01
  system commands enabled.
 **07-01-2022_Precious_Blood.tex
 (./07-01-2022_Precious_Blood.tex
@@ -1192,19 +1192,35 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 16.58891pt on input line 7.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
 (Font)              scaled to size 16.58891pt on input line 7.
-Package mdframed Info: mdframed works in twoside mode on input line 12.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 13.
-LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 13.
-Module gregoriotex Info: Looking in  on input line 19
-Module gregoriotex Info: Found ../common/deus-in-adjutorium-solemn.gabc directly
- on input line 19
-Module gregoriotex Info: Looking in  on input line 19
-Module gregoriotex Info: Found ../common/deus-in-adjutorium-solemn-6_0_0.gtex di
-rectly on input line 19
 
-(../common/deus-in-adjutorium-solemn-6_0_0.gtex
+warning  (file crucifix-and-Eucharist.jpg) (readjpg): Exif resolution 94dpi x 94
+dpi differs from the input resolution 93dpi x 93dpi
+<crucifix-and-Eucharist.jpg, id=1, 1301.62883pt x 638.12872pt>
+File: crucifix-and-Eucharist.jpg Graphic file (type jpg)
+<use crucifix-and-Eucharist.jpg>
+Package luatex.def Info: crucifix-and-Eucharist.jpg  used on input line 12.
+(luatex.def)             Requested size: 307.0pt x 150.50554pt.
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./crucifix-and-Eucharist.jpg
+
+warning  (readjpg): Exif resolution 94dpi x 94dpi differs from the input resolut
+ion 93dpi x 93dpi
+>]
+Package mdframed Info: mdframed works in twoside mode on input line 20.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 9.60007pt on input line 21.
+LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
+(Font)              scaled to size 9.60007pt on input line 21.
+Package mdframed Info: Not enough space on this page on input line 23.
+Module gregoriotex Info: Looking in  on input line 27
+Module gregoriotex Info: Found ../common/deus-in-adjutorium-solemn.gabc directly
+ on input line 27
+Module gregoriotex Info: Looking in  on input line 27
+Module gregoriotex Info: Found ../common/deus-in-adjutorium-solemn-6_0_0.gtex di
+rectly on input line 27
+ (../common/deus-in-adjutorium-solemn-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
@@ -1293,22 +1309,18 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 (Font)              scaled to size 4.80003pt on input line 32.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-[1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 32.
+(Font)              scaled to size 11.52008pt on input line 40.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 32.
-Package mdframed Info: mdframed works in twoside mode on input line 38.
-Module gregoriotex Info: Looking in  on input line 45
-Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 45
-Module gregoriotex Info: Looking in  on input line 45
+(Font)              scaled to size 11.52008pt on input line 40.
+Package mdframed Info: mdframed works in twoside mode on input line 46.
+Module gregoriotex Info: Looking in  on input line 53
+Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 53
+Module gregoriotex Info: Looking in  on input line 53
 Module gregoriotex Info: Found ps109-antiphon-6_0_0.gtex directly on input line 
-45
-
-(./ps109-antiphon-6_0_0.gtex
+53
+ (./ps109-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
@@ -1319,18 +1331,18 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
 (Font)              scaled to size 9.60007pt on input line 12.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 48
-Module gregoriotex Info: Found ps109-intonation.gabc directly on input line 48
-Module gregoriotex Info: Looking in  on input line 48
+Module gregoriotex Info: Looking in  on input line 56
+Module gregoriotex Info: Found ps109-intonation.gabc directly on input line 56
+Module gregoriotex Info: Looking in  on input line 56
 Module gregoriotex Info: Found ps109-intonation-6_0_0.gtex directly on input lin
-e 48
+e 56
  (./ps109-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package babel Info: \l@latin = using hyphenrules for nil
-(babel)             (\language6) on input line 58.
+(babel)             (\language6) on input line 66.
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/la/babel-latin.tex
 Package babel Info: Importing basic data for latin
@@ -1339,6 +1351,12 @@ Package babel Info: Importing basic data for latin
 (../psalms/ps109-7.tex
 Underfull \hbox (badness 2608) in paragraph at lines 3--4
 []\T1/mdbch/m/n/10 3. Virgam virtútis tuæ emíttet
+ []
+
+
+Overfull \hbox (5.91428pt too wide) in paragraph at lines 7--8
+[]\T1/mdbch/m/n/10 5. Jurávit Dóminus, et non poeni\T1/mdbch/b/n/10 té\T1/md
+bch/m/n/10 bit
  []
 
 
@@ -1354,44 +1372,346 @@ Underfull \hbox (badness 2837) in paragraph at lines 11--12
  []
 
 )
-Underfull \hbox (badness 2103) in paragraph at lines 17--58
+Underfull \hbox (badness 2103) in paragraph at lines 17--66
 []\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
  []
 
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 8.64006pt on input line 58.
+(Font)              scaled to size 8.64006pt on input line 66.
 (../psalms/english/ps109.tex
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 16.
- [2
-Missing character: There is no œ (U+0153) in font mdbchr8t!
-])
-Module gregoriotex Info: Looking in  on input line 63
-Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 63
-Module gregoriotex Info: Looking in  on input line 63
+ [3])
+Module gregoriotex Info: Looking in  on input line 71
+Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 71
+Module gregoriotex Info: Looking in  on input line 71
 Module gregoriotex Info: Found ps109-antiphon-6_0_0.gtex directly on input line 
-63
+71
  (./ps109-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 4120) in paragraph at lines 85--85
+Package mdframed Info: mdframed works in twoside mode on input line 79.
+Module gregoriotex Info: Looking in  on input line 85
+Module gregoriotex Info: Found ps110-antiphon.gabc directly on input line 85
+Module gregoriotex Info: Looking in  on input line 85
+Module gregoriotex Info: Found ps110-antiphon-6_0_0.gtex directly on input line 
+85
+
+(./ps110-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 88
+Module gregoriotex Info: Found ps110-intonation.gabc directly on input line 88
+Module gregoriotex Info: Looking in  on input line 88
+Module gregoriotex Info: Found ps110-intonation-6_0_0.gtex directly on input lin
+e 88
+ (./ps110-intonation-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4]
+(../psalms/ps110-7.tex
+Underfull \hbox (badness 1571) in paragraph at lines 3--4
+\T1/mdbch/b/n/10 e\T1/mdbch/m/n/10 jus: * et justítia ejus manet in
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 5--6
+[]\T1/mdbch/m/n/10 4. Memóriam fecit mirabílium
+ []
+
+
+Overfull \hbox (4.26883pt too wide) in paragraph at lines 7--8
+[]\T1/mdbch/m/n/10 5. Memor erit in s[]æculum testa\T1/mdbch/b/n/10 mén\T1/md
+bch/m/n/10 ti
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 7--8
+\T1/mdbch/b/n/10 su\T1/mdbch/m/n/10 i: * virtútem óperum suórum
+ []
+
+
+Overfull \hbox (4.32643pt too wide) in paragraph at lines 9--10
+[]\T1/mdbch/m/n/10 6. Ut det illis heredi\T1/mdbch/b/n/10 tá\T1/mdbch/m/n/10 t
+em \T1/mdbch/b/n/10 gén\T1/mdbch/m/n/10 tium: *
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 13--14
+[]\T1/mdbch/m/n/10 8. Redemptiónem misit \T1/mdbch/b/n/10 pó\T1/mdbch/m/n/10 
+pulo
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 15--16
+[]\T1/mdbch/m/n/10 9. Sanctum, et terríbile \T1/mdbch/b/n/10 no\T1/mdbch/m/n/1
+0 men
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 15--16
+\T1/mdbch/b/n/10 e\T1/mdbch/m/n/10 jus: * inítium sapiéntiæ \T1/mdbch/b/n/10
+ ti\T1/mdbch/m/n/10 mor
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 17--18
+[]\T1/mdbch/m/n/10 10. Intelléctus bonus ómnibus
+ []
+
+)
+Underfull \hbox (badness 2103) in paragraph at lines 21--98
+[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
+ []
+
+(../psalms/english/ps110.tex) [5]
+Module gregoriotex Info: Looking in  on input line 105
+Module gregoriotex Info: Found ps110-antiphon.gabc directly on input line 105
+Module gregoriotex Info: Looking in  on input line 105
+Module gregoriotex Info: Found ps110-antiphon-6_0_0.gtex directly on input line 
+105
+ (./ps110-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 113
+Module gregoriotex Info: Found ps111-antiphon.gabc directly on input line 113
+Module gregoriotex Info: Looking in  on input line 113
+Module gregoriotex Info: Found ps111-antiphon-6_0_0.gtex directly on input line 
+113
+
+(./ps111-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 116
+Module gregoriotex Info: Found ps111-intonation.gabc directly on input line 116
+Module gregoriotex Info: Looking in  on input line 116
+Module gregoriotex Info: Found ps111-intonation-6_0_0.gtex directly on input lin
+e 116
+ (./ps111-intonation-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+(../psalms/ps111-4-E-A-d.tex
+Underfull \hbox (badness 1389) in paragraph at lines 11--12
+[]\T1/mdbch/m/n/10 7. Parátum cor ejus speráre in
+ []
+
+
+Overfull \hbox (4.9729pt too wide) in paragraph at lines 11--12
+\T1/mdbch/m/n/10 Dómino, \gre@font@variant@D  \T1/mdbch/m/n/10 confirmátum
+ \T1/mdbch/m/it/10 est cor \T1/mdbch/b/n/10 e\T1/mdbch/m/n/10 jus: *
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 13--14
+[]\T1/mdbch/m/n/10 8. Dispérsit, dedit paupéribus: 
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 13--14
+\gre@font@variant@D  \T1/mdbch/m/n/10 justítia ejus manet in s[]æ\T1/mdbch
+/m/it/10 culum
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 17--18
+[]\T1/mdbch/m/it/10 (bow) \T1/mdbch/m/n/10 Glória Pa\T1/mdbch/m/it/10 tri\T1/m
+dbch/m/n/10 , \T1/mdbch/m/it/10 et \T1/mdbch/b/n/10 Fí\T1/mdbch/m/n/10 lio, * 
+et
+ []
+
+)
+Underfull \hbox (badness 2103) in paragraph at lines 19--126
+[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 19--126
+\T1/mdbch/m/it/10 nunc\T1/mdbch/m/n/10 , \T1/mdbch/m/it/10 et \T1/mdbch/b/n/10 
+sem\T1/mdbch/m/n/10 per, * et in s[]æcula
+ []
+
+(../psalms/english/ps111.tex
+Underfull \hbox (badness 1354) in paragraph at lines 7--8
+[]\T1/mdbch/m/it/9 4. To the righteous a light is risen
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 7--8
+\T1/mdbch/m/it/9 up in darkness: he is merciful, and
+ []
+
+[6]
+Underfull \hbox (badness 2384) in paragraph at lines 12--13
+[]\T1/mdbch/m/it/9 6. The just shall be in everlasting
+ []
+
+)
+Module gregoriotex Info: Looking in  on input line 131
+Module gregoriotex Info: Found ps111-antiphon.gabc directly on input line 131
+Module gregoriotex Info: Looking in  on input line 131
+Module gregoriotex Info: Found ps111-antiphon-6_0_0.gtex directly on input line 
+131
+ (./ps111-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [7]
+Module gregoriotex Info: Looking in  on input line 141
+Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 141
+Module gregoriotex Info: Looking in  on input line 141
+Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
+141
+ (./ps112-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 144
+Module gregoriotex Info: Found ps112-intonation.gabc directly on input line 144
+Module gregoriotex Info: Looking in  on input line 144
+Module gregoriotex Info: Found ps112-intonation-6_0_0.gtex directly on input lin
+e 144
+
+(./ps112-intonation-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps112
+-8.tex
+Underfull \hbox (badness 1024) in paragraph at lines 22--24
+[]\T1/mdbch/m/it/10 (bow) \T1/mdbch/m/n/10 Glória Patri, et \T1/mdbch/b/n/10 F
+í\T1/mdbch/m/n/10 lio, * et
+ []
+
+)
+Underfull \hbox (badness 2103) in paragraph at lines 25--154
+[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 25--154
+\T1/mdbch/m/n/10 nunc, et \T1/mdbch/b/n/10 sem\T1/mdbch/m/n/10 per, * et in s[]
+æcula
+ []
+
+(../psalms/english/ps112.tex
+Underfull \hbox (badness 1460) in paragraph at lines 9--10
+[]\T1/mdbch/m/it/9 5.Who is as the Lord our God, who
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 11--12
+[]\T1/mdbch/m/it/9 6. Raising up the needy from the
+ []
+
+) [8]
+Module gregoriotex Info: Looking in  on input line 159
+Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 159
+Module gregoriotex Info: Looking in  on input line 159
+Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
+159
+ (./ps112-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 167
+Module gregoriotex Info: Found ps147-antiphon.gabc directly on input line 167
+Module gregoriotex Info: Looking in  on input line 167
+Module gregoriotex Info: Found ps147-antiphon-6_0_0.gtex directly on input line 
+167
+ (./ps147-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 170
+Module gregoriotex Info: Found ps147-intonation.gabc directly on input line 170
+Module gregoriotex Info: Looking in  on input line 170
+Module gregoriotex Info: Found ps147-intonation-6_0_0.gtex directly on input lin
+e 170
+
+(./ps147-intonation-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps147
+-2.tex
+Underfull \hbox (badness 2521) in paragraph at lines 5--6
+[]\T1/mdbch/m/n/10 4. Qui emíttit elóquium suum
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 9--10
+[]\T1/mdbch/m/n/10 6. Mittit crystállum suam sicut
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 13--14
+[]\T1/mdbch/m/n/10 8. Qui annúntiat verbum suum
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 13--14
+\T1/mdbch/b/n/10 Ja\T1/mdbch/m/n/10 cob: * justítias, et judícia su\T1/mdbch/
+m/it/10 a
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 17--18
+[]\T1/mdbch/m/it/10 (bow) \T1/mdbch/m/n/10 Glória Patri, et \T1/mdbch/b/n/10 F
+í\T1/mdbch/m/n/10 lio, * et
+ []
+
+)
+Underfull \hbox (badness 2103) in paragraph at lines 19--180
+[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 19--180
+\T1/mdbch/m/n/10 nunc, et \T1/mdbch/b/n/10 sem\T1/mdbch/m/n/10 per, * et in s[]
+æcula
+ []
+
+(../psalms/english/ps147.tex [9])
+Module gregoriotex Info: Looking in  on input line 185
+Module gregoriotex Info: Found ps147-antiphon.gabc directly on input line 185
+Module gregoriotex Info: Looking in  on input line 185
+Module gregoriotex Info: Found ps147-antiphon-6_0_0.gtex directly on input line 
+185
+ (./ps147-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [10]
+Underfull \hbox (badness 4120) in paragraph at lines 209--209
 \T1/mdbch/m/n/10 manufáctum, id est, non hujus
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 85--86
+Underfull \hbox (badness 2197) in paragraph at lines 209--210
 \T1/mdbch/m/it/9 but by His own blood, entered once
  []
 
-[3]
-Module gregoriotex Info: Looking in  on input line 98
+[11]
+Module gregoriotex Info: Looking in  on input line 222
 Module gregoriotex Info: Found ../hymns/festivis_resonent.gabc directly on input
- line 98
-Module gregoriotex Info: Looking in  on input line 98
+ line 222
+Module gregoriotex Info: Looking in  on input line 222
 Module gregoriotex Info: Found ../hymns/festivis_resonent-6_0_0.gtex directly on
- input line 98
+ input line 222
  (../hymns/festivis_resonent-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1429,61 +1749,61 @@ Overfull \hbox (8.45567pt too wide) detected at line 2771
 |
  []
 
-[4
+[12
 Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
 ]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [5
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [13
 Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
 ]
-Module gregoriotex Info: Processing gabc snippet... on input line 142
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 142
+Module gregoriotex Info: Processing gabc snippet... on input line 266
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 266
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Module gregoriotex Info: Processing gabc snippet... on input line 147
+Module gregoriotex Info: Processing gabc snippet... on input line 271
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Package mdframed Info: mdframed works in twoside mode on input line 160.
-Module gregoriotex Info: Looking in  on input line 166
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'. [14
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+]
+Package mdframed Info: mdframed works in twoside mode on input line 284.
+Module gregoriotex Info: Looking in  on input line 290
 Module gregoriotex Info: Found magnificat-antiphon-only.gabc directly on input l
-ine 166
-Module gregoriotex Info: Looking in  on input line 166
+ine 290
+Module gregoriotex Info: Looking in  on input line 290
 Module gregoriotex Info: Found magnificat-antiphon-only-6_0_0.gtex directly on i
-nput line 166
+nput line 290
  (./magnificat-antiphon-only-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [6
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-]
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 169.
-Module gregoriotex Info: Looking in  on input line 175
+Package mdframed Info: mdframed works in twoside mode on input line 293.
+Module gregoriotex Info: Looking in  on input line 299
 Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
- 175
-Module gregoriotex Info: Looking in  on input line 175
+ 299
+Module gregoriotex Info: Looking in  on input line 299
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
-t line 175
+t line 299
 
 (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (0.9184pt too wide) in paragraph at lines 197--197
+Overfull \hbox (0.9184pt too wide) in paragraph at lines 321--321
 []\T1/mdbch/m/n/10 3. Quia respéxit humilitátem \T1/mdbch/m/it/10 ancíllæ
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 197--197
+Underfull \hbox (badness 1521) in paragraph at lines 321--321
 []\T1/mdbch/m/n/10 10. Sicut locútus est \T1/mdbch/m/it/10 ad patres
  []
 
@@ -1492,128 +1812,122 @@ Overfull \hbox (8.61629pt too wide) in paragraph at lines 5--6
 \T1/mdbch/m/it/9 of his handmaid; for behold from henceforth
  []
 
-
+[15]
 Underfull \hbox (badness 1478) in paragraph at lines 19--20
 []\T1/mdbch/m/it/9 10. As he spoke to our fathers, to
  []
 
 )
-Overfull \vbox (8.5058pt too high) has occurred while \output is active []
-
-
-[7]
-Module gregoriotex Info: Looking in  on input line 208
+Module gregoriotex Info: Looking in  on input line 332
 Module gregoriotex Info: Found magnificat-antiphon-only.gabc directly on input l
-ine 208
-Module gregoriotex Info: Looking in  on input line 208
+ine 332
+Module gregoriotex Info: Looking in  on input line 332
 Module gregoriotex Info: Found magnificat-antiphon-only-6_0_0.gtex directly on i
-nput line 208
+nput line 332
  (./magnificat-antiphon-only-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 211.
-
-Underfull \hbox (badness 3364) in paragraph at lines 236--236
+Package mdframed Info: mdframed works in twoside mode on input line 335.
+ [16]
+Underfull \hbox (badness 3364) in paragraph at lines 362--362
 \T1/mdbch/m/n/10 mundi Redemptorem constituisti,
  []
 
 
-Overfull \hbox (0.99008pt too wide) in paragraph at lines 236--236
+Overfull \hbox (0.99008pt too wide) in paragraph at lines 362--362
 \T1/mdbch/m/n/10 concede, quaesumus, salutis nostrae
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 236--236
+Underfull \hbox (badness 1769) in paragraph at lines 362--362
 \T1/mdbch/m/n/10 Christum Filium Tuum, qui vivit
  []
 
 
-Overfull \hbox (3.81831pt too wide) in paragraph at lines 236--236
+Overfull \hbox (3.81831pt too wide) in paragraph at lines 362--362
 \T1/mdbch/m/n/10 Deus, per omnia saecula saeculurom.
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 241--242
+Underfull \hbox (badness 2050) in paragraph at lines 367--368
 []\T1/mdbch/m/it/10 For commemorations, the Cantor intones the antiphon and say
 s the
  []
 
-Module gregoriotex Info: Looking in  on input line 248
+Module gregoriotex Info: Looking in  on input line 374
 Module gregoriotex Info: Found ../commemorations/an--beata_es_maria--solesmes.ga
-bc directly on input line 248
-Module gregoriotex Info: Looking in  on input line 248
+bc directly on input line 374
+Module gregoriotex Info: Looking in  on input line 374
 Module gregoriotex Info: Found ../commemorations/an--beata_es_maria--solesmes-6_
-0_0.gtex directly on input line 248
-Module gregoriotex Info: ../commemorations/an--beata_es_maria--solesmes.gabc has
- been modified and ../commemorations/an--beata_es_maria--solesmes-6_0_0.gtex nee
-ds to be updated. Recompiling the gabc file. on input line 248
-Module gregoriotex Info: compiling the score ../commemorations/an--beata_es_mari
-a--solesmes.gabc... on input line 248
+0_0.gtex directly on input line 374
 (../commemorations/an--beata_es_maria--solesmes-6_0_0.gtex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 2521) in paragraph at lines 266--266
+Underfull \hbox (badness 2521) in paragraph at lines 390--390
 \T1/mdbch/m/n/10 Domine, caelestis gratiae munus
  []
 
 
-Overfull \hbox (4.19518pt too wide) in paragraph at lines 266--266
+Overfull \hbox (4.19518pt too wide) in paragraph at lines 390--390
 \T1/mdbch/m/n/10 impertire: \gre@font@variant@D  \T1/mdbch/m/n/10 ut quibus 
 beatae Virginis
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 266--266
+Underfull \hbox (badness 1342) in paragraph at lines 390--390
 \T1/mdbch/m/n/10 partus exstitit salutis ex6rdium, •
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 266--266
-\T1/mdbch/m/n/10 Fílium tuum, qui tecum vivit et
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 266--266
-\T1/mdbch/m/n/10 regnat in unitáte Spíritus Sancti,
- []
-
-
-Underfull \hbox (badness 2653) in paragraph at lines 266--267
+Underfull \hbox (badness 2653) in paragraph at lines 390--391
 \T1/mdbch/m/it/9 thee, unto all thy servants, the gift
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 266--267
+Underfull \hbox (badness 1005) in paragraph at lines 390--391
 \T1/mdbch/m/it/9 of thine heavenly grace, that even as
  []
 
-[9
-Missing character: There is no • (U+2022) in font mdbchr8t!
-]
-Module gregoriotex Info: Looking in  on input line 289
-Module gregoriotex Info: Found ../common/benedicamus-2v-solem.gabc directly on i
-nput line 289
-Module gregoriotex Info: Looking in  on input line 289
-Module gregoriotex Info: Found ../common/benedicamus-2v-solem-6_0_0.gtex directl
-y on input line 289
- (../common/benedicamus-2v-solem-6_0_0.gtex
+[17]
+Module gregoriotex Info: Looking in  on input line 399
+Module gregoriotex Info: Found ../commemorations/an--ad_jesum_autem--solesmes.ga
+bc directly on input line 399
+Module gregoriotex Info: Looking in  on input line 399
+Module gregoriotex Info: Found ../commemorations/an--ad_jesum_autem--solesmes-6_
+0_0.gtex directly on input line 399
+ (../commemorations/an--ad_jesum_autem--solesmes-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 325
+Underfull \hbox (badness 2582) in paragraph at lines 416--416
+\T1/mdbch/m/n/10 Sancti, Deus, per ómnia s[]æcula
+ []
+
+[18
+Missing character: There is no • (U+2022) in font mdbchr8t!
+]
+Module gregoriotex Info: Looking in  on input line 438
+Module gregoriotex Info: Found ../common/benedicamus-2v-solem.gabc directly on i
+nput line 438
+Module gregoriotex Info: Looking in  on input line 438
+Module gregoriotex Info: Found ../common/benedicamus-2v-solem-6_0_0.gtex directl
+y on input line 438
+ (../common/benedicamus-2v-solem-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [19]
+Module gregoriotex Info: Looking in  on input line 476
 Module gregoriotex Info: Found ../marian-anthems/salve-regina-solemn-tone.gabc d
-irectly on input line 325
-Module gregoriotex Info: Looking in  on input line 325
+irectly on input line 476
+Module gregoriotex Info: Looking in  on input line 476
 Module gregoriotex Info: Found ../marian-anthems/salve-regina-solemn-tone-6_0_0.
-gtex directly on input line 325
+gtex directly on input line 476
 
 (../marian-anthems/salve-regina-solemn-tone-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1622,76 +1936,51 @@ Overfull \hbox (8.45567pt too wide) detected at line 859
 |
  []
 
-[10]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (0.74626pt too wide) in paragraph at lines 352--352
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [20]
+Overfull \hbox (0.74626pt too wide) in paragraph at lines 503--503
 [][][]\T1/mdbch/m/n/10 V. Ora pro nobis, sancta Dei Genitrix. 
  []
 
 
-Overfull \hbox (1.4432pt too wide) in paragraph at lines 352--352
+Overfull \hbox (1.4432pt too wide) in paragraph at lines 503--503
 [][]\T1/mdbch/m/n/10 R. Ut digni efficamur promissionibus
  []
 
 
-Overfull \hbox (2.94475pt too wide) in paragraph at lines 352--352
+Overfull \hbox (2.94475pt too wide) in paragraph at lines 503--503
 \T1/mdbch/m/n/10 Mariae corpus et animam, ut dignum
  []
 
 
-Overfull \hbox (1.97119pt too wide) in paragraph at lines 352--352
+Overfull \hbox (1.97119pt too wide) in paragraph at lines 503--503
 \T1/mdbch/m/n/10 Filii tui habitaculum effici mereretur,
  []
 
 
-Overfull \hbox (12.56389pt too wide) in paragraph at lines 352--352
-\T1/mdbch/m/n/10 Spiritu Sancto cooperante, praeparasti,
+Overfull \hbox (0.76804pt too wide) in paragraph at lines 503--503
+\T1/mdbch/m/n/10 commemoratione laetamur; eius pia
  []
 
-
-Overfull \hbox (16.25998pt too wide) in paragraph at lines 352--352
-\T1/mdbch/m/n/10 da, ut cuius commemoratione laetamur;
- []
-
-
-Overfull \hbox (1.4278pt too wide) in paragraph at lines 352--352
-\T1/mdbch/m/n/10 eius pia intercessione, ab instantibus
- []
-
-
-Underfull \hbox (badness 3623) in paragraph at lines 352--352
-\T1/mdbch/m/n/10 Per eundem Christum Dominum
- []
-
-Package mdframed Info: mdframed works in twoside mode on input line 369.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-Package mdframed Info: Not enough space on this page on input line 372.
-
-[12] (./07-01-2022_Precious_Blood.aux)
+Package mdframed Info: mdframed works in twoside mode on input line 520.
+[21] (./07-01-2022_Precious_Blood.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29514 strings out of 481365
- 305203,794899 words of node,token memory allocated
- 4210 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 90 glue, 15 kern, 6 penalty, 7 glyph,
- 711 attribute, 297 glue_spec, 103 attribute_list, 2 write, 1 user_defined nodes
-
-   avail lists: 1:7,2:47211,3:3656,4:98,5:5736,6:371,7:6529,8:2,9:7329,10:95,11:
+ 29707 strings out of 481365
+ 305212,794899 words of node,token memory allocated
+ 5293 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 136 glue, 15 kern, 6 penalty, 7 glyph
+, 1033 attribute, 302 glue_spec, 149 attribute_list, 2 write, 1 user_defined nod
+es
+   avail lists: 1:2,2:47131,3:3656,4:98,5:5753,6:371,7:6519,8:2,9:7329,10:95,11:
 2
- 45872 multiletter control sequences out of 65536+600000
- 121 fonts using 12154859 bytes
+ 45902 multiletter control sequences out of 65536+600000
+ 121 fonts using 12155515 bytes
  51i,12n,65p,873b,8594s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing 07-01-2022_Precious_Blood.gaux on input line 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
@@ -1699,10 +1988,10 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 07-01-2022_Precious_Blood.pdf (12 pages, 102574 bytes).
+Output written on 07-01-2022_Precious_Blood.pdf (21 pages, 1019827 bytes).
 
-PDF statistics: 74 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
