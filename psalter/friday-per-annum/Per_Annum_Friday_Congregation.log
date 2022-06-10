@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  3 JUN 2022 21:27
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 JUN 2022 23:50
  system commands enabled.
 **Per_Annum_Friday_Congregation.tex
 (./Per_Annum_Friday_Congregation.tex
@@ -1229,6 +1229,84 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 7.68005pt on input line 16.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 38.40027pt on input line 16.
+LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 
+34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
+)
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 34.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 34.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 34.
+LaTeX Font Info:    Trying to load font information for OML+mdbch on input line 
+34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 9.60007pt on input line 34.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 6.72005pt on input line 34.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 4.80003pt on input line 34.
+LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line 
+34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 34.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 34.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 34.
+LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line 
+34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 34.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 34.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 34.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 34.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 34.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 34.
+LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line 
+34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 34.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 34.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 34.
+LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line 
+34.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 34.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 34.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 34.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 26.
@@ -1237,7 +1315,8 @@ Module gregoriotex Info: will use gregorio-6_0_0 on input line 34
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'. [2]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
+[2]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 11.52008pt on input line 45.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
@@ -1248,8 +1327,7 @@ Module gregoriotex Info: Found ps137-intonation.gabc directly on input line 56
 Module gregoriotex Info: Looking in  on input line 56
 Module gregoriotex Info: Found ps137-intonation-6_0_0.gtex directly on input lin
 e 56
-
-(./ps137-intonation-6_0_0.gtex
+ (./ps137-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
@@ -1542,11 +1620,11 @@ Underfull \hbox (badness 1072) in paragraph at lines 364--364
  []
 
 Module gregoriotex Info: Looking in  on input line 376
-Module gregoriotex Info: Found ps141-antiphon.gabc directly on input line 376
+Module gregoriotex Info: Found ps140-antiphon.gabc directly on input line 376
 Module gregoriotex Info: Looking in  on input line 376
-Module gregoriotex Info: Found ps141-antiphon-6_0_0.gtex directly on input line 
+Module gregoriotex Info: Found ps140-antiphon-6_0_0.gtex directly on input line 
 376
-(./ps141-antiphon-6_0_0.gtex
+(./ps140-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1627,25 +1705,30 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29278 strings out of 481365
+ 29466 strings out of 481365
  100000,794899 words of node,token memory allocated
  3356 words of node memory still in use:
    15 hlist, 5 vlist, 9 rule, 1 local_par, 54 glue, 13 kern, 6 penalty, 7 glyph,
  476 attribute, 283 glue_spec, 68 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:10516,3:940,4:19,5:1344,6:110,7:5367,8:2,9:1630,10:18
- 45781 multiletter control sequences out of 65536+600000
- 74 fonts using 9201819 bytes
- 51i,12n,64p,877b,1982s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:2,2:10525,3:943,4:19,5:1344,6:110,7:5367,8:2,9:1631,10:18
+ 45867 multiletter control sequences out of 65536+600000
+ 120 fonts using 12136651 bytes
+ 51i,12n,64p,877b,1986s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing Per_Annum_Friday_Congregation.gaux on input lin
+e 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
 nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
-/charter/bchri8a.pfb>
-Output written on Per_Annum_Friday_Congregation.pdf (11 pages, 669695 bytes).
+/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
+n/mdbch/md-chrma.pfb>
+Output written on Per_Annum_Friday_Congregation.pdf (11 pages, 671703 bytes).
 
-PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+PDF statistics: 72 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

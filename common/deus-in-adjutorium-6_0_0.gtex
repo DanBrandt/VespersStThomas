@@ -7,7 +7,7 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 250}%
 \GreHeader{transcriber}{Christopher Green}%
 \GreEndHeaders %
-\GreBeginScore{592f8f59e8e9acf895a5fc82a71a5de67804f4a5}{11}{9}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{3f568603ed4f46ab4b667ccd0877108c39a472f1}{11}{9}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -20,7 +20,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{u}{s}{u}{s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{}{u}{s}{u}{s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\maltese}{}{\maltese}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
@@ -31,9 +31,9 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{\maltese}{}{\maltese}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioMinima{0}{}{0}%
+\GreDivisioMinima{1}{}{0}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{i}{n}{i}{n}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{d}{a}{d}}{}{{0}{0}}{}{%

@@ -8,7 +8,7 @@
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 995}%
 \GreHeader{transcriber}{Br Michael}%
 \GreEndHeaders %
-\GreBeginScore{ac3e124dc276861acfb371ce30a0275821fc05df}{11}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{82126c7b04ee6b2da225f156f54e9a7a8bd72faf}{11}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -1123,7 +1123,7 @@
 \GreGlyphHeights{8}{7}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{r}{e}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{r}{e\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{e}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{r}{e\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreColored{\GreItalic{\GreSpecial{(}b}}}{\GreColored{\GreItalic{o}}}{\GreColored{\GreItalic{w\GreSpecial{)}}} }{\GreColored{\GreItalic{\GreSpecial{(}}}}{\GreColored{\GreItalic{b}}\GreColored{\GreItalic{o}}\GreColored{\GreItalic{w\GreSpecial{)}}} }}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{10}{}}{0}%
 {%
@@ -1133,9 +1133,9 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{5. Gl}{ó}{}{5}{. Gló}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{\GreColored{\GreItalic{\GreSpecial{(}b}}}{\GreColored{\GreItalic{o}}}{\GreColored{\GreItalic{w\GreSpecial{)}}} }{\GreColored{\GreItalic{\GreSpecial{(}}}}{\GreColored{\GreItalic{b}}\GreColored{\GreItalic{o}}\GreColored{\GreItalic{w\GreSpecial{)}}} }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{5. Gl}{ó}{}{5}{. Gló}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioFinalis{1}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{5. Gl}{ó}{}{5}{. Gló}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{i}{}{r}{i}}{}{{0}{0}}{}{%
@@ -1339,7 +1339,7 @@
 \GreGlyphHeights{10}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{t}{u}{}{t}{u}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{u}{}{t}{u}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreColored{\GreItalic{\GreSpecial{(}r}}}{\GreColored{\GreItalic{i}}}{\GreColored{\GreItalic{se\GreSpecial{)}}} }{\GreColored{\GreItalic{\GreSpecial{(}}}}{\GreColored{\GreItalic{r}}\GreColored{\GreItalic{i}}\GreColored{\GreItalic{se\GreSpecial{)}}} }}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{7}{}}{0}%
 {%
@@ -1350,9 +1350,9 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{I}{n}{I}{n}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{\GreColored{\GreItalic{\GreSpecial{(}r}}}{\GreColored{\GreItalic{i}}}{\GreColored{\GreItalic{se\GreSpecial{)}}} }{\GreColored{\GreItalic{\GreSpecial{(}}}}{\GreColored{\GreItalic{r}}\GreColored{\GreItalic{i}}\GreColored{\GreItalic{se\GreSpecial{)}}} }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{I}{n}{I}{n}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioMinima{0}{}{0}%
+\GreDivisioMinima{1}{}{0}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{I}{n}{I}{n}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{s}{e}{m}{s}{em}}{}{{0}{0}}{}{%
@@ -1384,7 +1384,7 @@
 \GreGlyphHeights{9}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{n}{a}{}{n}{a}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{s}{ǽ}{}{s}{ǽ}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{n}{a}{}{n}{a}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{s}{ae}{}{s}{ae}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{7}{}}{0}%
 {%
@@ -1392,7 +1392,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{s}{ǽ}{}{s}{ǽ}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{}{c}{u}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{s}{ae}{}{s}{ae}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{}{c}{u}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{3}%
 \GreGlyph{\GreCPScandicusOneOneNothing}{7}{\GreNextCustos{8}{}}{0}%
 {%
