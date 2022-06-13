@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Magnificat.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{05304ad792b5530ca8feb56cc30d35e751a75b43}{14}{12}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{8cfb0eb4ae9c32106b55365fa43c88ce4161623d}{14}{12}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{4.d}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -36,7 +36,7 @@
 \GreGlyphHeights{13}{13}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{\GreFirstWord{c}}{\GreFirstWord{a}}{\GreFirstWord{t}}{\GreFirstWord{c}}{\GreFirstWord{a}\GreFirstWord{t}}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{{13}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{\GreFirstWord{c}}{\GreFirstWord{a}}{\GreFirstWord{t}}{\GreFirstWord{c}}{\GreFirstWord{a}\GreFirstWord{t}}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\maltese}{}{\maltese}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{13}{\GreNextCustos{13}{}}{0}%
 {%
@@ -46,7 +46,7 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{á}{}{á}{}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreBarSyllable{\GreSetThisSyllable{}{\maltese}{}{\maltese}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{á}{}{á}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMaior{1}{}%
 }%
