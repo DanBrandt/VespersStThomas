@@ -8,7 +8,7 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 127}%
 \GreHeader{annotation}{6.}%
 \GreEndHeaders %
-\GreBeginScore{8a0e5c533125a3f854f7c8e7f535335e07d60b75}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{c4f283c44c5a31ed085c2d4ed3eb067424e3a0b2}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{6.}{}%
 \GreMode{\GreModeNumber{6}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
@@ -116,12 +116,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreSpecial{R/}. D}{e}{}{\GreSpecial{R/}}{. De}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreColored{\GreSpecial{R/}.} D}{e}{}{\GreColored{\GreSpecial{R/}}}{\GreColored{.} De}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{\GreSpecial{R/}. D}{e}{}{\GreSpecial{R/}}{. De}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{o}{}{o}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{\GreColored{\GreSpecial{R/}.} D}{e}{}{\GreColored{\GreSpecial{R/}}}{\GreColored{.} De}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{o}{}{o}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{5}%
 \GreGlyph{\GreCPPesOneNothing}{8}{\GreNextCustos{9}{}}{0}%
 {%
