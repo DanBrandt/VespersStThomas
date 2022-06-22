@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 JUN 2022 00:01
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  21 JUN 2022 23:45
  system commands enabled.
 **07-01-2022_Precious_Blood.tex
 (./07-01-2022_Precious_Blood.tex
@@ -1354,12 +1354,6 @@ Underfull \hbox (badness 2608) in paragraph at lines 3--4
  []
 
 
-Overfull \hbox (5.91428pt too wide) in paragraph at lines 7--8
-[]\T1/mdbch/m/n/10 5. Jurávit Dóminus, et non poeni\T1/mdbch/b/n/10 té\T1/md
-bch/m/n/10 bit
- []
-
-
 Underfull \hbox (badness 3758) in paragraph at lines 9--10
 []\T1/mdbch/m/n/10 6. Dóminus a \T1/mdbch/b/n/10 dex\T1/mdbch/m/n/10 tris \T1/
 mdbch/b/n/10 tu\T1/mdbch/m/n/10 is, *
@@ -1841,13 +1835,23 @@ Overfull \hbox (0.99008pt too wide) in paragraph at lines 362--362
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 362--362
-\T1/mdbch/m/n/10 Christum Filium Tuum, qui vivit
+Underfull \hbox (badness 2393) in paragraph at lines 362--362
+\T1/mdbch/m/n/10 perpetuo laetemur in caelis. *
  []
 
 
-Overfull \hbox (3.81831pt too wide) in paragraph at lines 362--362
-\T1/mdbch/m/n/10 Deus, per omnia saecula saeculurom.
+Underfull \hbox (badness 4403) in paragraph at lines 362--362
+\T1/mdbch/m/n/10 Per eumdem Dominum nostrum
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 362--362
+\T1/mdbch/m/n/10 vivit et regnat in unitate Spiritu
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 362--362
+\T1/mdbch/m/n/10 Sancti, Deus, per omnia saecula
  []
 
 
@@ -1878,11 +1882,6 @@ beatae Virginis
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 390--390
-\T1/mdbch/m/n/10 partus exstitit salutis ex6rdium, •
- []
-
-
 Underfull \hbox (badness 2653) in paragraph at lines 390--391
 \T1/mdbch/m/it/9 thee, unto all thy servants, the gift
  []
@@ -1908,9 +1907,7 @@ Underfull \hbox (badness 2582) in paragraph at lines 416--416
 \T1/mdbch/m/n/10 Sancti, Deus, per ómnia s[]æcula
  []
 
-[18
-Missing character: There is no • (U+2022) in font mdbchr8t!
-]
+[18]
 Module gregoriotex Info: Looking in  on input line 438
 Module gregoriotex Info: Found ../common/benedicamus-2v-solem.gabc directly on i
 nput line 438
@@ -1972,11 +1969,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  29707 strings out of 481365
  305212,794899 words of node,token memory allocated
- 5293 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 136 glue, 15 kern, 6 penalty, 7 glyph
-, 1033 attribute, 302 glue_spec, 149 attribute_list, 2 write, 1 user_defined nod
+ 5339 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 138 glue, 15 kern, 6 penalty, 7 glyph
+, 1047 attribute, 302 glue_spec, 151 attribute_list, 2 write, 1 user_defined nod
 es
-   avail lists: 1:2,2:47131,3:3656,4:98,5:5753,6:371,7:6519,8:2,9:7329,10:95,11:
+   avail lists: 1:2,2:47115,3:3656,4:98,5:5753,6:371,7:6517,8:2,9:7329,10:95,11:
 2
  45902 multiletter control sequences out of 65536+600000
  121 fonts using 12155515 bytes
@@ -1988,7 +1985,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 07-01-2022_Precious_Blood.pdf (21 pages, 1019827 bytes).
+Output written on 07-01-2022_Precious_Blood.pdf (21 pages, 1019984 bytes).
 
 PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  8 JUN 2022 23:50
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  21 JUN 2022 23:07
  system commands enabled.
 **Per_Annum_Friday_Congregation.tex
 (./Per_Annum_Friday_Congregation.tex
@@ -1710,14 +1710,10 @@ Here is how much of LuaTeX's memory you used:
  3356 words of node memory still in use:
    15 hlist, 5 vlist, 9 rule, 1 local_par, 54 glue, 13 kern, 6 penalty, 7 glyph,
  476 attribute, 283 glue_spec, 68 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:10525,3:943,4:19,5:1344,6:110,7:5367,8:2,9:1631,10:18
+   avail lists: 1:2,2:10525,3:943,4:19,5:1344,6:110,7:5366,8:2,9:1631,10:18
  45867 multiletter control sequences out of 65536+600000
  120 fonts using 12136651 bytes
  51i,12n,64p,877b,1986s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing Per_Annum_Friday_Congregation.gaux on input lin
-e 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
@@ -1725,7 +1721,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on Per_Annum_Friday_Congregation.pdf (11 pages, 671703 bytes).
+Output written on Per_Annum_Friday_Congregation.pdf (11 pages, 671684 bytes).
 
 PDF statistics: 72 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream

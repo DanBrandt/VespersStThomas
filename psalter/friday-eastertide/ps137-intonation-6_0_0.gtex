@@ -8,7 +8,7 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 301 & The Liber Usualis, 1961, p. 304 & Liber antiphonarius, 1960, p. 180}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{8fa0bf855ebfffb0a5175ef0968f28f4186c488d}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{b05d8d84df007f7d218ece4aee1066caf55ab0ce}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{3}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -259,22 +259,13 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{i}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{i}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{}{}{}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{i}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{i}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
+\GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{%
 \GrePunctumMora{9}{0}{0}{0}%
-}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{7}{7}%
-}{%
-\GrePunctumMora{7}{0}{0}{0}%
 }{}%
 }%
 %

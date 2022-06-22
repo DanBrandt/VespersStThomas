@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Psalm 138.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{4cca1eb7e35a88559ec0e262a86b767f8b97e17d}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{99d81841f7c9c07e1e4f90496e7d752bd18e9834}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{3.g2}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -258,7 +258,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{a}{m\GreProtrusion{\GreProtrusionFactor{period}}{.}}{a}{m\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{}{E}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{m\GreProtrusion{\GreProtrusionFactor{period}}{.}}{a}{m\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{12}{}}{0}%
 {%
@@ -266,6 +266,11 @@
 }{%
 \GrePunctumMora{9}{0}{0}{0}%
 }{}%
+}%
+%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{}{E}{}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{0}%
+\GreDivisioFinalis{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{E}{}{E}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{u}{}{u}{}}{}{{0}{0}}{}{%
