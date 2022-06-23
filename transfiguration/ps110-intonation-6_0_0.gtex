@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Psalm 110.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{a4098edd43beba8bcc174902758b3b09e6f8be52}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{0a8454cd5cbc594a0a303415e08642956254f6c5}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{8.G}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -253,54 +253,8 @@
 }{}%
 }%
 %
-\GreSetFixedNextTextFormat{1}\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreItalic{Fl}}{\GreItalic{e}}{\GreItalic{x:}}{\GreItalic{F}}{\GreItalic{l}\GreItalic{e}\GreItalic{x:}}}{}{{18}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{}{E}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
-}%
-%
-\GreSetFixedTextFormat{1}\GreNoNoteSyllable{\GreSetThisSyllable{Fl}{e}{x:}{F}{lex:}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{s}{u}{}{s}{u}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{0}%
-}%
-%
-\GreSyllable{\GreSetThisSyllable{s}{u}{}{s}{u}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{ó}{}{ó}{}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{12}{12}%
-}{}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{}{ó}{}{ó}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{u}{m, †}{r}{um, †}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{10}{}}{0}%
-{%
-\GreGlyphHeights{12}{12}%
-}{}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{r}{u}{m, †}{r}{um, †}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{}{E}{}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{4}%
-\GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{10}{10}%
-}{%
-\GrePunctumMora{10}{0}{0}{0}%
-}{}%
-\GreEndOfElement{2}{0}{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{12}{12}%
-}{}{}%
-\GreEndOfElement{2}{0}{2}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{12}{12}%
-}{}{}%
-\GreEndOfElement{2}{0}{3}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
-{%
-\GreGlyphHeights{12}{12}%
-}{}{}%
-\GreEndOfElement{2}{0}{4}%
-\GreEndOfElement{2}{0}{4}%
 \GreDivisioFinalis{0}{}%
 }%
 %

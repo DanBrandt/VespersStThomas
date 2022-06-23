@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  13 JUN 2022 18:01
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  23 JUN 2022 01:37
  system commands enabled.
 **08-05-2022_Transfiguration_First_Vespers.tex
 (./08-05-2022_Transfiguration_First_Vespers.tex
@@ -1455,9 +1455,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 33--100
 æcula
  []
 
-(../psalms/english/ps110.tex [5
-Missing character: There is no † (U+2020) in font mdbchr8t!
-])
+(../psalms/english/ps110.tex [5])
 Module gregoriotex Info: Looking in  on input line 105
 Module gregoriotex Info: Found ps110-antiphon.gabc directly on input line 105
 Module gregoriotex Info: Looking in  on input line 105
@@ -1544,9 +1542,7 @@ Underfull \hbox (badness 2384) in paragraph at lines 12--13
 []\T1/mdbch/m/it/9 6. The just shall be in everlasting
  []
 
-[7
-Missing character: There is no † (U+2020) in font mdbchr8t!
-])
+[7])
 Module gregoriotex Info: Looking in  on input line 141
 Module gregoriotex Info: Found ps111-antiphon.gabc directly on input line 141
 Module gregoriotex Info: Looking in  on input line 141
@@ -1698,11 +1694,6 @@ ine 313
 Module gregoriotex Info: Looking in  on input line 313
 Module gregoriotex Info: Found magnificat-intonation-1v-6_0_0.gtex directly on i
 nput line 313
-Module gregoriotex Info: magnificat-intonation-1v.gabc has been modified and mag
-nificat-intonation-1v-6_0_0.gtex needs to be updated. Recompiling the gabc file.
- on input line 313
-Module gregoriotex Info: compiling the score magnificat-intonation-1v.gabc... on
- input line 313
 
 (./magnificat-intonation-1v-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1774,23 +1765,8 @@ Underfull \hbox (badness 1924) in paragraph at lines 381--381
  []
 
 
-Overfull \hbox (7.73119pt too wide) in paragraph at lines 381--381
-\T1/mdbch/m/n/10 ejúsdem glóriæ tríbuas esse consórtes.
- []
-
-
-Underfull \hbox (badness 4403) in paragraph at lines 381--381
-\T1/mdbch/m/n/10 Per eúmdem Dóminum nostrum
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 381--381
-\T1/mdbch/m/n/10 tecum vivit et regnat in unitáte
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 381--381
-\T1/mdbch/m/n/10 Spíritus Sancti, Deus, per ómnia
+Underfull \hbox (badness 4144) in paragraph at lines 381--381
+\T1/mdbch/m/n/10 nostrum Jesum Christum Fílium
  []
 
 
@@ -1830,23 +1806,8 @@ Underfull \hbox (badness 2875) in paragraph at lines 409--409
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 409--409
-\T1/mdbch/m/n/10 tuos, qu[]æsumus, Dómine Deus,\gre@font@variant@D 
- []
-
-
-Overfull \hbox (7.42723pt too wide) in paragraph at lines 409--409
-\T1/mdbch/m/n/10 pérfrui lætítia. Per Dóminum nostrum
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 409--409
-\T1/mdbch/m/n/10 tecum vivit et regnat in unitáte
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 409--409
-\T1/mdbch/m/n/10 Spíritus Sancti, Deus, per ómnia
+Underfull \hbox (badness 4144) in paragraph at lines 409--409
+\T1/mdbch/m/n/10 nostrum Jesum Christum Fílium
  []
 
 [16]
@@ -1887,18 +1848,14 @@ Overfull \hbox (1.4432pt too wide) in paragraph at lines 495--495
  []
 
 
-Overfull \hbox (2.94475pt too wide) in paragraph at lines 495--495
-\T1/mdbch/m/n/10 Mariae corpus et animam, ut dignum
+Underfull \hbox (badness 2269) in paragraph at lines 495--495
+\T1/mdbch/m/n/10 Mariae corpus et animam, \gre@font@variant@D  \T1/mdbch/m/n
+/10 ut
  []
 
 
-Overfull \hbox (1.97119pt too wide) in paragraph at lines 495--495
-\T1/mdbch/m/n/10 Filii tui habitaculum effici mereretur,
- []
-
-
-Overfull \hbox (0.76804pt too wide) in paragraph at lines 495--495
-\T1/mdbch/m/n/10 commemoratione laetamur; eius pia
+Overfull \hbox (1.41635pt too wide) in paragraph at lines 495--495
+\T1/mdbch/m/n/10 cooperante, praeparasti, da, ut cuius
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 512.
@@ -1909,21 +1866,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29695 strings out of 481365
- 156263,794899 words of node,token memory allocated
- 4966 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 124 glue, 13 kern, 6 penalty, 7 glyph
-, 942 attribute, 297 glue_spec, 136 attribute_list, 2 write, 1 user_defined node
+ 29694 strings out of 481365
+ 156270,794899 words of node,token memory allocated
+ 5058 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 128 glue, 13 kern, 6 penalty, 7 glyph
+, 970 attribute, 297 glue_spec, 140 attribute_list, 2 write, 1 user_defined node
 s
-   avail lists: 1:8,2:24993,3:1849,4:40,5:2976,6:196,7:3545,8:2,9:3767,10:38,11:
+   avail lists: 1:3,2:24961,3:1849,4:40,5:2976,6:196,7:3541,8:3,9:3767,10:38,11:
 8
- 45901 multiletter control sequences out of 65536+600000
+ 45900 multiletter control sequences out of 65536+600000
  121 fonts using 12154859 bytes
  51i,12n,65p,888b,4642s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing 08-05-2022_Transfiguration_First_Vespers.gaux o
-n input line 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
@@ -1931,8 +1884,8 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 08-05-2022_Transfiguration_First_Vespers.pdf (19 pages, 11929
-39 bytes).
+Output written on 08-05-2022_Transfiguration_First_Vespers.pdf (19 pages, 11926
+86 bytes).
 
 PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
