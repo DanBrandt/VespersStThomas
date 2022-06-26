@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  23 JUN 2022 01:37
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 JUN 2022 10:13
  system commands enabled.
 **08-05-2022_Transfiguration_First_Vespers.tex
 (./08-05-2022_Transfiguration_First_Vespers.tex
@@ -1694,6 +1694,11 @@ ine 313
 Module gregoriotex Info: Looking in  on input line 313
 Module gregoriotex Info: Found magnificat-intonation-1v-6_0_0.gtex directly on i
 nput line 313
+Module gregoriotex Info: magnificat-intonation-1v.gabc has been modified and mag
+nificat-intonation-1v-6_0_0.gtex needs to be updated. Recompiling the gabc file.
+ on input line 313
+Module gregoriotex Info: compiling the score magnificat-intonation-1v.gabc... on
+ input line 313
 
 (./magnificat-intonation-1v-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1722,15 +1727,22 @@ Overfull \hbox (8.45567pt too wide) detected at line 258
 |
  []
 
+
+Overfull \hbox (8.45567pt too wide) detected at line 313
+|
+ []
+
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (0.9184pt too wide) in paragraph at lines 344--344
-[]\T1/mdbch/m/n/10 3. Quia respéxit humilitátem \T1/mdbch/m/it/10 ancíllæ
+Overfull \hbox (0.784pt too wide) in paragraph at lines 344--344
+[]\T1/mdbch/m/n/10 3. \T1/mdbch/m/it/10 Quia \T1/mdbch/m/n/10 respéxit humilit
+átem \T1/mdbch/m/it/10 ancíllæ
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 344--344
-[]\T1/mdbch/m/n/10 10. Sicut locútus est \T1/mdbch/m/it/10 ad patres
+Underfull \hbox (badness 1668) in paragraph at lines 344--344
+[]\T1/mdbch/m/n/10 10. \T1/mdbch/m/it/10 Sicut \T1/mdbch/m/n/10 locútus est \T
+1/mdbch/m/it/10 ad patres
  []
 
 (../psalms/english/magnificat.tex
@@ -1877,6 +1889,10 @@ s
  45900 multiletter control sequences out of 65536+600000
  121 fonts using 12154859 bytes
  51i,12n,65p,888b,4642s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing 08-05-2022_Transfiguration_First_Vespers.gaux o
+n input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
@@ -1884,8 +1900,8 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 08-05-2022_Transfiguration_First_Vespers.pdf (19 pages, 11926
-86 bytes).
+Output written on 08-05-2022_Transfiguration_First_Vespers.pdf (19 pages, 11930
+11 bytes).
 
 PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream

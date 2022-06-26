@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  15 JUN 2022 00:06
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 JUN 2022 10:09
  system commands enabled.
 **10-07-2022_Most_Holy_Rosary.tex
 (./10-07-2022_Most_Holy_Rosary.tex
@@ -1343,51 +1343,38 @@ Package babel Info: \l@latin = using hyphenrules for nil
 Package babel Info: Importing basic data for latin
 (babel)             from babel-la.ini. Reported on input line 9.
 )
-(../psalms/ps109-8.tex
+(../psalms/ps109-8Solemn.tex
 Underfull \hbox (badness 2608) in paragraph at lines 4--6
 []\T1/mdbch/m/n/10 3. Virgam virtútis tuæ emíttet
  []
 
 
-Overfull \hbox (3.32227pt too wide) in paragraph at lines 10--12
-[]\T1/mdbch/m/n/10 5. Jurávit Dóminus, et non p÷nitébit
+Underfull \hbox (badness 1024) in paragraph at lines 4--6
+\T1/mdbch/m/n/10 Dó\T1/mdbch/m/it/10 minus ex \T1/mdbch/b/n/10 Si\T1/mdbch/m/n
+/10 on: * domináre in
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 13--15
-[]\T1/mdbch/m/n/10 6. Dóminus a dextris \T1/mdbch/b/n/10 tu\T1/mdbch/m/n/10 is
-, *
+Underfull \hbox (badness 4492) in paragraph at lines 13--15
+[]\T1/mdbch/m/n/10 6. Dóminus \T1/mdbch/m/it/10 a dextris \T1/mdbch/b/n/10 tu\
+T1/mdbch/m/n/10 is, *
  []
 
 
 Underfull \hbox (badness 2837) in paragraph at lines 16--18
-\T1/mdbch/m/n/10 ru\T1/mdbch/b/n/10 í\T1/mdbch/m/n/10 nas: * conquassábit c
+\T1/mdbch/m/it/10 ru\T1/mdbch/b/n/10 í\T1/mdbch/m/n/10 nas: * conquassábit c
 ápita in
  []
 
-
-Underfull \hbox (badness 1024) in paragraph at lines 22--24
-[]\T1/mdbch/m/it/10 (bow) \T1/mdbch/m/n/10 Glória Patri, et \T1/mdbch/b/n/10 F
-í\T1/mdbch/m/n/10 lio, * et
- []
-
 )
-Underfull \hbox (badness 2103) in paragraph at lines 25--66
-[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
- []
-
-
-Underfull \hbox (badness 1163) in paragraph at lines 25--66
-\T1/mdbch/m/n/10 nunc, et \T1/mdbch/b/n/10 sem\T1/mdbch/m/n/10 per, * et in s[]
-æcula
- []
-
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 8.64006pt on input line 66.
-(../psalms/english/ps109.tex
+ (../psalms/english/ps109.tex
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 17.
- [3])
+ [3
+Missing character: There is no œ (U+0153) in font mdbchr8t!
+])
 Module gregoriotex Info: Looking in  on input line 71
 Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 71
 Module gregoriotex Info: Looking in  on input line 71
@@ -1619,12 +1606,6 @@ nput line 220
 Module gregoriotex Info: Looking in  on input line 220
 Module gregoriotex Info: Found ../hymns/te-gestientem-gaudiis-6_0_0.gtex directl
 y on input line 220
-Module gregoriotex Info: ../hymns/te-gestientem-gaudiis.gabc has been modified a
-nd ../hymns/te-gestientem-gaudiis-6_0_0.gtex needs to be updated. Recompiling th
-e gabc file. on input line 220
-Module gregoriotex Info: compiling the score ../hymns/te-gestientem-gaudiis.gabc
-... on input line 220
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 220
 
 (../hymns/te-gestientem-gaudiis-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1662,6 +1643,7 @@ Overfull \hbox (8.45567pt too wide) detected at line 1662
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [11]
 Module gregoriotex Info: Processing gabc snippet... on input line 260
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 260
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1690,19 +1672,26 @@ Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
 Module gregoriotex Info: Looking in  on input line 295
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
 t line 295
+Module gregoriotex Info: magnificat-intonation.gabc has been modified and magnif
+icat-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on in
+put line 295
+Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
+put line 295
 
 (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (1.9456pt too wide) in paragraph at lines 326--326
-[]\T1/mdbch/m/n/10 3. Quia respéxit humilitátem ancíllæ
+Overfull \hbox (0.29439pt too wide) in paragraph at lines 326--326
+[]\T1/mdbch/m/n/10 3. \T1/mdbch/m/it/10 Quia re\T1/mdbch/m/n/10 spéxit humilit
+átem \T1/mdbch/m/it/10 ancíllæ
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 326--326
-[]\T1/mdbch/m/n/10 10. Sicut locútus est ad patres
+Underfull \hbox (badness 1762) in paragraph at lines 326--326
+[]\T1/mdbch/m/n/10 10. \T1/mdbch/m/it/10 Sicut lo\T1/mdbch/m/n/10 cútus est \T
+1/mdbch/m/it/10 ad patres
  []
 
 (../psalms/english/magnificat.tex
@@ -1726,14 +1715,16 @@ nput line 337
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [14]
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [14
+Missing character: There is no ǽ (U+01FD) in font mdbchb8t!
+]
 Underfull \hbox (badness 1194) in paragraph at lines 363--363
 \T1/mdbch/m/n/10 vitam, mortem et resurrectiónem
  []
 
 
-Underfull \hbox (badness 4205) in paragraph at lines 363--363
-\T1/mdbch/m/n/10 et imitémur quod cóntinent, et
+Underfull \hbox (badness 3009) in paragraph at lines 363--363
+\T1/mdbch/m/n/10 promíttunt, assequámur. * Per
  []
 
 
@@ -1818,18 +1809,14 @@ Overfull \hbox (1.4432pt too wide) in paragraph at lines 483--483
  []
 
 
-Overfull \hbox (2.94475pt too wide) in paragraph at lines 483--483
-\T1/mdbch/m/n/10 Mariae corpus et animam, ut dignum
+Underfull \hbox (badness 2269) in paragraph at lines 483--483
+\T1/mdbch/m/n/10 Mariae corpus et animam, \gre@font@variant@D  \T1/mdbch/m/n
+/10 ut
  []
 
 
-Overfull \hbox (1.97119pt too wide) in paragraph at lines 483--483
-\T1/mdbch/m/n/10 Filii tui habitaculum effici mereretur,
- []
-
-
-Overfull \hbox (0.76804pt too wide) in paragraph at lines 483--483
-\T1/mdbch/m/n/10 commemoratione laetamur; eius pia
+Overfull \hbox (3.77025pt too wide) in paragraph at lines 483--483
+\T1/mdbch/m/n/10 mereretur, Spiritu Sancto cooperante 
  []
 
 
@@ -1846,16 +1833,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  29702 strings out of 481365
- 195332,794899 words of node,token memory allocated
- 4844 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 116 glue, 17 kern, 6 penalty, 7 glyph
-, 900 attribute, 299 glue_spec, 130 attribute_list, 2 write, 1 user_defined node
+ 195324,794899 words of node,token memory allocated
+ 4982 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 122 glue, 17 kern, 6 penalty, 7 glyph
+, 942 attribute, 299 glue_spec, 136 attribute_list, 2 write, 1 user_defined node
 s
-   avail lists: 1:6,2:34431,3:2592,4:63,5:4116,6:274,7:4952,8:2,9:5127,10:60,11:
+   avail lists: 1:6,2:34851,3:2594,4:61,5:4162,6:285,7:4999,8:2,9:5288,10:57,11:
 4
  45904 multiletter control sequences out of 65536+600000
  121 fonts using 12154859 bytes
- 51i,12n,65p,875b,5420s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,12n,65p,875b,5480s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing 10-07-2022_Most_Holy_Rosary.gaux on input line 
 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
@@ -1867,7 +1854,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 10-07-2022_Most_Holy_Rosary.pdf (18 pages, 752412 bytes).
+Output written on 10-07-2022_Most_Holy_Rosary.pdf (18 pages, 752766 bytes).
 
 PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream

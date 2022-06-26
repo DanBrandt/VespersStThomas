@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  15 JUN 2022 23:43
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 JUN 2022 10:15
  system commands enabled.
 **11-04-2022.tex
 (./11-04-2022.tex
@@ -1183,6 +1183,11 @@ Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
 Module gregoriotex Info: Looking in  on input line 85
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
 t line 85
+Module gregoriotex Info: magnificat-intonation.gabc has been modified and magnif
+icat-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on in
+put line 85
+Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
+put line 85
  (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1289,8 +1294,8 @@ Underfull \hbox (badness 2503) in paragraph at lines 126--126
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 126--126
-\T1/mdbch/m/n/10 amóre fervéntes. Per Dóminum nostrum Jesum
+Underfull \hbox (badness 1158) in paragraph at lines 126--126
+\T1/mdbch/m/n/10 amóre fervéntes. * Per Dóminum nostrum Jesum
  []
 
 
@@ -1305,12 +1310,6 @@ um--solesmes_1934.gabc directly on input line 139
 Module gregoriotex Info: Looking in  on input line 139
 Module gregoriotex Info: Found ../../commemorations/an--angeli_archangeli_caelor
 um--solesmes_1934-6_0_0.gtex directly on input line 139
-Module gregoriotex Info: ../../commemorations/an--angeli_archangeli_caelorum--so
-lesmes_1934.gabc has been modified and ../../commemorations/an--angeli_archangel
-i_caelorum--solesmes_1934-6_0_0.gtex needs to be updated. Recompiling the gabc f
-ile. on input line 139
-Module gregoriotex Info: compiling the score ../../commemorations/an--angeli_arc
-hangeli_caelorum--solesmes_1934.gabc... on input line 139
 
 (../../commemorations/an--angeli_archangeli_caelorum--solesmes_1934-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1335,11 +1334,6 @@ Underfull \hbox (badness 3343) in paragraph at lines 157--157
 []\T1/mdbch/m/n/10 Orémus. Omnípotens sempitérne Deus, qui nos
  []
 
-
-Underfull \hbox (badness 1112) in paragraph at lines 157--157
-\T1/mdbch/m/n/10 Christum, Fílium tuum: qui tecum vivit et regnat
- []
-
 Module gregoriotex Info: Looking in  on input line 178
 Module gregoriotex Info: Found ../../common/benedicamus-tone-8.gabc directly on 
 input line 178
@@ -1361,14 +1355,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  29312 strings out of 481365
  195330,794899 words of node,token memory allocated
- 3565 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 68 glue, 13 kern, 6 penalty, 7 glyph,
- 526 attribute, 284 glue_spec, 80 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:6,2:29881,3:2348,4:67,5:3546,6:244,7:4493,8:2,9:4593,10:59,11:
+ 3657 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 72 glue, 13 kern, 6 penalty, 7 glyph,
+ 554 attribute, 284 glue_spec, 84 attribute_list, 2 write, 1 user_defined nodes
+   avail lists: 1:6,2:29849,3:2348,4:67,5:3546,6:244,7:4489,8:2,9:4593,10:59,11:
 1
  45744 multiletter control sequences out of 65536+600000
  118 fonts using 11948443 bytes
- 51i,11n,60p,837b,5666s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,11n,64p,837b,5666s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing 11-04-2022.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1379,7 +1373,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 11-04-2022.pdf (4 pages, 78337 bytes).
+Output written on 11-04-2022.pdf (4 pages, 78646 bytes).
 
 PDF statistics: 48 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
