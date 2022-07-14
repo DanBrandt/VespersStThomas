@@ -8,7 +8,7 @@
 \GreHeader{book}{Liber antiphonarius, 1960, p. [55] & Liber antiphonarius, 1960, p. 577.15 & Liber antiphonarius, 1960, p. 81*}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{fae5db4f1f66f4d528061f1e38f0e8daa3145fca}{10}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{1d1a0851afb47c3765832300527a6e070fbd290b}{10}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -299,45 +299,7 @@
 \GreGlyphHeights{6}{5}%
 }{}{}%
 }%
-\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{n}{u}{m\GreProtrusion{\GreProtrusionFactor{period}}{.}}{n}{um\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{T. P.}{}{T}{. P.}}{}{{17}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{7}{}}{0}%
-{%
-\GreGlyphHeights{6}{6}%
-}{%
-\GrePunctumMora{6}{0}{0}{0}%
-}{}%
-}%
-%
-\GreSetFixedTextFormat{1}\GreBarSyllable{\GreSetThisSyllable{}{T. P.}{}{T}{. P.}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{A}{l}{A}{l}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{0}%
-\GreDivisioFinalis{1}{}%
-}%
-%
-\GreSyllable{\GreSetThisSyllable{}{A}{l}{A}{l}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{e}{}{l}{e}}{}{{8}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{8}{}}{0}%
-{%
-\GreGlyphHeights{7}{7}%
-}{}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{l}{e}{}{l}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{ú}{}{l}{ú}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{6}{}}{8}%
-{%
-\GreGlyphHeights{8}{7}%
-}{}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{l}{ú}{}{l}{ú}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{i}{a}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{i}{a\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{6}{}}{0}%
-{%
-\GreGlyphHeights{6}{6}%
-}{%
-\GrePunctumMora{6}{0}{0}{0}%
-}{}%
-}%
-\GreSyllable{\GreSetThisSyllable{i}{a}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{i}{a\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{n}{u}{m\GreProtrusion{\GreProtrusionFactor{period}}{.}}{n}{um\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{9}{}}{0}%
 {%
