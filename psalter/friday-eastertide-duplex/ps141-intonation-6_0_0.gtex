@@ -8,14 +8,16 @@
 \GreHeader{user-notes}{Psalm 141.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{f241677fbb87717217887282ca989159bf69a193}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{c744c33ac32fdd7013f5e23775152004100e31f6}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{3.g2}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{1}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{1}{.}{ Vo}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{.} V}}}{\GreFirstWord{\GreFirstSyllable{o}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{1}. V}}}{\GreFirstWord{\GreFirstSyllable{o}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{c}}{\GreFirstWord{e}}{}{\GreFirstWord{c}}{\GreFirstWord{e}}}{}{{0}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{1}{.}{ Vo}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{.} V}}}{\GreFirstWord{\GreFirstSyllable{o}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{1}. V}}}{\GreFirstWord{\GreFirstSyllable{o}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{c}}{\GreFirstWord{e}}{}{\GreFirstWord{c}}{\GreFirstWord{e}}}{}{{0}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -89,7 +91,7 @@
 \GreGlyphHeights{11}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{v}{i}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{v}{i\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{{13}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{v}{i}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{v}{i\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
@@ -99,7 +101,9 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{v}{o}{}{v}{o}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{v}{o}{}{v}{o}}{}{{0}{0}}{%
+\GreSetTextAboveLines{choir}%
+}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMaior{1}{}%
 }%
