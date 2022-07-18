@@ -9,7 +9,7 @@
 \GreHeader{transcriber}{Ryan Carey}%
 \GreHeader{annotation}{2.}%
 \GreEndHeaders %
-\GreBeginScore{6b81ce2cdb30d489ad4809d50873cf12f48b5531}{12}{4}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{492464c220044bd8905979a036129505d375fadb}{12}{4}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreAnnotationLines{2.}{}%
 \GreMode{\GreModeNumber{2}}{}{}%
 \GreSetLargestClef{f}{3}{3}{c}{0}{3}%
@@ -178,12 +178,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreSpecial{R/}. D}{e}{}{\GreSpecial{R/}}{. De}}{}{{1}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreColored{\GreSpecial{R/}.} D}{e}{}{\GreColored{\GreSpecial{R/}}}{\GreColored{.} De}}{}{{1}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{\GreSpecial{R/}. D}{e}{}{\GreSpecial{R/}}{. De}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{o}{}{o}{}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{\GreColored{\GreSpecial{R/}.} D}{e}{}{\GreColored{\GreSpecial{R/}}}{\GreColored{.} De}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{o}{}{o}{}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{4}%
 \GreGlyph{\GreCPFlexusThreeNothing}{8}{\GreNextCustos{7}{}}{1}%
 {%
