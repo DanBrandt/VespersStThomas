@@ -8,7 +8,7 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 1600}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{724c6600cbab6ae4d8f0cc4666e9d414869272a3}{14}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{386ed7f20faaa6b3667c43e845ee5c25e4fee8c4}{14}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{2}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -392,7 +392,7 @@
 \GreGlyphHeights{12}{11}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{t}{a}{}{t}{a}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{d}{ǽ}{}{d}{ǽ}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{a}{}{t}{a}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{d}{æ}{}{d}{æ}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -400,7 +400,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{d}{ǽ}{}{d}{ǽ}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{m}{o}{}{m}{o}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d}{æ}{}{d}{æ}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{m}{o}{}{m}{o}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{9}{}}{8}%
 {%
