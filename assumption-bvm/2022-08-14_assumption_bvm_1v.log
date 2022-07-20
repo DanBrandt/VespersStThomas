@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  19 JUL 2022 00:09
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  19 JUL 2022 22:39
  system commands enabled.
 **2022-08-14_assumption_bvm_1v.tex
 (./2022-08-14_assumption_bvm_1v.tex
@@ -1122,7 +1122,7 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 Package babel Warning: Unknown language `latin'. Very likely you
 (babel)                requested it in a previous run. Expect some
 (babel)                wrong results in this run, which should vanish
-(babel)                in the next one. Reported on input line 7.
+(babel)                in the next one. Reported on input line 8.
 
 )
 \openout1 = 2022-08-14_assumption_bvm_1v.aux
@@ -1324,18 +1324,19 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
 (Font)              scaled to size 11.52008pt on input line 12.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 45
-Module gregoriotex Info: Found ps109-intonation.gabc directly on input line 45
-Module gregoriotex Info: Looking in  on input line 45
+Package mdframed Info: mdframed works in twoside mode on input line 45.
+Module gregoriotex Info: Looking in  on input line 51
+Module gregoriotex Info: Found ps109-intonation.gabc directly on input line 51
+Module gregoriotex Info: Looking in  on input line 51
 Module gregoriotex Info: Found ps109-intonation-6_0_0.gtex directly on input lin
-e 45
+e 51
  (./ps109-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package babel Info: \l@latin = using hyphenrules for nil
-(babel)             (\language6) on input line 55.
+(babel)             (\language6) on input line 61.
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/la/babel-latin.tex
 Package babel Info: Importing basic data for latin
@@ -1359,26 +1360,26 @@ Underfull \hbox (badness 1178) in paragraph at lines 13--14
 
 )
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 55.
+(Font)              scaled to size 10.51207pt on input line 61.
  (../psalms/english/ps109.tex
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 13.
+(Font)              scaled to size 10.51207pt on input line 11.
  [2])
-Module gregoriotex Info: Looking in  on input line 60
-Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 60
-Module gregoriotex Info: Looking in  on input line 60
+Module gregoriotex Info: Looking in  on input line 66
+Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 66
+Module gregoriotex Info: Looking in  on input line 66
 Module gregoriotex Info: Found ps109-antiphon-6_0_0.gtex directly on input line 
-60
+66
  (./ps109-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 70
-Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 70
-Module gregoriotex Info: Looking in  on input line 70
+Module gregoriotex Info: Looking in  on input line 76
+Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 76
+Module gregoriotex Info: Looking in  on input line 76
 Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
-70
+76
 
 (./ps112-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1389,11 +1390,11 @@ Overfull \hbox (8.17033pt too wide) detected at line 204
 
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 73
-Module gregoriotex Info: Found ps112-intonation.gabc directly on input line 73
-Module gregoriotex Info: Looking in  on input line 73
+Module gregoriotex Info: Looking in  on input line 79
+Module gregoriotex Info: Found ps112-intonation.gabc directly on input line 79
+Module gregoriotex Info: Looking in  on input line 79
 Module gregoriotex Info: Found ps112-intonation-6_0_0.gtex directly on input lin
-e 73
+e 79
  (./ps112-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1401,11 +1402,11 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps112
 -8G-solemn.tex)
 (../psalms/english/ps112.tex [3])
-Module gregoriotex Info: Looking in  on input line 88
-Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 88
-Module gregoriotex Info: Looking in  on input line 88
+Module gregoriotex Info: Looking in  on input line 94
+Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 94
+Module gregoriotex Info: Looking in  on input line 94
 Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
-88
+94
  (./ps112-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1415,63 +1416,63 @@ Overfull \hbox (8.17033pt too wide) detected at line 204
 
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 98
-Module gregoriotex Info: Found ps121-antiphon.gabc directly on input line 98
-Module gregoriotex Info: Looking in  on input line 98
+Module gregoriotex Info: Looking in  on input line 104
+Module gregoriotex Info: Found ps121-antiphon.gabc directly on input line 104
+Module gregoriotex Info: Looking in  on input line 104
 Module gregoriotex Info: Found ps121-antiphon-6_0_0.gtex directly on input line 
-98
+104
  (./ps121-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 101
-Module gregoriotex Info: Found ps121-intonation.gabc directly on input line 101
-Module gregoriotex Info: Looking in  on input line 101
+Module gregoriotex Info: Looking in  on input line 107
+Module gregoriotex Info: Found ps121-intonation.gabc directly on input line 107
+Module gregoriotex Info: Looking in  on input line 107
 Module gregoriotex Info: Found ps121-intonation-6_0_0.gtex directly on input lin
-e 101
+e 107
  (./ps121-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4]
 (../psalms/ps121-4ASTAR-solemn.tex
 Underfull \hbox (badness 2689) in paragraph at lines 7--9
 []\T1/mdbch/m/n/12 4. Illuc enim ascendérunt tri\T1/mdbch/m/it/12 bus\T1/mdbch
 /m/n/12 , \T1/mdbch/m/it/12 tribus
  []
 
-) (../psalms/english/ps121.tex [4]
+) (../psalms/english/ps121.tex
 Underfull \hbox (badness 1960) in paragraph at lines 15--16
 []\T1/mdbch/m/it/10.95 8. For the sake of my brethren, and of my
  []
 
 )
-Module gregoriotex Info: Looking in  on input line 116
-Module gregoriotex Info: Found ps121-antiphon.gabc directly on input line 116
-Module gregoriotex Info: Looking in  on input line 116
+Module gregoriotex Info: Looking in  on input line 122
+Module gregoriotex Info: Found ps121-antiphon.gabc directly on input line 122
+Module gregoriotex Info: Looking in  on input line 122
 Module gregoriotex Info: Found ps121-antiphon-6_0_0.gtex directly on input line 
-116
+122
  (./ps121-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 126
-Module gregoriotex Info: Found ps126-antiphon.gabc directly on input line 126
-Module gregoriotex Info: Looking in  on input line 126
+Module gregoriotex Info: Looking in  on input line 132
+Module gregoriotex Info: Found ps126-antiphon.gabc directly on input line 132
+Module gregoriotex Info: Looking in  on input line 132
 Module gregoriotex Info: Found ps126-antiphon-6_0_0.gtex directly on input line 
-126
+132
  (./ps126-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 129
-Module gregoriotex Info: Found ps126-intonation.gabc directly on input line 129
-Module gregoriotex Info: Looking in  on input line 129
+Module gregoriotex Info: Looking in  on input line 135
+Module gregoriotex Info: Found ps126-intonation.gabc directly on input line 135
+Module gregoriotex Info: Looking in  on input line 135
 Module gregoriotex Info: Found ps126-intonation-6_0_0.gtex directly on input lin
-e 129
+e 135
 
 (./ps126-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1485,37 +1486,37 @@ Underfull \hbox (badness 1681) in paragraph at lines 1--3
  []
 
 ) (../psalms/english/ps126.tex)
-Module gregoriotex Info: Looking in  on input line 144
-Module gregoriotex Info: Found ps126-antiphon.gabc directly on input line 144
-Module gregoriotex Info: Looking in  on input line 144
+Module gregoriotex Info: Looking in  on input line 150
+Module gregoriotex Info: Found ps126-antiphon.gabc directly on input line 150
+Module gregoriotex Info: Looking in  on input line 150
 Module gregoriotex Info: Found ps126-antiphon-6_0_0.gtex directly on input line 
-144
+150
  (./ps126-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 154
-Module gregoriotex Info: Found ps147-antiphon.gabc directly on input line 154
-Module gregoriotex Info: Looking in  on input line 154
+Module gregoriotex Info: Looking in  on input line 160
+Module gregoriotex Info: Found ps147-antiphon.gabc directly on input line 160
+Module gregoriotex Info: Looking in  on input line 160
 Module gregoriotex Info: Found ps147-antiphon-6_0_0.gtex directly on input line 
-154
+160
 
 (./ps147-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 157
-Module gregoriotex Info: Found ps147-intonation.gabc directly on input line 157
-Module gregoriotex Info: Looking in  on input line 157
+Module gregoriotex Info: Looking in  on input line 163
+Module gregoriotex Info: Found ps147-intonation.gabc directly on input line 163
+Module gregoriotex Info: Looking in  on input line 163
 Module gregoriotex Info: Found ps147-intonation-6_0_0.gtex directly on input lin
-e 157
+e 163
  (./ps147-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [6]
 (../psalms/ps147-1g2-solemn.tex
 Underfull \hbox (badness 3792) in paragraph at lines 1--3
 []\T1/mdbch/m/n/12 2. Quóniam confortávit seras por\T1/mdbch/m/it/12 tárum
@@ -1533,23 +1534,29 @@ Underfull \hbox (badness 1281) in paragraph at lines 19--21
 n/12 Ja\T1/mdbch/m/n/12 cob: *
  []
 
-) (../psalms/english/ps147.tex [6])
-Module gregoriotex Info: Looking in  on input line 172
-Module gregoriotex Info: Found ps147-antiphon.gabc directly on input line 172
-Module gregoriotex Info: Looking in  on input line 172
+) (../psalms/english/ps147.tex)
+Module gregoriotex Info: Looking in  on input line 178
+Module gregoriotex Info: Found ps147-antiphon.gabc directly on input line 178
+Module gregoriotex Info: Looking in  on input line 178
 Module gregoriotex Info: Found ps147-antiphon-6_0_0.gtex directly on input line 
-172
+178
  (./ps147-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [7]
-Module gregoriotex Info: Looking in  on input line 201
+Module gregoriotex Info: Looking in  on input line 207
 Module gregoriotex Info: Found ../hymns/o-prima-virgo.gabc directly on input lin
-e 201
-Module gregoriotex Info: Looking in  on input line 201
+e 207
+Module gregoriotex Info: Looking in  on input line 207
 Module gregoriotex Info: Found ../hymns/o-prima-virgo-6_0_0.gtex directly on inp
-ut line 201
+ut line 207
+Module gregoriotex Info: ../hymns/o-prima-virgo.gabc has been modified and ../hy
+mns/o-prima-virgo-6_0_0.gtex needs to be updated. Recompiling the gabc file. on 
+input line 207
+Module gregoriotex Info: compiling the score ../hymns/o-prima-virgo.gabc... on i
+nput line 207
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 207
 
 (../hymns/o-prima-virgo-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1590,49 +1597,49 @@ Overfull \hbox (8.45567pt too wide) detected at line 1878
 
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [8]
-Module gregoriotex Info: Processing gabc snippet... on input line 247
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 247
+Module gregoriotex Info: Processing gabc snippet... on input line 253
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Module gregoriotex Info: Processing gabc snippet... on input line 252
+Module gregoriotex Info: Processing gabc snippet... on input line 258
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Package mdframed Info: mdframed works in twoside mode on input line 265.
-Module gregoriotex Info: Looking in  on input line 271
+Package mdframed Info: mdframed works in twoside mode on input line 271.
+Module gregoriotex Info: Looking in  on input line 277
 Module gregoriotex Info: Found magnificat-antiphon-only.gabc directly on input l
-ine 271
-Module gregoriotex Info: Looking in  on input line 271
+ine 277
+Module gregoriotex Info: Looking in  on input line 277
 Module gregoriotex Info: Found magnificat-antiphon-only-6_0_0.gtex directly on i
-nput line 271
+nput line 277
  (./magnificat-antiphon-only-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 274.
-Module gregoriotex Info: Looking in  on input line 280
+Package mdframed Info: mdframed works in twoside mode on input line 280.
+ [9]
+Module gregoriotex Info: Looking in  on input line 286
 Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
- 280
-Module gregoriotex Info: Looking in  on input line 280
+ 286
+Module gregoriotex Info: Looking in  on input line 286
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
-t line 280
+t line 286
 
 (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [9]
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (5.67438pt too wide) in paragraph at lines 307--307
+Overfull \hbox (5.67438pt too wide) in paragraph at lines 313--313
 []\T1/mdbch/m/n/12 5. Et misericórdia ejus a progéni\T1/mdbch/m/it/12 e in pr
 o\T1/mdbch/b/n/12 géni\T1/mdbch/m/n/12 es *
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 307--307
+Underfull \hbox (badness 1122) in paragraph at lines 313--313
 []\T1/mdbch/m/n/12 8. Esuriéntes \T1/mdbch/m/it/12 implévit \T1/mdbch/b/n/12 
 bo\T1/mdbch/m/n/12 nis: * et dívites
  []
@@ -1653,70 +1660,70 @@ Underfull \hbox (badness 4429) in paragraph at lines 9--10
  []
 
 )
-Module gregoriotex Info: Looking in  on input line 318
+Module gregoriotex Info: Looking in  on input line 324
 Module gregoriotex Info: Found magnificat-antiphon-only.gabc directly on input l
-ine 318
-Module gregoriotex Info: Looking in  on input line 318
+ine 324
+Module gregoriotex Info: Looking in  on input line 324
 Module gregoriotex Info: Found magnificat-antiphon-only-6_0_0.gtex directly on i
-nput line 318
+nput line 324
  (./magnificat-antiphon-only-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [10]
-Underfull \hbox (badness 1360) in paragraph at lines 346--346
+Underfull \hbox (badness 1360) in paragraph at lines 352--352
 \T1/mdbch/m/n/12 Christum Fílium tuum, qui tecum vivit et
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 351--352
+Underfull \hbox (badness 1472) in paragraph at lines 357--358
 []\T1/mdbch/m/it/12 For commemorations, the Cantor intones the antiphon and say
 s the responsorial prayer
  []
 
-Module gregoriotex Info: Looking in  on input line 358
+Module gregoriotex Info: Looking in  on input line 364
 Module gregoriotex Info: Found commemoration-antiphon.gabc directly on input lin
-e 358
-Module gregoriotex Info: Looking in  on input line 358
+e 364
+Module gregoriotex Info: Looking in  on input line 364
 Module gregoriotex Info: Found commemoration-antiphon-6_0_0.gtex directly on inp
-ut line 358
+ut line 364
 (./commemoration-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 1762) in paragraph at lines 376--376
+Underfull \hbox (badness 1762) in paragraph at lines 382--382
 []\T1/mdbch/m/n/12 Orémus. Deus, qui omnipoténtiam tuam
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 376--376
+Underfull \hbox (badness 3547) in paragraph at lines 382--382
 \T1/mdbch/m/n/12 unitáte Spíritus Sancti, Deus, per ómnia
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 376--377
+Underfull \hbox (badness 1454) in paragraph at lines 382--383
 \T1/mdbch/m/it/10.95 almighty power mostly in sparing and showing
  []
 
 [11]
-Module gregoriotex Info: Looking in  on input line 401
+Module gregoriotex Info: Looking in  on input line 407
 Module gregoriotex Info: Found ../common/benedicamus-1v-solemn.gabc directly on 
-input line 401
-Module gregoriotex Info: Looking in  on input line 401
+input line 407
+Module gregoriotex Info: Looking in  on input line 407
 Module gregoriotex Info: Found ../common/benedicamus-1v-solemn-6_0_0.gtex direct
-ly on input line 401
+ly on input line 407
  (../common/benedicamus-1v-solemn-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 421
+Module gregoriotex Info: Looking in  on input line 427
 Module gregoriotex Info: Found ../marian-anthems/salve-regina-solemn-tone.gabc d
-irectly on input line 421
-Module gregoriotex Info: Looking in  on input line 421
+irectly on input line 427
+Module gregoriotex Info: Looking in  on input line 427
 Module gregoriotex Info: Found ../marian-anthems/salve-regina-solemn-tone-6_0_0.
-gtex directly on input line 421
+gtex directly on input line 427
 
 (../marian-anthems/salve-regina-solemn-tone-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1727,16 +1734,16 @@ Overfull \hbox (8.45567pt too wide) detected at line 859
 
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [12]
-Overfull \hbox (2.54166pt too wide) in paragraph at lines 451--451
+Overfull \hbox (2.54166pt too wide) in paragraph at lines 457--457
 \T1/mdbch/m/n/12 ejus auxílio, a nostris iniquitátibus resurgámus.
  []
 
 
-Overfull \hbox (1.35059pt too wide) in paragraph at lines 464--464
+Overfull \hbox (1.35059pt too wide) in paragraph at lines 470--470
 [][][]\T1/mdbch/m/n/12 V. Divínum auxílium máneat semper nobíscum. 
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 469.
+Package mdframed Info: mdframed works in twoside mode on input line 475.
 [13] (./2022-08-14_assumption_bvm_1v.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1744,17 +1751,21 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29698 strings out of 481365
- 195326,794899 words of node,token memory allocated
- 4618 words of node memory still in use:
+ 29699 strings out of 481365
+ 195319,794899 words of node,token memory allocated
+ 4623 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 106 glue, 15 kern, 6 penalty, 7 glyph
-, 823 attribute, 305 glue_spec, 119 attribute_list, 2 write, 1 user_defined node
+, 823 attribute, 306 glue_spec, 119 attribute_list, 2 write, 1 user_defined node
 s
-   avail lists: 1:2,2:33331,3:2504,4:53,5:3906,6:267,7:4248,8:3,9:5084,10:50,11:
+   avail lists: 1:5,2:32953,3:2508,4:62,5:3876,6:258,7:4242,8:3,9:4951,10:57,11:
 2
- 45902 multiletter control sequences out of 65536+600000
+ 45903 multiletter control sequences out of 65536+600000
  123 fonts using 12277243 bytes
- 51i,12n,65p,876b,6152s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,12n,65p,876b,6042s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing 2022-08-14_assumption_bvm_1v.gaux on input line
+ 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/shar
 e/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/local/share/texmf/f
 onts/truetype/public/gregoriotex/greciliae.ttf></usr/share/texlive/texmf-dist/fo
@@ -1762,7 +1773,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 2022-08-14_assumption_bvm_1v.pdf (13 pages, 423373 bytes).
+Output written on 2022-08-14_assumption_bvm_1v.pdf (13 pages, 423658 bytes).
 
 PDF statistics: 78 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
