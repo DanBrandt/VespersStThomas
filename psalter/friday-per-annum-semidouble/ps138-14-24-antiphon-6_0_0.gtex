@@ -8,7 +8,7 @@
 \GreHeader{book}{Liber antiphonarius, 1960, p. 180}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{e24e3a10017428d56710cb2606b41ecd63f1d6c0}{10}{5}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{9b115b71c7c7e1bd74aa622c99da004157b81a78}{10}{5}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{6}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -47,7 +47,7 @@
 \GreGlyphHeights{9}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{\GreFirstWord{a}}{}{\GreFirstWord{a}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{18}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{\GreFirstWord{a}}{}{\GreFirstWord{a}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{8}{}}{0}%
 {%
@@ -55,8 +55,9 @@
 }{}{}%
 }%
 %
-\GreNoNoteSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{ó}{}{ó}{}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{ó}{}{ó}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
+\GreDivisioMinima{1}{}{1}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{ó}{}{ó}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{e}{}{p}{e}}{}{{0}{0}}{}{%

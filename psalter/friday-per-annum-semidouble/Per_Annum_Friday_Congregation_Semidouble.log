@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  24 JUL 2022 21:42
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  25 AUG 2022 08:01
  system commands enabled.
 **Per_Annum_Friday_Congregation_Semidouble.tex
 (./Per_Annum_Friday_Congregation_Semidouble.tex
@@ -844,8 +844,6 @@ Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
 (Per_Annum_Friday_Congregation_Semidouble.gaux)
-Module gregoriotex Info: Reading Per_Annum_Friday_Congregation_Semidouble.gaux o
-n input line 125
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write4
 \gre@read@temp=\read4
@@ -1122,7 +1120,7 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 Package babel Warning: Unknown language `latin'. Very likely you
 (babel)                requested it in a previous run. Expect some
 (babel)                wrong results in this run, which should vanish
-(babel)                in the next one. Reported on input line 10.
+(babel)                in the next one. Reported on input line 6.
 
 )
 \openout1 = Per_Annum_Friday_Congregation_Semidouble.aux
@@ -1488,6 +1486,11 @@ Module gregoriotex Info: Found ps138-1-13-antiphon.gabc directly on input line 1
 Module gregoriotex Info: Looking in  on input line 184
 Module gregoriotex Info: Found ps138-1-13-antiphon-6_0_0.gtex directly on input 
 line 184
+Module gregoriotex Info: ps138-1-13-antiphon.gabc has been modified and ps138-1-
+13-antiphon-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input 
+line 184
+Module gregoriotex Info: compiling the score ps138-1-13-antiphon.gabc... on inpu
+t line 184
  (./ps138-1-13-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1509,6 +1512,11 @@ e 202
 Module gregoriotex Info: Looking in  on input line 202
 Module gregoriotex Info: Found ps138-14-24-intonation-6_0_0.gtex directly on inp
 ut line 202
+Module gregoriotex Info: ps138-14-24-intonation.gabc has been modified and ps138
+-14-24-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on 
+input line 202
+Module gregoriotex Info: compiling the score ps138-14-24-intonation.gabc... on i
+nput line 202
  (./ps138-14-24-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1547,6 +1555,11 @@ Module gregoriotex Info: Found ps138-14-24-antiphon.gabc directly on input line
 Module gregoriotex Info: Looking in  on input line 259
 Module gregoriotex Info: Found ps138-14-24-antiphon-6_0_0.gtex directly on input
  line 259
+Module gregoriotex Info: ps138-14-24-antiphon.gabc has been modified and ps138-1
+4-24-antiphon-6_0_0.gtex needs to be updated. Recompiling the gabc file. on inpu
+t line 259
+Module gregoriotex Info: compiling the score ps138-14-24-antiphon.gabc... on inp
+ut line 259
  (./ps138-14-24-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1557,6 +1570,11 @@ Module gregoriotex Info: Found ps139-intonation.gabc directly on input line 271
 Module gregoriotex Info: Looking in  on input line 271
 Module gregoriotex Info: Found ps139-intonation-6_0_0.gtex directly on input lin
 e 271
+Module gregoriotex Info: ps139-intonation.gabc has been modified and ps139-inton
+ation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 2
+71
+Module gregoriotex Info: compiling the score ps139-intonation.gabc... on input l
+ine 271
  (./ps139-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1631,6 +1649,10 @@ Module gregoriotex Info: Found ps139-antiphon.gabc directly on input line 339
 Module gregoriotex Info: Looking in  on input line 339
 Module gregoriotex Info: Found ps139-antiphon-6_0_0.gtex directly on input line 
 339
+Module gregoriotex Info: ps139-antiphon.gabc has been modified and ps139-antipho
+n-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 339
+Module gregoriotex Info: compiling the score ps139-antiphon.gabc... on input lin
+e 339
  (./ps139-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1704,6 +1726,10 @@ Module gregoriotex Info: Found ps140-antiphon.gabc directly on input line 407
 Module gregoriotex Info: Looking in  on input line 407
 Module gregoriotex Info: Found ps140-antiphon-6_0_0.gtex directly on input line 
 407
+Module gregoriotex Info: ps140-antiphon.gabc has been modified and ps140-antipho
+n-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 407
+Module gregoriotex Info: compiling the score ps140-antiphon.gabc... on input lin
+e 407
  (./ps140-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1714,6 +1740,11 @@ Module gregoriotex Info: Found ps141-intonation.gabc directly on input line 419
 Module gregoriotex Info: Looking in  on input line 419
 Module gregoriotex Info: Found ps141-intonation-6_0_0.gtex directly on input lin
 e 419
+Module gregoriotex Info: ps141-intonation.gabc has been modified and ps141-inton
+ation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 4
+19
+Module gregoriotex Info: compiling the score ps141-intonation.gabc... on input l
+ine 419
  (./ps141-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1775,6 +1806,10 @@ Module gregoriotex Info: Found ps141-antiphon.gabc directly on input line 471
 Module gregoriotex Info: Looking in  on input line 471
 Module gregoriotex Info: Found ps141-antiphon-6_0_0.gtex directly on input line 
 471
+Module gregoriotex Info: ps141-antiphon.gabc has been modified and ps141-antipho
+n-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 471
+Module gregoriotex Info: compiling the score ps141-antiphon.gabc... on input lin
+e 471
  (./ps141-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1786,22 +1821,19 @@ Package mdframed Info: mdframed works in twoside mode on input line 475.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 )
 
 Here is how much of LuaTeX's memory you used:
- 29479 strings out of 481365
+ 29475 strings out of 481365
  100000,794899 words of node,token memory allocated
  3055 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 42 glue, 13 kern, 6 penalty, 7 glyph,
  378 attribute, 288 glue_spec, 54 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:10621,3:945,4:20,5:1343,6:111,7:4129,8:2,9:1633,10:18,11:1
+   avail lists: 1:2,2:10621,3:947,4:23,5:1345,6:111,7:4129,8:2,9:1633,10:21,11:1
 
- 45871 multiletter control sequences out of 65536+600000
+ 45867 multiletter control sequences out of 65536+600000
  120 fonts using 12136651 bytes
- 51i,12n,64p,888b,1986s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,12n,60p,888b,1960s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing Per_Annum_Friday_Congregation_Semidouble.gaux o
 n input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
@@ -1813,8 +1845,8 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on Per_Annum_Friday_Congregation_Semidouble.pdf (14 pages, 67750
-1 bytes).
+Output written on Per_Annum_Friday_Congregation_Semidouble.pdf (14 pages, 67758
+3 bytes).
 
 PDF statistics: 81 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream

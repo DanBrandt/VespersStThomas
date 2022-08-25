@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Psalm 138.2.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{bef5a102cff268294e06485e4472684d5ed2f829}{11}{7}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{58b6a10a1ade2942c6adc37257a4802e8f0d9f8e}{11}{7}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{6.}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -47,7 +47,7 @@
 \GreGlyphHeights{9}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{\GreFirstWord{a}}{}{\GreFirstWord{a}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{18}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{\GreFirstWord{a}}{}{\GreFirstWord{a}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{8}{}}{0}%
 {%
@@ -55,9 +55,11 @@
 }{}{}%
 }%
 %
-\GreNoNoteSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{C}{o}{n}{C}{on}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{C}{o}{n}{C}{on}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
+\GreDivisioMinima{1}{}{1}%
 }%
+%
 \GreSyllable{\GreSetThisSyllable{C}{o}{n}{C}{on}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{f}{i}{}{f}{i}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%

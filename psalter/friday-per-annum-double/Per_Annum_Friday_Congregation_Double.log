@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  24 AUG 2022 22:20
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  25 AUG 2022 09:40
  system commands enabled.
 **Per_Annum_Friday_Congregation_Double.tex
 (./Per_Annum_Friday_Congregation_Double.tex
@@ -1505,8 +1505,8 @@ Underfull \hbox (badness 2221) in paragraph at lines 235--235
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 235--235
-\T1/mdbch/m/n/10 et substántia mea in inferi\T1/mdbch/m/it/10 óribus
+Underfull \hbox (badness 1642) in paragraph at lines 235--235
+\T1/mdbch/m/n/10 et substántia mea in inferió\T1/mdbch/m/it/10 ribus
  []
 
 
@@ -1558,21 +1558,13 @@ Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 2409) in paragraph at lines 319--319
-[]\T1/mdbch/m/n/10 2. Qui cogitavérunt iniqui\T1/mdbch/b/n/10 tá\T1/mdbch/m/n
-/10 tes
+Underfull \hbox (badness 3029) in paragraph at lines 319--319
+[]\T1/mdbch/m/n/10 2. Qui cogitavérunt iniquitá\T1/mdbch/m/it/10 tes
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 319--319
-[]\T1/mdbch/m/n/10 3. Acuérunt linguas suas \T1/mdbch/b/n/10 sic\T1/mdbch/m/n/
-10 ut
- []
-
-
-Overfull \hbox (1.24162pt too wide) in paragraph at lines 319--319
-\T1/mdbch/b/n/10 pec\T1/mdbch/m/n/10 ca\T1/mdbch/b/n/10 tó\T1/mdbch/m/n/10 ris
-: * et ab homínibus iní\T1/mdbch/m/it/10 quis
+Underfull \hbox (badness 2359) in paragraph at lines 319--319
+[]\T1/mdbch/m/n/10 3. Acuérunt linguas suas sic\T1/mdbch/m/it/10 ut
  []
 
 
@@ -1581,9 +1573,9 @@ Underfull \hbox (badness 1014) in paragraph at lines 319--319
  []
 
 
-Overfull \hbox (1.90729pt too wide) in paragraph at lines 319--319
-[]\T1/mdbch/m/n/10 6. Et funes exten\T1/mdbch/b/n/10 dé\T1/mdbch/m/n/10 runt i
-n \T1/mdbch/b/n/10 láque\T1/mdbch/m/n/10 um: 
+Overfull \hbox (0.11206pt too wide) in paragraph at lines 319--319
+[]\T1/mdbch/m/n/10 6. Et funes extendé\T1/mdbch/m/it/10 runt in \T1/mdbch/b/n/
+10 lá\T1/mdbch/m/n/10 queum: 
  []
 
 
@@ -1593,9 +1585,8 @@ Overfull \hbox (2.58563pt too wide) in paragraph at lines 319--319
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 319--319
-[]\T1/mdbch/m/n/10 7. Dixi Dómino: Deus \T1/mdbch/b/n/10 me\T1/mdbch/m/n/10 us
-
+Underfull \hbox (badness 4479) in paragraph at lines 319--319
+[]\T1/mdbch/m/n/10 7. Dixi Dómino: Deus \T1/mdbch/m/it/10 meus
  []
 
 
@@ -1614,27 +1605,20 @@ Underfull \hbox (badness 3503) in paragraph at lines 319--319
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 319--319
-[]\T1/mdbch/m/n/10 12. Vir linguósus non diri\T1/mdbch/b/n/10 gé\T1/mdbch/m/n
-/10 tur
+Underfull \hbox (badness 1365) in paragraph at lines 319--319
+[]\T1/mdbch/m/n/10 12. Vir linguósus non dirigé\T1/mdbch/m/it/10 tur
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 319--319
-\T1/mdbch/m/n/10 in \T1/mdbch/b/n/10 ter\T1/mdbch/m/n/10 ra: * virum injústum 
-mala
+Underfull \hbox (badness 1389) in paragraph at lines 319--319
+\T1/mdbch/m/it/10 in \T1/mdbch/b/n/10 ter\T1/mdbch/m/n/10 ra: * virum injústum
+ mala
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 319--319
-\T1/mdbch/m/n/10 ju\T1/mdbch/b/n/10 dí\T1/mdbch/m/n/10 cium \T1/mdbch/b/n/10 
-íno\T1/mdbch/m/n/10 pis: * et \T1/mdbch/m/it/10 vindíctam
- []
-
-
-Overfull \hbox (0.7213pt too wide) in paragraph at lines 319--319
-\T1/mdbch/m/n/10 erat in princípio, et \T1/mdbch/b/n/10 nunc\T1/mdbch/m/n/10 ,
- et \T1/mdbch/b/n/10 sem\T1/mdbch/m/n/10 per, 
+Overfull \hbox (4.51337pt too wide) in paragraph at lines 319--319
+\T1/mdbch/m/n/10 erat in princípio, et \T1/mdbch/m/it/10 nunc\T1/mdbch/m/n/10 
+, \T1/mdbch/m/it/10 et \T1/mdbch/b/n/10 sem\T1/mdbch/m/n/10 per, *
  []
 
 [8]
@@ -1761,9 +1745,9 @@ Underfull \hbox (badness 3375) in paragraph at lines 456--456
  []
 
 
-Overfull \hbox (2.79047pt too wide) in paragraph at lines 456--456
+Overfull \hbox (9.38573pt too wide) in paragraph at lines 456--456
 []\T1/mdbch/m/n/10 8. Inténde ad deprecati\T1/mdbch/b/n/10 ó\T1/mdbch/m/n/10 
-nem \T1/mdbch/b/n/10 me\T1/mdbch/m/n/10 am: 
+nem \T1/mdbch/b/n/10 me\T1/mdbch/m/n/10 am: *
  []
 
 
@@ -1781,12 +1765,6 @@ Underfull \hbox (badness 2538) in paragraph at lines 456--456
 Overfull \hbox (1.80812pt too wide) in paragraph at lines 456--456
 \T1/mdbch/m/n/10 meam ad confiténdum \T1/mdbch/b/n/10 nó\T1/mdbch/m/n/10 mini
  \T1/mdbch/b/n/10 tu\T1/mdbch/m/n/10 o: *
- []
-
-
-Underfull \hbox (badness 3826) in paragraph at lines 456--456
-[]\T1/mdbch/m/n/10 12.\T1/mdbch/m/it/10 (rise, remaining seated) \T1/mdbch/m/n/
-10 Sicut
  []
 
 
@@ -1832,7 +1810,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on Per_Annum_Friday_Congregation_Double.pdf (13 pages, 677652 byt
+Output written on Per_Annum_Friday_Congregation_Double.pdf (13 pages, 677491 byt
 es).
 
 PDF statistics: 78 PDF objects out of 1000 (max. 8388607)

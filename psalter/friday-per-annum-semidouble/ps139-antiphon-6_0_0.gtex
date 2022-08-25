@@ -8,7 +8,7 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 302 & Liber antiphonarius, 1960, p. 181}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{57fa917246ce6cfb18d3599c0d05cdd47473d0fe}{10}{6}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{c85c273611df339a6e55f2de92220ae22cafa93f}{10}{6}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -58,7 +58,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{m}{e}{}{m}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{18}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{m}{e}{}{m}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusTwoNothing}{9}{\GreNextCustos{8}{}}{1}%
 {%
@@ -66,8 +66,9 @@
 }{}{}%
 }%
 %
-\GreNoNoteSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{D}{ó}{}{D}{ó}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{D}{ó}{}{D}{ó}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
+\GreDivisioMinima{1}{}{1}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{D}{ó}{}{D}{ó}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{m}{i}{}{m}{i}}{}{{0}{0}}{}{%
