@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Psalm 141.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{bfdb21c822e47057d60721c1df8a77ce8982626f}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{7f7d1e5fb12ca78c13c3f376a23c0aed7b8fbbb9}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{3.g2}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -64,16 +64,16 @@
 }%
 \GreSetFixedNextTextFormat{2}\GreSyllable{\GreSetThisSyllable{m}{i}{}{m}{i}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{u}{m}{n}{um}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{13}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
 \GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{n}{u}{m}{n}{um}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{cl}{a}{}{c}{la}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesOneNothing}{12}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{13}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{13}{12}%
+\GreGlyphHeights{13}{13}%
 }{}{}%
 }%
 %
@@ -86,18 +86,18 @@
 }%
 \GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{m}{á}{}{m}{á}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{v}{i}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{v}{i\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{10}{}}{8}%
+\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{12}{}}{8}%
 {%
 \GreGlyphHeights{11}{10}%
 }{}{}%
 }%
 \GreSyllable{\GreSetThisSyllable{v}{i}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{v}{i\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{{13}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesTwoNothing}{10}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{12}{10}%
+\GreGlyphHeights{12}{12}%
 }{%
-\GreAugmentumDuplex{10}{12}{0}%
+\GrePunctumMora{12}{0}{0}{0}%
 }{}%
 }%
 %

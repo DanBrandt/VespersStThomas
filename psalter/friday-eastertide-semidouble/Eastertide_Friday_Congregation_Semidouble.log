@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  24 JUL 2022 23:42
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  24 AUG 2022 17:43
  system commands enabled.
 **Eastertide_Friday_Congregation_Semidouble.tex
 (./Eastertide_Friday_Congregation_Semidouble.tex
@@ -1327,23 +1327,39 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 16.58891pt on input line 47.
 Module gregoriotex Info: Looking in  on input line 52
-Module gregoriotex Info: Found ps138-1-13-intonation.gabc directly on input line
- 52
+Module gregoriotex Info: Found pss-antiphon.gabc directly on input line 52
 Module gregoriotex Info: Looking in  on input line 52
-Module gregoriotex Info: Found ps138-1-13-intonation-6_0_0.gtex directly on inpu
-t line 52
+Module gregoriotex Info: Found pss-antiphon-6_0_0.gtex directly on input line 52
 
-(./ps138-1-13-intonation-6_0_0.gtex
+
+(./pss-antiphon-6_0_0.gtex
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 10.51207pt on input line 11.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 10.51207pt on input line 11.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
+(Font)              scaled to size 11.52008pt on input line 12.
+LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
+(Font)              scaled to size 11.52008pt on input line 12.
+LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
+(Font)              scaled to size 11.52008pt on input line 12.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 55
+Module gregoriotex Info: Found ps138-1-13-intonation.gabc directly on input line
+ 55
+Module gregoriotex Info: Looking in  on input line 55
+Module gregoriotex Info: Found ps138-1-13-intonation-6_0_0.gtex directly on inpu
+t line 55
+ (./ps138-1-13-intonation-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package babel Info: \l@latin = using hyphenrules for nil
-(babel)             (\language6) on input line 60.
+(babel)             (\language6) on input line 63.
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/la/babel-latin.tex
 Package babel Info: Importing basic data for latin
@@ -1355,23 +1371,23 @@ Underfull \hbox (badness 4120) in paragraph at lines 5--6
  []
 
 )
-Underfull \hbox (badness 1005) in paragraph at lines 25--60
+Underfull \hbox (badness 1005) in paragraph at lines 25--63
 []\T1/mdbch/m/n/12 14. \T1/mdbch/m/it/12 (rise, remaining seated) \T1/mdbch/m/n
 /12 Sicut erat in
  []
 
-(../../psalms/english/ps138-1-13.tex
+(../../psalms/english/ps138-1-13.tex [3]
 Underfull \hbox (badness 1895) in paragraph at lines 23--24
 []\T1/mdbch/m/it/10.95 13. I will praise thee, for thou art fearfully
  []
 
-[3])
-Module gregoriotex Info: Looking in  on input line 69
+)
+Module gregoriotex Info: Looking in  on input line 72
 Module gregoriotex Info: Found ps138-14-24-intonation.gabc directly on input lin
-e 69
-Module gregoriotex Info: Looking in  on input line 69
+e 72
+Module gregoriotex Info: Looking in  on input line 72
 Module gregoriotex Info: Found ps138-14-24-intonation-6_0_0.gtex directly on inp
-ut line 69
+ut line 72
  (./ps138-14-24-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1390,7 +1406,7 @@ Underfull \hbox (badness 1502) in paragraph at lines 9--10
  []
 
 )
-Underfull \hbox (badness 1005) in paragraph at lines 23--77
+Underfull \hbox (badness 1005) in paragraph at lines 23--80
 []\T1/mdbch/m/n/12 13. \T1/mdbch/m/it/12 (rise, remaining seated) \T1/mdbch/m/n
 /12 Sicut erat in
  []
@@ -1406,11 +1422,11 @@ Overfull \hbox (14.00114pt too wide) in paragraph at lines 5--6
  []
 
 [4])
-Module gregoriotex Info: Looking in  on input line 86
-Module gregoriotex Info: Found ps139-intonation.gabc directly on input line 86
-Module gregoriotex Info: Looking in  on input line 86
+Module gregoriotex Info: Looking in  on input line 89
+Module gregoriotex Info: Found ps139-intonation.gabc directly on input line 89
+Module gregoriotex Info: Looking in  on input line 89
 Module gregoriotex Info: Found ps139-intonation-6_0_0.gtex directly on input lin
-e 86
+e 89
  (./ps139-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1423,17 +1439,17 @@ dbch/m/n/12 sus
  []
 
 )
-Underfull \hbox (badness 1005) in paragraph at lines 29--94
+Underfull \hbox (badness 1005) in paragraph at lines 29--97
 []\T1/mdbch/m/n/12 16. \T1/mdbch/m/it/12 (rise, remaining seated) \T1/mdbch/m/n
 /12 Sicut erat in
  []
 
 (../../psalms/english/ps139.tex [5])
-Module gregoriotex Info: Looking in  on input line 103
-Module gregoriotex Info: Found ps140-intonation.gabc directly on input line 103
-Module gregoriotex Info: Looking in  on input line 103
+Module gregoriotex Info: Looking in  on input line 106
+Module gregoriotex Info: Found ps140-intonation.gabc directly on input line 106
+Module gregoriotex Info: Looking in  on input line 106
 Module gregoriotex Info: Found ps140-intonation-6_0_0.gtex directly on input lin
-e 103
+e 106
  (./ps140-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1446,17 +1462,17 @@ Underfull \hbox (badness 1466) in paragraph at lines 11--12
  []
 
 )
-Underfull \hbox (badness 1005) in paragraph at lines 23--111
+Underfull \hbox (badness 1005) in paragraph at lines 23--114
 []\T1/mdbch/m/n/12 13. \T1/mdbch/m/it/12 (rise, remaining seated) \T1/mdbch/m/n
 /12 Sicut erat in
  []
 
 (../../psalms/english/ps140.tex [6])
-Module gregoriotex Info: Looking in  on input line 120
-Module gregoriotex Info: Found ps141-intonation.gabc directly on input line 120
-Module gregoriotex Info: Looking in  on input line 120
+Module gregoriotex Info: Looking in  on input line 123
+Module gregoriotex Info: Found ps141-intonation.gabc directly on input line 123
+Module gregoriotex Info: Looking in  on input line 123
 Module gregoriotex Info: Found ps141-intonation-6_0_0.gtex directly on input lin
-e 120
+e 123
  (./ps141-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1474,29 +1490,23 @@ Underfull \hbox (badness 1264) in paragraph at lines 17--18
  []
 
 )
-Underfull \hbox (badness 1005) in paragraph at lines 21--128
+Underfull \hbox (badness 1005) in paragraph at lines 21--131
 []\T1/mdbch/m/n/12 12. \T1/mdbch/m/it/12 (rise, remaining seated) \T1/mdbch/m/n
 /12 Sicut erat in
  []
 
 (../../psalms/english/ps141.tex [7])
-Module gregoriotex Info: Looking in  on input line 135
-Module gregoriotex Info: Found pss-antiphon.gabc directly on input line 135
-Module gregoriotex Info: Looking in  on input line 135
+Module gregoriotex Info: Looking in  on input line 138
+Module gregoriotex Info: Found pss-antiphon.gabc directly on input line 138
+Module gregoriotex Info: Looking in  on input line 138
 Module gregoriotex Info: Found pss-antiphon-6_0_0.gtex directly on input line 13
-5
+8
  (./pss-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 11.52008pt on input line 12.
-LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
-(Font)              scaled to size 11.52008pt on input line 12.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 140.
+Package mdframed Info: mdframed works in twoside mode on input line 143.
  [8]
 (./Eastertide_Friday_Congregation_Semidouble.aux)
 
@@ -1505,16 +1515,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29557 strings out of 481365
+ 29564 strings out of 481365
  125007,794899 words of node,token memory allocated
  2358 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 34 glue, 3 kern, 3 glyph, 258 attribute, 272 glue_s
 pec, 39 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:4,2:18884,3:1569,4:18,5:2326,6:167,7:4766,8:2,9:2786,10:16,11:
+   avail lists: 1:4,2:18884,3:1569,4:18,5:2326,6:167,7:4623,8:2,9:2786,10:16,11:
 1
  45895 multiletter control sequences out of 65536+600000
  122 fonts using 12259691 bytes
  51i,12n,64p,889b,1968s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing Eastertide_Friday_Congregation_Semidouble.gaux 
+on input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
 al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
@@ -1522,8 +1536,8 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on Eastertide_Friday_Congregation_Semidouble.pdf (8 pages, 11166
-05 bytes).
+Output written on Eastertide_Friday_Congregation_Semidouble.pdf (8 pages, 11169
+81 bytes).
 
 PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream

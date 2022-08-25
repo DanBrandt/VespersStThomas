@@ -8,14 +8,14 @@
 \GreHeader{user-notes}{Psalm 138.1.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{167f401eb2fc83d168cc6c37fa8e9d12cda0e1bf}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{504081c2052a2b068e58e02590197cdd3fb34c56}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{3.g2}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{1}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{D}{ó}{}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{ó}}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{D}}}}{\GreFirstWord{\GreFirstSyllable{ó}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{m}}{\GreFirstWord{i}}{}{\GreFirstWord{m}}{\GreFirstWord{i}}}{}{{0}{0}}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{1}{.}{ Dó}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{.} D}}}{\GreFirstWord{\GreFirstSyllable{ó}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{1}. D}}}{\GreFirstWord{\GreFirstSyllable{ó}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{m}}{\GreFirstWord{i}}{}{\GreFirstWord{m}}{\GreFirstWord{i}}}{}{{0}{0}}{%
 \GreSetTextAboveLines{cantor}%
 }{%
 \GreSyllableNoteCount{1}%
@@ -71,17 +71,17 @@
 %
 \GreSetFixedNextTextFormat{2}\GreSyllable{\GreSetThisSyllable{}{e}{t}{e}{t}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{c}{o}{}{c}{o}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{13}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
 %
 \GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{c}{o}{}{c}{o}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{gn}{o}{}{g}{no}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesOneNothing}{12}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{13}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{13}{12}%
+\GreGlyphHeights{13}{13}%
 }{}{}%
 }%
 \GreSetFixedNextTextFormat{2}\GreSyllable{\GreSetThisSyllable{gn}{o}{}{g}{no}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{v}{í}{s}{v}{ís}}{}{{0}{0}}{}{%
@@ -100,19 +100,19 @@
 }%
 \GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{t}{i}{}{t}{i}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{e}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{m}{e\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{10}{}}{8}%
+\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{12}{}}{8}%
 {%
 \GreGlyphHeights{11}{10}%
 }{}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{m}{e}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{m}{e\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{13}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesTwoNothing}{10}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{12}{10}%
+\GreGlyphHeights{12}{12}%
 }{%
-\GreAugmentumDuplex{10}{12}{0}%
+\GrePunctumMora{12}{0}{0}{0}%
 }{}%
 }%
 %

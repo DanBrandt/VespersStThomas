@@ -1,7 +1,7 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  24 JUL 2022 23:24
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  24 AUG 2022 18:16
  system commands enabled.
-**Eastertide_Friday_Congregation_Duplex.tex
-(./Eastertide_Friday_Congregation_Duplex.tex
+**Eastertide_Friday_Congregation_Double.tex
+(./Eastertide_Friday_Congregation_Double.tex
 LaTeX2e <2020-02-02> patch level 2
 Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
 Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
@@ -843,8 +843,8 @@ Lua module: gregoriotex 2021/03/13 6.0.0 GregorioTeX module.
 Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
 
-(Eastertide_Friday_Congregation_Duplex.gaux)
-Module gregoriotex Info: Reading Eastertide_Friday_Congregation_Duplex.gaux on i
+(Eastertide_Friday_Congregation_Double.gaux)
+Module gregoriotex Info: Reading Eastertide_Friday_Congregation_Double.gaux on i
 nput line 125
 Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
 \gre@gaux=\write4
@@ -1117,7 +1117,7 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \colbreak@box=\box122
 \mc@col@check@num=\count384
 )
-(./Eastertide_Friday_Congregation_Duplex.aux
+(./Eastertide_Friday_Congregation_Double.aux
 
 Package babel Warning: Unknown language `latin'. Very likely you
 (babel)                requested it in a previous run. Expect some
@@ -1125,7 +1125,7 @@ Package babel Warning: Unknown language `latin'. Very likely you
 (babel)                in the next one. Reported on input line 8.
 
 )
-\openout1 = Eastertide_Friday_Congregation_Duplex.aux
+\openout1 = Eastertide_Friday_Congregation_Double.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
@@ -1353,7 +1353,7 @@ Package babel Info: \l@latin = using hyphenrules for nil
 Package babel Info: Importing basic data for latin
 (babel)             from babel-la.ini. Reported on input line 9.
 )
-(../../psalms/ps138-1-13-3g2-solemn.tex
+(../../psalms/ps138-1-13-3g2.tex
 Underfull \hbox (badness 4120) in paragraph at lines 5--6
 []\T1/mdbch/m/n/12 4. Ecce, Dómine, tu cognovísti ómnia
  []
@@ -1376,18 +1376,12 @@ e 69
 Module gregoriotex Info: Looking in  on input line 69
 Module gregoriotex Info: Found ps138-14-24-intonation-6_0_0.gtex directly on inp
 ut line 69
-Module gregoriotex Info: ps138-14-24-intonation.gabc has been modified and ps138
--14-24-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on 
-input line 69
-Module gregoriotex Info: compiling the score ps138-14-24-intonation.gabc... on i
-nput line 69
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 69
  (./ps138-14-24-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(../../psalms/ps138-14-24-3g2-solemn.tex
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../../psalms/ps
+138-14-24-3g2.tex
 Underfull \hbox (badness 1648) in paragraph at lines 1--2
 \T1/mdbch/m/n/12 fecísti \T1/mdbch/b/n/12 in \T1/mdbch/m/n/12 oc\T1/mdbch/b/n/
 12 cúl\T1/mdbch/m/n/12 to: * et substántia mea in
@@ -1421,17 +1415,12 @@ Module gregoriotex Info: Found ps139-intonation.gabc directly on input line 86
 Module gregoriotex Info: Looking in  on input line 86
 Module gregoriotex Info: Found ps139-intonation-6_0_0.gtex directly on input lin
 e 86
-Module gregoriotex Info: ps139-intonation.gabc has been modified and ps139-inton
-ation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 8
-6
-Module gregoriotex Info: compiling the score ps139-intonation.gabc... on input l
-ine 86
  (./ps139-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../../psalms/ps
-139-3g2-solemn.tex
+139-3g2.tex
 Underfull \hbox (badness 2269) in paragraph at lines 7--8
 []\T1/mdbch/m/n/12 5. Qui cogitavérunt supplantáre \T1/mdbch/b/n/12 gres\T1/m
 dbch/m/n/12 sus
@@ -1449,20 +1438,15 @@ Module gregoriotex Info: Found ps140-intonation.gabc directly on input line 103
 Module gregoriotex Info: Looking in  on input line 103
 Module gregoriotex Info: Found ps140-intonation-6_0_0.gtex directly on input lin
 e 103
-Module gregoriotex Info: ps140-intonation.gabc has been modified and ps140-inton
-ation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 1
-03
-Module gregoriotex Info: compiling the score ps140-intonation.gabc... on input l
-ine 103
  (./ps140-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(../../psalms/ps140-3g2-solemn.tex
-Overfull \hbox (4.868pt too wide) in paragraph at lines 11--12
-[]\T1/mdbch/m/n/12 7. Quóniam adhuc et orátio mea in benepláci\T1/mdbch/b/n/
-12 tis
+(../../psalms/ps140-3g2.tex
+Underfull \hbox (badness 1466) in paragraph at lines 11--12
+\T1/mdbch/m/n/12 benepláci\T1/mdbch/b/n/12 tis \T1/mdbch/m/n/12 e\T1/mdbch/b/n
+/12 ó\T1/mdbch/m/n/12 rum: * absórpti sunt juncti
  []
 
 )
@@ -1482,12 +1466,13 @@ ation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on input line 1
 20
 Module gregoriotex Info: compiling the score ps141-intonation.gabc... on input l
 ine 120
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 120
  (./ps141-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(../../psalms/ps141-3g2-solemn.tex
+(../../psalms/ps141-3g2.tex
 Underfull \hbox (badness 2096) in paragraph at lines 1--2
 []\T1/mdbch/m/n/12 2. Effúndo in conspéctu ejus orati\T1/mdbch/b/n/12 ó\T1/m
 dbch/m/n/12 nem
@@ -1517,7 +1502,7 @@ Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Package mdframed Info: mdframed works in twoside mode on input line 140.
  [8]
-(./Eastertide_Friday_Congregation_Duplex.aux)
+(./Eastertide_Friday_Congregation_Double.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1529,12 +1514,12 @@ Here is how much of LuaTeX's memory you used:
  2358 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 34 glue, 3 kern, 3 glyph, 258 attribute, 272 glue_s
 pec, 39 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:2,2:10175,3:796,4:17,5:1231,6:105,7:4656,8:2,9:1546,10:16,11:1
+   avail lists: 1:2,2:10175,3:796,4:17,5:1231,6:105,7:4654,8:2,9:1546,10:16,11:1
 
  45895 multiletter control sequences out of 65536+600000
  122 fonts using 12259691 bytes
  51i,12n,64p,885b,1968s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing Eastertide_Friday_Congregation_Duplex.gaux on i
+Module gregoriotex Info: Writing Eastertide_Friday_Congregation_Double.gaux on i
 nput line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1545,7 +1530,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on Eastertide_Friday_Congregation_Duplex.pdf (8 pages, 1116061 by
+Output written on Eastertide_Friday_Congregation_Double.pdf (8 pages, 1116064 by
 tes).
 
 PDF statistics: 61 PDF objects out of 1000 (max. 8388607)

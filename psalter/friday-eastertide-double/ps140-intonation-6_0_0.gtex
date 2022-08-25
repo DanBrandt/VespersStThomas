@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Psalm 140.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{d98ba8ecfde1f7fa01e1389cac4e23c73454967e}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{e01829ecf01ddc93107b7184667fd6aacc49b896}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{3.g2}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -63,17 +63,17 @@
 %
 \GreSyllable{\GreSetThisSyllable{}{a}{d}{a}{d}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreBold{t}}{\GreBold{e}}{\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{\GreBold{t}}{\GreBold{e}\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{13}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{\GreBold{t}}{\GreBold{e}}{\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{\GreBold{t}}{\GreBold{e}\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{x}{e}{x}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesOneNothing}{12}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{13}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{13}{12}%
+\GreGlyphHeights{13}{13}%
 }{}{}%
 }%
 %
@@ -93,19 +93,19 @@
 }%
 \GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{d}{i}{}{d}{i}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{e}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{m}{e\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{10}{}}{8}%
+\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{12}{}}{8}%
 {%
 \GreGlyphHeights{11}{10}%
 }{}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{m}{e}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{m}{e\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{{13}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesTwoNothing}{10}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{12}{10}%
+\GreGlyphHeights{12}{12}%
 }{%
-\GreAugmentumDuplex{10}{12}{0}%
+\GrePunctumMora{12}{0}{0}{0}%
 }{}%
 }%
 %

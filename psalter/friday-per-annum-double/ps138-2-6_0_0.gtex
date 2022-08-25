@@ -8,7 +8,7 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 301 & Liber antiphonarius, 1960, p. 179}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{b1f90fae6658a970e3139b6222a92866e6d4b76f}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{a59f149a5a10431f7c4b201b07a4fb80bc0cfdc5}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{3}.g2}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -88,17 +88,17 @@
 }%
 \GreSetFixedNextTextFormat{2}\GreSyllable{\GreSetThisSyllable{n}{e}{s}{n}{es}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{e}{}{m}{e}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{13}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
 %
 \GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{m}{e}{}{m}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{a}{s}{a}{s}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesOneNothing}{12}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{13}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{13}{12}%
+\GreGlyphHeights{13}{13}%
 }{}{}%
 }%
 \GreSyllable{\GreSetThisSyllable{}{a}{s}{a}{s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{d}{e}{}{d}{e}}{}{{0}{0}}{}{%
@@ -119,19 +119,18 @@
 %
 \GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{l}{o}{n}{l}{on}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{g}{e}{}{g}{e}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{10}{}}{8}%
+\GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{12}{}}{8}%
 {%
 \GreGlyphHeights{11}{10}%
 }{}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{g}{e}{}{g}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{13}{0}}{}{%
-\GreSyllableNoteCount{2}%
-\GreGlyph{\GreCPPesTwoNothing}{10}{\GreNextCustos{12}{}}{0}%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
-\GreGlyphHeights{12}{10}%
+\GreGlyphHeights{12}{12}%
 }{%
-\GrePunctumMora{10}{1}{0}{0}%
 \GrePunctumMora{12}{0}{0}{0}%
 }{}%
 }%
