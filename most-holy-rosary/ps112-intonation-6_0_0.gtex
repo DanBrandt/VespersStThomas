@@ -8,14 +8,16 @@
 \GreHeader{user-notes}{Psalm 112.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{253889c9d7e46086bae180af0d29b4a011857173}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{ca636db63440b0b92888da16f7970ad443595f7c}{11}{8}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{6.}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{0}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{L}{a}{u}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{a}u}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{L}}}}{\GreFirstWord{\GreFirstSyllable{au}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{d}}{\GreFirstWord{á}}{}{\GreFirstWord{d}}{\GreFirstWord{á}}}{}{{0}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{1}{.}{ Lau}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{.} L}}}{\GreFirstWord{\GreFirstSyllable{au}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{1}. L}}}{\GreFirstWord{\GreFirstSyllable{au}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{d}}{\GreFirstWord{á}}{}{\GreFirstWord{d}}{\GreFirstWord{á}}}{}{{0}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
@@ -87,12 +89,13 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{l}{au}{}{l}{au}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ l}{au}{}{ }{lau}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMaior{1}{}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{l}{au}{}{l}{au}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{á}{}{d}{á}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ l}{au}{}{ }{lau}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{á}{}{d}{á}}{}{{0}{0}}{%
+\GreSetTextAboveLines{choir}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%

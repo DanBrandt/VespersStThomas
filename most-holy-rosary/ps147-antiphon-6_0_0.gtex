@@ -8,14 +8,16 @@
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 1073}%
 \GreHeader{transcriber}{Dominique CROCHU}%
 \GreEndHeaders %
-\GreBeginScore{3b56f9d8f24417adf2c022f5a84ebb6d0bfd3b89}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{9e0dc15f073baad7a3c86364da54c7c99a72919a}{13}{6}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{3}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{0}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{V}{i}{}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{i}}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{V}}}}{\GreFirstWord{\GreFirstSyllable{i}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{d}}{\GreFirstWord{é}}{}{\GreFirstWord{d}}{\GreFirstWord{é}}}{}{{0}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{ }{V}{i}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{V}}}}{\GreFirstWord{\GreFirstSyllable{i}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{ }V}}}{\GreFirstWord{\GreFirstSyllable{i}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{d}}{\GreFirstWord{é}}{}{\GreFirstWord{d}}{\GreFirstWord{é}}}{}{{0}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOpenqueueOneNothing}{7}{\GreNextCustos{9}{}}{8}%
 {%
@@ -54,12 +56,13 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{f}{í}{}{f}{í}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ f}{í}{}{ }{fí}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinima{1}{}{0}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{f}{í}{}{f}{í}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{i}{}{l}{i}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ f}{í}{}{ }{fí}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{i}{}{l}{i}}{}{{0}{0}}{%
+\GreSetTextAboveLines{all}%
+}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesTwoNothing}{11}{\GreNextCustos{12}{}}{0}%
 {%

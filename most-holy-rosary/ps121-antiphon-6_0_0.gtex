@@ -8,14 +8,16 @@
 \GreHeader{book}{Liber antiphonarius, 1960, p. 668 & Liber antiphonarius, 1960, p. 872}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{bd27508f85d80d40266454881e76341c8c82d2bc}{12}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{6babb57a53667e2229843de01b889bb0632e3406}{12}{4}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{0}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{A}{}{}{{}{\GreFirstWord{}}{}}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{A}}}}{}}{\GreEmptyFirstSyllableHyphen}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{v}}{\GreFirstWord{e}}{}{\GreFirstWord{v}}{\GreFirstWord{e}}}{}{{0}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{A}{}{}{{}{\GreFirstWord{}}{}}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{A}}}}{}}{\GreEmptyFirstSyllableHyphen}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{v}}{\GreFirstWord{e}}{}{\GreFirstWord{v}}{\GreFirstWord{e}}}{}{{0}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{5}{}}{0}%
 {%
@@ -67,12 +69,13 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{gr}{á}{}{g}{rá}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ gr}{á}{}{ }{grá}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinima{1}{}{0}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{gr}{á}{}{g}{rá}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{i}{}{t}{i}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ gr}{á}{}{ }{grá}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{i}{}{t}{i}}{}{{0}{0}}{%
+\GreSetTextAboveLines{all}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%

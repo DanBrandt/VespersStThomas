@@ -8,14 +8,16 @@
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 1072}%
 \GreHeader{transcriber}{Dominique CROCHU}%
 \GreEndHeaders %
-\GreBeginScore{64ef3e8a675be8b3353fd52943a1022366a46188}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{162bd8a3057436e3527a7238fe04880e93f5cdd3}{12}{5}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{6}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{1}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{V}{I}{r}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{I}}}}{\GreFirstWord{\GreFirstSyllable{r}}}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{V}}}}{\GreFirstWord{\GreFirstSyllable{I}}}{\GreFirstWord{\GreFirstSyllable{r}}}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{g}}{\GreFirstWord{o}}{}{\GreFirstWord{g}}{\GreFirstWord{o}}}{}{{8}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{V}{I}{r}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{I}}}}{\GreFirstWord{\GreFirstSyllable{r}}}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{V}}}}{\GreFirstWord{\GreFirstSyllable{I}}}{\GreFirstWord{\GreFirstSyllable{r}}}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{g}}{\GreFirstWord{o}}{}{\GreFirstWord{g}}{\GreFirstWord{o}}}{}{{8}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{8}{\GreNextCustos{9}{}}{0}%
 {%
@@ -47,12 +49,13 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{s}{i}{}{s}{i}}{}{{0}{1}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ s}{i}{}{ }{si}}{}{{0}{1}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinima{1}{}{0}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{s}{i}{}{s}{i}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{t}{c}{ut}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ s}{i}{}{ }{si}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{t}{c}{ut}}{}{{8}{0}}{%
+\GreSetTextAboveLines{all}%
+}{%
 \GreSyllableNoteCount{2}%
 \GreFlat{11}{0}%
 {%

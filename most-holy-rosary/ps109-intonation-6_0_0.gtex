@@ -8,14 +8,16 @@
 \GreHeader{user-notes}{Psalm 109.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{bcd90f688a5c1e66fcda661229042ead87e562dc}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{12a9fed8ba185b5916717bc55bcf59ba52152b56}{13}{9}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{8.G}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{1}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{D}{i}{}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{i}}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{D}}}}{\GreFirstWord{\GreFirstSyllable{i}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{x}}{\GreFirstWord{i}}{\GreFirstWord{t}}{\GreFirstWord{x}}{\GreFirstWord{i}\GreFirstWord{t}}}{}{{8}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{1}{.}{ Di}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{.} D}}}{\GreFirstWord{\GreFirstSyllable{i}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{1}. D}}}{\GreFirstWord{\GreFirstSyllable{i}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{x}}{\GreFirstWord{i}}{\GreFirstWord{t}}{\GreFirstWord{x}}{\GreFirstWord{i}\GreFirstWord{t}}}{}{{8}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -91,12 +93,13 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{S}{e}{}{S}{e}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ S}{e}{}{ }{Se}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMaior{1}{}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{S}{e}{}{S}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{e}{}{d}{e}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ S}{e}{}{ }{Se}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{e}{}{d}{e}}{}{{0}{0}}{%
+\GreSetTextAboveLines{choir}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%

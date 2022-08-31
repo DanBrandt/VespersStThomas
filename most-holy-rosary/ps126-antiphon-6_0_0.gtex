@@ -8,14 +8,16 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 1679 & Liber antiphonarius, 1960, p. 872}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{05a5c18b987297d29d00cdf807682250866e85f6}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{c262af07f8ea4c812e07dd974597752f8301cebd}{13}{7}{0}{1}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreMode{\GreModeNumber{7}}{}{}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{3}{3}{c}{0}{3}{1}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{B}{E}{}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{E}}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{B}}}}{\GreFirstWord{\GreFirstSyllable{E}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{n}}{\GreFirstWord{e}}{}{\GreFirstWord{n}}{\GreFirstWord{e}}}{}{{0}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{ }{B}{E}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{B}}}}{\GreFirstWord{\GreFirstSyllable{E}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{ }B}}}{\GreFirstWord{\GreFirstSyllable{E}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{n}}{\GreFirstWord{e}}{}{\GreFirstWord{n}}{\GreFirstWord{e}}}{}{{0}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{7}{}}{0}%
 {%
@@ -77,12 +79,13 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ }{i}{n}{ }{in}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinima{1}{}{0}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{}{i}{n}{i}{n}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{v}{i}{r}{v}{ir}}{}{{9}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ }{i}{n}{ }{in}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{v}{i}{r}{v}{ir}}{}{{9}{0}}{%
+\GreSetTextAboveLines{all}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{12}{}}{0}%
 {%

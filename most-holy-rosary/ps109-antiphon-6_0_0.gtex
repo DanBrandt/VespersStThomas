@@ -8,14 +8,16 @@
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 1072}%
 \GreHeader{transcriber}{Dominique CROCHU}%
 \GreEndHeaders %
-\GreBeginScore{1794709eb6d27f1ce5ab24bb75bbd12fec4f4143}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{69a5fcd5923fa91b9a1dc7b42812b49ed568e0d8}{13}{6}{0}{1}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{8}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{1}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{Q}{U}{æ}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{U}}}}{\GreFirstWord{\GreFirstSyllable{æ}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{Q}U}}}{\GreFirstWord{\GreFirstSyllable{æ}}}{}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{e}{st}{e}{st}}{}{{0}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{Q}{U}{æ}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{U}}}}{\GreFirstWord{\GreFirstSyllable{æ}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{Q}U}}}{\GreFirstWord{\GreFirstSyllable{æ}}}{}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{e}{st}{e}{st}}{}{{0}{0}}{%
+\GreSetTextAboveLines{cantor}%
+}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{8}{\GreNextCustos{9}{}}{0}%
 {%
@@ -51,12 +53,13 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{sp}{e}{}{s}{pe}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ sp}{e}{}{ }{spe}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinima{1}{}{0}%
 }%
-%
-\GreSyllable{\GreSetThisSyllable{sp}{e}{}{s}{pe}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{i}{}{c}{i}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ sp}{e}{}{ }{spe}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{i}{}{c}{i}}{}{{0}{0}}{%
+\GreSetTextAboveLines{all}%
+}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
