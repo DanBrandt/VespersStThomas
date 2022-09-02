@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  26 JUN 2022 10:15
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  1 SEP 2022 22:13
  system commands enabled.
 **11-04-2022.tex
 (./11-04-2022.tex
@@ -1144,6 +1144,12 @@ Module gregoriotex Info: Found ../../hymns/iste_confessor.gabc directly on input
 Module gregoriotex Info: Looking in  on input line 31
 Module gregoriotex Info: Found ../../hymns/iste_confessor-6_0_0.gtex directly on
  input line 31
+Module gregoriotex Info: ../../hymns/iste_confessor.gabc has been modified and .
+./../hymns/iste_confessor-6_0_0.gtex needs to be updated. Recompiling the gabc f
+ile. on input line 31
+Module gregoriotex Info: compiling the score ../../hymns/iste_confessor.gabc... 
+on input line 31
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 31
 
 (../../hymns/iste_confessor-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1167,7 +1173,6 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Processing gabc snippet... on input line 70
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 70
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1183,11 +1188,6 @@ Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
 Module gregoriotex Info: Looking in  on input line 85
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
 t line 85
-Module gregoriotex Info: magnificat-intonation.gabc has been modified and magnif
-icat-intonation-6_0_0.gtex needs to be updated. Recompiling the gabc file. on in
-put line 85
-Module gregoriotex Info: compiling the score magnificat-intonation.gabc... on in
-put line 85
  (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1294,6 +1294,12 @@ Underfull \hbox (badness 2503) in paragraph at lines 126--126
  []
 
 
+Overfull \hbox (0.12419pt too wide) in paragraph at lines 126--126
+\T1/mdbch/m/n/10 custódi: \gre@font@variant@D  \T1/mdbch/m/n/10 ut, sicut i
+llum pastorális sollicitúdo glori\T1/mdbch/b/n/10 ó\T1/mdbch/m/it/10 sum
+ []
+
+
 Underfull \hbox (badness 1158) in paragraph at lines 126--126
 \T1/mdbch/m/n/10 amóre fervéntes. * Per Dóminum nostrum Jesum
  []
@@ -1354,15 +1360,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  29312 strings out of 481365
- 195330,794899 words of node,token memory allocated
+ 195328,794899 words of node,token memory allocated
  3657 words of node memory still in use:
    15 hlist, 3 vlist, 9 rule, 1 local_par, 72 glue, 13 kern, 6 penalty, 7 glyph,
  554 attribute, 284 glue_spec, 84 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:6,2:29849,3:2348,4:67,5:3546,6:244,7:4489,8:2,9:4593,10:59,11:
+   avail lists: 1:5,2:29930,3:2361,4:78,5:3557,6:244,7:4524,8:2,9:4593,10:68,11:
 1
  45744 multiletter control sequences out of 65536+600000
  118 fonts using 11948443 bytes
- 51i,11n,64p,837b,5666s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,11n,64p,837b,5632s stack positions out of 5000i,500n,10000p,200000b,100000s
 Module gregoriotex Info: Writing 11-04-2022.gaux on input line 0
 Module gregoriotex Warning: Line heights or variable brace lengths may have chan
 ged. Rerun to fix. on input line 0
@@ -1373,7 +1379,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 11-04-2022.pdf (4 pages, 78646 bytes).
+Output written on 11-04-2022.pdf (4 pages, 78663 bytes).
 
 PDF statistics: 48 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
