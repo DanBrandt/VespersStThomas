@@ -8,7 +8,7 @@
 \GreHeader{book}{The Liber Usualis, 1961, p. 126 & Liber antiphonarius, 1960, p. 61*}%
 \GreHeader{transcriber}{Antonio Tkalac}%
 \GreEndHeaders %
-\GreBeginScore{22b04ec10ea4b5fd1c4961d57c0d94ac474d30a9}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{2cb9eb08842da3ae64a3e4e678a5c905fd30b455}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -129,12 +129,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreSpecial{R/}.  D}{é}{}{\GreSpecial{R/}}{.  Dé}}{}{{0}{1}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreColored{\GreSpecial{R/}}.  D}{é}{}{\GreColored{\GreSpecial{R/}}}{.  Dé}}{}{{0}{1}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{\GreSpecial{R/}.  D}{é}{}{\GreSpecial{R/}}{.  Dé}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{o}{}{o}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{\GreColored{\GreSpecial{R/}}.  D}{é}{}{\GreColored{\GreSpecial{R/}}}{.  Dé}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{o}{}{o}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreFlat{11}{0}%
 {%

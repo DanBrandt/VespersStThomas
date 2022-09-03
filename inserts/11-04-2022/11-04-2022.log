@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  1 SEP 2022 22:13
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  3 SEP 2022 15:03
  system commands enabled.
 **11-04-2022.tex
 (./11-04-2022.tex
@@ -1144,12 +1144,6 @@ Module gregoriotex Info: Found ../../hymns/iste_confessor.gabc directly on input
 Module gregoriotex Info: Looking in  on input line 31
 Module gregoriotex Info: Found ../../hymns/iste_confessor-6_0_0.gtex directly on
  input line 31
-Module gregoriotex Info: ../../hymns/iste_confessor.gabc has been modified and .
-./../hymns/iste_confessor-6_0_0.gtex needs to be updated. Recompiling the gabc f
-ile. on input line 31
-Module gregoriotex Info: compiling the score ../../hymns/iste_confessor.gabc... 
-on input line 31
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 31
 
 (../../hymns/iste_confessor-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1173,6 +1167,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Module gregoriotex Info: Processing gabc snippet... on input line 70
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 70
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1183,139 +1178,151 @@ Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
 Module gregoriotex Info: Looking in  on input line 85
-Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
- 85
+Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 8
+5
 Module gregoriotex Info: Looking in  on input line 85
-Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
-t line 85
- (./magnificat-intonation-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 
-122.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
-File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
-)
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 122.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 122.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 122.
-LaTeX Font Info:    Trying to load font information for OML+mdbch on input line 
-122.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
-File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
-)
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 122.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 6.72005pt on input line 122.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 4.80003pt on input line 122.
-LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line 
-122.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
-File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
-)
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 122.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 122.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 122.
-LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line 
-122.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
-File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
-)
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 122.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 122.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 122.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 122.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 122.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 122.
-LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line 
-122.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
-File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
-)
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 122.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 122.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 122.
-LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line 
-122.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
-File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
-)
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 122.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 122.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 122.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(../../psalms/magnificat-1.tex) [2
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-Missing character: There is no ’ (U+2019) in font mdbchri8t!
-]
-Package mdframed Info: mdframed works in twoside mode on input line 90.
-Module gregoriotex Info: Looking in  on input line 96
-Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 9
-6
-Module gregoriotex Info: Looking in  on input line 96
 Module gregoriotex Info: Found magnificat-antiphon-6_0_0.gtex directly on input 
-line 96
+line 85
  (./magnificat-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 101.
+Module gregoriotex Info: Looking in  on input line 88
+Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
+ 88
+Module gregoriotex Info: Looking in  on input line 88
+Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
+t line 88
 
-Underfull \hbox (badness 2503) in paragraph at lines 126--126
+(./magnificat-intonation-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 
+49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
+)
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 49.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 49.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 49.
+LaTeX Font Info:    Trying to load font information for OML+mdbch on input line 
+49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 9.60007pt on input line 49.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 6.72005pt on input line 49.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 4.80003pt on input line 49.
+LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line 
+49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 49.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 49.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 49.
+LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line 
+49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 49.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 49.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 49.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 49.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 49.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 49.
+LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line 
+49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 49.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 49.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 49.
+LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line 
+49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 49.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 49.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 49.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+(../../psalms/magnificat-1.tex [2
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+Missing character: There is no ’ (U+2019) in font mdbchri8t!
+])
+Package mdframed Info: mdframed works in twoside mode on input line 93.
+Module gregoriotex Info: Looking in  on input line 99
+Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 9
+9
+Module gregoriotex Info: Looking in  on input line 99
+Module gregoriotex Info: Found magnificat-antiphon-6_0_0.gtex directly on input 
+line 99
+ (./magnificat-antiphon-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Package mdframed Info: mdframed works in twoside mode on input line 104.
+
+Underfull \hbox (badness 2503) in paragraph at lines 129--129
 []\T1/mdbch/m/n/10 Orémus. Ecclésiam tuam, Dómine, sancti Cároli
  []
 
 
-Overfull \hbox (0.12419pt too wide) in paragraph at lines 126--126
+Overfull \hbox (0.12419pt too wide) in paragraph at lines 129--129
 \T1/mdbch/m/n/10 custódi: \gre@font@variant@D  \T1/mdbch/m/n/10 ut, sicut i
 llum pastorális sollicitúdo glori\T1/mdbch/b/n/10 ó\T1/mdbch/m/it/10 sum
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 126--126
+Underfull \hbox (badness 1158) in paragraph at lines 129--129
 \T1/mdbch/m/n/10 amóre fervéntes. * Per Dóminum nostrum Jesum
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 126--126
+Underfull \hbox (badness 1112) in paragraph at lines 129--129
 \T1/mdbch/m/n/10 Christum, Fílium tuum: qui tecum vivit et regnat
  []
 
 [3]
-Module gregoriotex Info: Looking in  on input line 139
+Module gregoriotex Info: Looking in  on input line 142
 Module gregoriotex Info: Found ../../commemorations/an--angeli_archangeli_caelor
-um--solesmes_1934.gabc directly on input line 139
-Module gregoriotex Info: Looking in  on input line 139
+um--solesmes_1934.gabc directly on input line 142
+Module gregoriotex Info: Looking in  on input line 142
 Module gregoriotex Info: Found ../../commemorations/an--angeli_archangeli_caelor
-um--solesmes_1934-6_0_0.gtex directly on input line 139
+um--solesmes_1934-6_0_0.gtex directly on input line 142
 
 (../../commemorations/an--angeli_archangeli_caelorum--solesmes_1934-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1336,42 +1343,57 @@ Overfull \hbox (8.45567pt too wide) detected at line 278
 
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Underfull \hbox (badness 3343) in paragraph at lines 157--157
+Underfull \hbox (badness 3343) in paragraph at lines 162--162
 []\T1/mdbch/m/n/10 Orémus. Omnípotens sempitérne Deus, qui nos
  []
 
-Module gregoriotex Info: Looking in  on input line 178
+Module gregoriotex Info: Looking in  on input line 183
 Module gregoriotex Info: Found ../../common/benedicamus-tone-8.gabc directly on 
-input line 178
-Module gregoriotex Info: Looking in  on input line 178
+input line 183
+Module gregoriotex Info: Looking in  on input line 183
 Module gregoriotex Info: Found ../../common/benedicamus-tone-8-6_0_0.gtex direct
-ly on input line 178
+ly on input line 183
 (../../common/benedicamus-tone-8-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 207.
- [4] (./11-04-2022.aux)
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4]
+Package mdframed Info: mdframed works in twoside mode on input line 214.
+Package mdframed Info: Not enough space on this page on input line 218.
+Module gregoriotex Info: Looking in  on input line 221
+Module gregoriotex Info: Found ../../marian-anthems/salve-regina-solemn-tone.gab
+c directly on input line 221
+Module gregoriotex Info: Looking in  on input line 221
+Module gregoriotex Info: Found ../../marian-anthems/salve-regina-solemn-tone-6_0
+_0.gtex directly on input line 221
+
+(../../marian-anthems/salve-regina-solemn-tone-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Overfull \hbox (8.45567pt too wide) detected at line 859
+|
+ []
+
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [5] (./11-04-202
+2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29312 strings out of 481365
- 195328,794899 words of node,token memory allocated
- 3657 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 72 glue, 13 kern, 6 penalty, 7 glyph,
- 554 attribute, 284 glue_spec, 84 attribute_list, 2 write, 1 user_defined nodes
-   avail lists: 1:5,2:29930,3:2361,4:78,5:3557,6:244,7:4524,8:2,9:4593,10:68,11:
+ 29330 strings out of 481365
+ 195331,794899 words of node,token memory allocated
+ 4127 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 92 glue, 13 kern, 6 penalty, 7 glyph,
+ 694 attribute, 286 glue_spec, 104 attribute_list, 2 write, 1 user_defined nodes
+
+   avail lists: 1:6,2:29770,3:2355,4:71,5:3547,6:244,7:4572,8:2,9:4593,10:62,11:
 1
  45744 multiletter control sequences out of 65536+600000
- 118 fonts using 11948443 bytes
- 51i,11n,64p,837b,5632s stack positions out of 5000i,500n,10000p,200000b,100000s
-Module gregoriotex Info: Writing 11-04-2022.gaux on input line 0
-Module gregoriotex Warning: Line heights or variable brace lengths may have chan
-ged. Rerun to fix. on input line 0
+ 118 fonts using 11949099 bytes
+ 51i,12n,65p,837b,5674s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/lo
 cal/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf>{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
@@ -1379,10 +1401,10 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 11-04-2022.pdf (4 pages, 78663 bytes).
+Output written on 11-04-2022.pdf (5 pages, 85904 bytes).
 
-PDF statistics: 48 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
