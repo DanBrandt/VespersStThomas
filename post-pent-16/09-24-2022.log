@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  23 SEP 2022 00:02
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  23 SEP 2022 22:35
  system commands enabled.
 **09-24-2022.tex
 (./09-24-2022.tex
@@ -1139,13 +1139,19 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 8.64006pt on input line 25.
 Module gregoriotex Info: Looking in  on input line 35
-Module gregoriotex Info: Found ../hymns/jam-sol-recedit.gabc directly on input l
-ine 35
+Module gregoriotex Info: Found ../hymns/jam-sol-recedit-monastic.gabc directly o
+n input line 35
 Module gregoriotex Info: Looking in  on input line 35
-Module gregoriotex Info: Found ../hymns/jam-sol-recedit-6_0_0.gtex directly on i
-nput line 35
+Module gregoriotex Info: Found ../hymns/jam-sol-recedit-monastic-6_0_0.gtex dire
+ctly on input line 35
+Module gregoriotex Info: ../hymns/jam-sol-recedit-monastic.gabc has been modifie
+d and ../hymns/jam-sol-recedit-monastic-6_0_0.gtex needs to be updated. Recompil
+ing the gabc file. on input line 35
+Module gregoriotex Info: compiling the score ../hymns/jam-sol-recedit-monastic.g
+abc... on input line 35
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 35
 
-(../hymns/jam-sol-recedit-6_0_0.gtex
+(../hymns/jam-sol-recedit-monastic-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
@@ -1165,23 +1171,22 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Module gregoriotex Info: Processing gabc snippet... on input line 63
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 63
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
 Module gregoriotex Info: Processing gabc snippet... on input line 68
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Module gregoriotex Info: Looking in  on input line 80
+Module gregoriotex Info: Processing gabc snippet... on input line 73
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
+Module gregoriotex Info: Looking in  on input line 85
 Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
- 80
-Module gregoriotex Info: Looking in  on input line 80
+ 85
+Module gregoriotex Info: Looking in  on input line 85
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
-t line 80
+t line 85
  (./magnificat-intonation-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1266,13 +1271,13 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 (../psalms/magnificat-8.tex)
-Package mdframed Info: mdframed works in twoside mode on input line 85.
-Module gregoriotex Info: Looking in  on input line 91
+Package mdframed Info: mdframed works in twoside mode on input line 90.
+Module gregoriotex Info: Looking in  on input line 96
 Module gregoriotex Info: Found magnificat-antiphon.gabc directly on input line 9
-1
-Module gregoriotex Info: Looking in  on input line 91
+6
+Module gregoriotex Info: Looking in  on input line 96
 Module gregoriotex Info: Found magnificat-antiphon-6_0_0.gtex directly on input 
-line 91
+line 96
  (./magnificat-antiphon-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
@@ -1282,19 +1287,19 @@ Overfull \hbox (8.17033pt too wide) detected at line 194
 
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [2]
-Package mdframed Info: mdframed works in twoside mode on input line 96.
+Package mdframed Info: mdframed works in twoside mode on input line 101.
 
-Underfull \hbox (badness 1112) in paragraph at lines 123--123
+Underfull \hbox (badness 1112) in paragraph at lines 128--128
 \T1/mdbch/m/n/10 Christum, Fílium tuum: qui tecum vivit et regnat
  []
 
-Module gregoriotex Info: Looking in  on input line 135
-Module gregoriotex Info: Found ../commemorations/an--beatam_me_dicent--solesmes_
-1934.gabc directly on input line 135
-Module gregoriotex Info: Looking in  on input line 135
-Module gregoriotex Info: Found ../commemorations/an--beatam_me_dicent--solesmes_
-1934-6_0_0.gtex directly on input line 135
-(../commemorations/an--beatam_me_dicent--solesmes_1934-6_0_0.gtex
+Module gregoriotex Info: Looking in  on input line 140
+Module gregoriotex Info: Found ../commemorations/an--beatam_me_dicent--solesmes.
+gabc directly on input line 140
+Module gregoriotex Info: Looking in  on input line 140
+Module gregoriotex Info: Found ../commemorations/an--beatam_me_dicent--solesmes-
+6_0_0.gtex directly on input line 140
+(../commemorations/an--beatam_me_dicent--solesmes-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
@@ -1302,24 +1307,24 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-Module gregoriotex Info: Looking in  on input line 177
+Module gregoriotex Info: Looking in  on input line 182
 Module gregoriotex Info: Found ../common/benedicamus-tone-8.gabc directly on inp
-ut line 177
-Module gregoriotex Info: Looking in  on input line 177
+ut line 182
+Module gregoriotex Info: Looking in  on input line 182
 Module gregoriotex Info: Found ../common/benedicamus-tone-8-6_0_0.gtex directly 
-on input line 177
+on input line 182
 
 (../common/benedicamus-tone-8-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 210
+Module gregoriotex Info: Looking in  on input line 215
 Module gregoriotex Info: Found ../marian-anthems/salve-regina-solemn-tone.gabc d
-irectly on input line 210
-Module gregoriotex Info: Looking in  on input line 210
+irectly on input line 215
+Module gregoriotex Info: Looking in  on input line 215
 Module gregoriotex Info: Found ../marian-anthems/salve-regina-solemn-tone-6_0_0.
-gtex directly on input line 210
+gtex directly on input line 215
 
 (../marian-anthems/salve-regina-solemn-tone-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
@@ -1338,16 +1343,19 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  29322 strings out of 481365
- 156260,794899 words of node,token memory allocated
+ 156267,794899 words of node,token memory allocated
  4197 words of node memory still in use:
    15 hlist, 6 vlist, 9 rule, 1 local_par, 92 glue, 13 kern, 6 penalty, 7 glyph,
  715 attribute, 285 glue_spec, 107 attribute_list, 2 write, 1 user_defined nodes
 
-   avail lists: 1:3,2:24298,3:1934,4:31,5:2845,6:219,7:4520,8:2,9:3740,10:26,11:
+   avail lists: 1:2,2:24298,3:1934,4:37,5:2845,6:219,7:4388,8:3,9:3740,10:32,11:
 1
  45743 multiletter control sequences out of 65536+600000
  118 fonts using 11949099 bytes
  51i,12n,65p,837b,3715s stack positions out of 5000i,500n,10000p,200000b,100000s
+Module gregoriotex Info: Writing 09-24-2022.gaux on input line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/shar
 e/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/local/share/texmf/
 fonts/truetype/public/gregoriotex/greextra.ttf></usr/share/texlive/texmf-dist/fo
@@ -1356,7 +1364,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 a/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter
 /bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/
 md-chrma.pfb>
-Output written on 09-24-2022.pdf (5 pages, 86148 bytes).
+Output written on 09-24-2022.pdf (5 pages, 85983 bytes).
 
 PDF statistics: 55 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream

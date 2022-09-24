@@ -8,7 +8,7 @@
 \GreHeader{user-notes}{Psalm 144.1.}%
 \GreHeader{centering-scheme}{latin}%
 \GreEndHeaders %
-\GreBeginScore{c617d66df50bd179ed0f14d3c16beef93ae6839f}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{e7a0376c13767efd00ffdab6ca9cd9a677ce4452}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{1.a3}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -218,7 +218,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{i}{n}{i}{n}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{s}{ǽ}{}{s}{ǽ}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{i}{n}{i}{n}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{s\GreSpecial{'æ}}{}{s}{\GreSpecial{'æ}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
@@ -226,7 +226,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{s}{ǽ}{}{s}{ǽ}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{}{c}{u}}{}{{0}{0}}{}{%
+\GreSetFixedNextTextFormat{1}\GreSyllable{\GreSetThisSyllable{}{s\GreSpecial{'æ}}{}{s}{\GreSpecial{'æ}}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{}{c}{u}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%
@@ -240,7 +240,7 @@
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSetFixedTextFormat{1}\GreSetFixedNextTextFormat{2}\GreSyllable{\GreSetThisSyllable{l}{u}{m}{l}{um}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{s}{ǽ}{}{s}{ǽ}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{1}\GreSetFixedNextTextFormat{2}\GreSyllable{\GreSetThisSyllable{l}{u}{m}{l}{um}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{s\GreSpecial{'æ}}{}{s}{\GreSpecial{'æ}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
@@ -248,7 +248,7 @@
 }{}{}%
 }%
 %
-\GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{s}{ǽ}{}{s}{ǽ}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{}{c}{u}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{2}\GreSyllable{\GreSetThisSyllable{}{s\GreSpecial{'æ}}{}{s}{\GreSpecial{'æ}}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{u}{}{c}{u}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{9}{}}{0}%
 {%
