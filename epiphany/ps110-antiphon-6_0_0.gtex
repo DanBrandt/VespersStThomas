@@ -7,8 +7,10 @@
 \GreHeader{mode}{1}%
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 290}%
 \GreHeader{transcriber}{Andrew Hinkley}%
+\GreHeader{annotation}{I g 2}%
 \GreEndHeaders %
-\GreBeginScore{9c5ccf8246b731628f04630fe7d27a5310cc8e3f}{11}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{b991708dd8cccfd8d1dc3cf946b7fa03bf5e4f0a}{11}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreAnnotationLines{I g 2}{}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -37,7 +39,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{m}{e}{n}{m}{en}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{t}{ú}{}{t}{ú}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{m}{e}{n}{m}{en}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{t}{u}{}{t}{u}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{3}%
 \GreGlyph{\GreCPTorculusOneOneNothing}{8}{\GreNextCustos{9}{}}{0}%
 {%
@@ -47,7 +49,7 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{t}{ú}{}{t}{ú}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{u}{m}{u}{m}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{u}{}{t}{u}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{u}{m}{u}{m}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%

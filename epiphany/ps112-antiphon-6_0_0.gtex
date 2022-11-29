@@ -7,8 +7,10 @@
 \GreHeader{mode}{4}%
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 291}%
 \GreHeader{transcriber}{Dominique CROCHU}%
+\GreHeader{annotation}{IV E}%
 \GreEndHeaders %
-\GreBeginScore{29c69c3924a4251d25ea8b100442467481e00305}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{58f79350f6751ec8520729e294bf14417f379bc6}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreAnnotationLines{IV E}{}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%

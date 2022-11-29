@@ -7,8 +7,10 @@
 \GreHeader{mode}{7}%
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 291}%
 \GreHeader{transcriber}{Andrew Hinkley}%
+\GreHeader{annotation}{VII c 2}%
 \GreEndHeaders %
-\GreBeginScore{5974fa088287ece3edd0a2881623564f2e7332cd}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{130e3aff992932bec1fc2cd054ba5a214b09b9db}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreAnnotationLines{VII c 2}{}%
 \GreMode{\GreModeNumber{7}}{}{}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%

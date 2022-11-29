@@ -1,47 +1,38 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  27 JUN 2022 01:16
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.11)  29 NOV 2022 15:39
  system commands enabled.
 **01-06-2023_Ephiphany_Second_Vespers.tex
 (./01-06-2023_Ephiphany_Second_Vespers.tex
-LaTeX2e <2020-02-02> patch level 2
-Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
-Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
-n
-Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended c
+LaTeX2e <2021-11-15> patch level 1
+Lua module: luaotfload 2022-03-18 3.21 Lua based OpenType font support
+Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
 ollection.
-Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
-Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
-ig file reader
-luaotfload | conf : Root cache directory is /home/dan/.texlive2019/texmf-var/lua
-tex-cache/generic-dev/names.
-luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
--resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
--2020-01-26.lua”.
-Lua-only attribute luaotfload@state = 2
-Lua-only attribute luaotfload@noligature = 3
-Lua-only attribute luaotfload@syllabe = 4
-luaotfload | init : Context OpenType loader version “3.11”
+luaotfload | conf : Root cache directory is "/home/scott/.texlive/texmf-var/luat
+ex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2022-02-24.lua" from kpse-res
+olved path "/usr/share/texmf-dist/tex/luatex/luaotfload/fontloader-2022-02-24.lu
+a".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.119
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Lua module: luaotfload-loaders 2020-02-02 3.12 luaotfload submodule / callback h
-andling
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-02-02 3.12 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-02-02 3.12 luaotfload submodule / Unicode he
-lpers
-Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
-Lua-only attribute luaotfload_color_attribute = 5
-Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
-s
-luaotfload | conf : Root cache directory is /home/dan/.texlive2019/texmf-var/lua
-tex-cache/generic-dev/names.
-Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
-Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-notdef 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-auxiliary 2020-02-02 3.12 luaotfload submodule / auxiliar
-y functions
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/scott/.texlive/texmf-var/luat
+ex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' at position 1 in `glyph_stream_provider'
+.
+Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
+er'.
+Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
@@ -53,41 +44,40 @@ t_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-fallback 2020-02-02 3.12 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-02-02 3.12 luaotfload submodule / multis
-cript
-Lua module: luaotfload-script 2020-02-02 3.12 luaotfload submodule / Script help
-ers
-Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicod
-e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-02-14> (../vespers-booklet.cls
+. L3 programming layer <2022-04-10>
+Inserting `tracingstacklevels' at position 1 in `input_level_string'. (../vespe
+rs-sheet.cls
 
-LaTeX Warning: You have requested document class `../vespers-booklet',
-               but the document class provides `vespers-booklet'.
+LaTeX Warning: You have requested document class `../vespers-sheet',
+               but the document class provides `vespers-sheet'.
 
-Document Class: vespers-booklet 
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2019/11/21 v3.7j configurable book, report, article docum
-ent class
+Document Class: vespers-sheet 
+(/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2022/02/20 v3.7q configurable book, report, article docu
+ment class
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count183
+)
 \onelineskip=\skip47
 \lxvchars=\skip48
 \xlvchars=\skip49
-\@memcnta=\count163
-\c@@memmarkcntra=\count164
-LaTeX Info: Redefining \InputIfFileExists on input line 140.
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+\@memcnta=\count184
+\c@@memmarkcntra=\count185
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 \stockheight=\skip50
 \stockwidth=\skip51
 \trimtop=\skip52
 \trimedge=\skip53
 
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem10.clo
+(/usr/share/texmf-dist/tex/latex/memoir/mem10.clo
 File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
-luaotfload | db : Font names database loaded from /home/dan/.texlive2019/texmf-v
-ar/luatex-cache/generic-dev/names/luaotfload-names.luc)
+luaotfload | db : Font names database loaded from /home/scott/.texlive/texmf-var
+/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \binding=\skip54
 \spinemargin=\skip55
 \foremargin=\skip56
@@ -98,20 +88,20 @@ ar/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \mem@maxheadheight=\skip61
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
-\c@storedpagenumber=\count165
-\memPD=\dimen134
+\c@storedpagenumber=\count186
+\memPD=\dimen137
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
 \droptitle=\skip67
-\c@book=\count166
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
+\c@book=\count187
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
 \beforechapskip=\skip68
 \midchapskip=\skip69
 \afterchapskip=\skip70
@@ -133,10 +123,10 @@ ar/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \beforesubparaskip=\skip86
 \aftersubparaskip=\skip87
 \pfbreakskip=\skip88
-\c@@ppsavesec=\count174
-\c@@ppsaveapp=\count175
-\ragrparindent=\dimen135
-\everylistparindent=\dimen136
+\c@@ppsavesec=\count195
+\c@@ppsaveapp=\count196
+\ragrparindent=\dimen138
+\everylistparindent=\dimen139
 \parsepi=\skip89
 \topsepi=\skip90
 \itemsepi=\skip91
@@ -149,86 +139,86 @@ ar/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \partopsepiii=\skip98
 \m@msavetopsep=\skip99
 \m@msavepartopsep=\skip100
-\@enLab=\toks14
+\@enLab=\toks16
 \abstitleskip=\skip101
 \absleftindent=\skip102
-\abs@leftindent=\dimen137
+\abs@leftindent=\dimen140
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
-\c@vslineno=\count176
-\c@poemline=\count177
-\c@modulo@vs=\count178
-\c@memfvsline=\count179
+\c@vslineno=\count197
+\c@poemline=\count198
+\c@modulo@vs=\count199
+\c@memfvsline=\count266
 \vleftskip=\skip106
 \vrightskip=\skip107
 \stanzaskip=\skip108
 \versewidth=\skip109
 \vgap=\skip110
 \vindent=\skip111
-\vleftmargin=\dimen138
-\c@verse=\count180
-\c@chrsinstr=\count181
+\vleftmargin=\dimen141
+\c@verse=\count267
+\c@chrsinstr=\count268
 \beforepoemtitleskip=\skip112
 \afterpoemtitleskip=\skip113
-\c@poem=\count182
+\c@poem=\count269
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen139
-\ar@mcellbox=\box45
-\extrarowheight=\dimen140
-\NC@list=\toks15
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box50
+\extrarowheight=\dimen143
+\NC@list=\toks17
 \extratabsurround=\skip117
 \backup@length=\skip118
-\ar@cellbox=\box46
+\ar@cellbox=\box51
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+(/usr/share/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty
+(/usr/share/texmf-dist/tex/latex/tools/delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen141
-\TX@old@table=\dimen142
-\TX@old@col=\dimen143
-\TX@target=\dimen144
-\TX@delta=\dimen145
-\TX@cols=\count183
-\TX@ftn=\toks16
+\TX@col@width=\dimen144
+\TX@old@table=\dimen145
+\TX@old@col=\dimen146
+\TX@target=\dimen147
+\TX@delta=\dimen148
+\TX@cols=\count270
+\TX@ftn=\toks18
 )
-\heavyrulewidth=\dimen146
-\lightrulewidth=\dimen147
-\cmidrulewidth=\dimen148
-\belowrulesep=\dimen149
-\belowbottomsep=\dimen150
-\aboverulesep=\dimen151
-\abovetopsep=\dimen152
-\cmidrulesep=\dimen153
-\cmidrulekern=\dimen154
-\defaultaddspace=\dimen155
-\@cmidla=\count184
-\@cmidlb=\count185
-\@aboverulesep=\dimen156
-\@belowrulesep=\dimen157
-\@thisruleclass=\count186
-\@lastruleclass=\count187
-\@thisrulewidth=\dimen158
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
+\@cmidla=\count271
+\@cmidlb=\count272
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
+\@thisruleclass=\count273
+\@lastruleclass=\count274
+\@thisrulewidth=\dimen161
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
-\abovecolumnspenalty=\count188
-\@linestogo=\count189
-\@cellstogo=\count190
-\@cellsincolumn=\count191
-\crtok=\toks17
-\@mincolumnwidth=\dimen159
-\c@newflo@tctr=\count192
-\mem@margin@floatbox=\box47
+\abovecolumnspenalty=\count275
+\@linestogo=\count276
+\@cellstogo=\count277
+\@cellsincolumn=\count278
+\crtok=\toks19
+\@mincolumnwidth=\dimen162
+\c@newflo@tctr=\count279
+\mem@margin@floatbox=\box52
 \@contcwidth=\skip121
 \@contindw=\skip122
 \abovecaptionskip=\skip123
@@ -238,29 +228,29 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \subfloatcaptopadj=\skip127
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
-\subfloatcapmargin=\dimen160
-\c@@contsubnum=\count193
-\m@mscap@capbox=\box48
-\m@mscap@fbox=\box49
-\sidecapsep=\dimen161
-\sidecapwidth=\dimen162
-\m@m@tempdima=\dimen163
-\m@mscapraise=\dimen164
-\sidecapraise=\dimen165
-\m@mscapmainwidth=\dimen166
-\m@mscaplkern=\dimen167
+\subfloatcapmargin=\dimen163
+\c@@contsubnum=\count280
+\m@mscap@capbox=\box53
+\m@mscap@fbox=\box54
+\sidecapsep=\dimen164
+\sidecapwidth=\dimen165
+\m@m@tempdima=\dimen166
+\m@mscapraise=\dimen167
+\sidecapraise=\dimen168
+\m@mscapmainwidth=\dimen169
+\m@mscaplkern=\dimen170
 \beforeepigraphskip=\skip130
 \afterepigraphskip=\skip131
 \epigraphwidth=\skip132
 \epigraphrule=\skip133
-LaTeX Info: Redefining \em on input line 7662.
-LaTeX Info: Redefining \emph on input line 7670.
+LaTeX Info: Redefining \em on input line 7655.
+LaTeX Info: Redefining \emph on input line 7663.
 \tocentryskip=\skip134
 \tocbaseline=\skip135
 \cftparskip=\skip136
 \cftbeforebookskip=\skip137
-\cftbookindent=\dimen168
-\cftbooknumwidth=\dimen169
+\cftbookindent=\dimen171
+\cftbooknumwidth=\dimen172
 \cftbeforepartskip=\skip138
 \cftpartindent=\skip139
 \cftpartnumwidth=\skip140
@@ -282,18 +272,18 @@ LaTeX Info: Redefining \emph on input line 7670.
 \cftbeforesubparagraphskip=\skip156
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
-\prechapterprecisshift=\dimen170
-\c@maxsecnumdepth=\count194
-\bibindent=\dimen171
+\prechapterprecisshift=\dimen173
+\c@maxsecnumdepth=\count281
+\bibindent=\dimen174
 \bibitemsep=\skip159
 \indexcolsep=\skip160
 \indexrule=\skip161
-\indexmarkstyle=\toks18
-\@indexbox=\insert199
-\glossarycolsep=\dimen172
-\glossaryrule=\dimen173
+\indexmarkstyle=\toks20
+\@indexbox=\insert252
+\glossarycolsep=\dimen175
+\glossaryrule=\dimen176
 \sideparvshift=\skip162
-\sideins=\insert198
+\sideins=\insert251
 \sidebartopsep=\skip163
 \sidebarhsep=\skip164
 \sidebarvsep=\skip165
@@ -302,68 +292,66 @@ LaTeX Info: Redefining \emph on input line 7670.
 \footmarksep=\skip168
 \footparindent=\skip169
 \footinsdim=\skip170
-\footinsv@r=\insert197
-\@mpfootinsv@r=\insert196
-\m@m@k=\count195
-\m@m@h=\dimen174
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count282
+\m@m@h=\dimen177
 \m@mipn@skip=\skip171
-\sidefootins=\insert252
+\sidefootins=\insert248
 \sidefootadjust=\skip172
 \sidefootheight=\skip173
 \sidefoothsep=\skip174
 \sidefootvsep=\skip175
 \sidefootwidth=\skip176
 \m@mdownsf=\skip177
-\c@sidefootnote=\count266
+\c@sidefootnote=\count283
 \sidefootmarkwidth=\skip178
 \sidefootmarksep=\skip179
 \sidefootparindent=\skip180
-\c@pagenote=\count267
-\c@pagenoteshadow=\count268
+\c@pagenote=\count284
+\c@pagenoteshadow=\count285
 \mem@pn@lastkern=\skip181
-\every@verbatim=\toks19
-\afterevery@verbatim=\toks20
-\verbatim@line=\toks21
-\tab@position=\count269
+\every@verbatim=\toks21
+\afterevery@verbatim=\toks22
+\verbatim@line=\toks23
+\tab@position=\count286
 \verbatim@in@stream=\read2
 \verbatimindent=\skip182
 \verbatim@out=\write3
 \bvboxsep=\skip183
-\c@memfbvline=\count270
-\c@bvlinectr=\count271
+\c@memfbvline=\count287
+\c@bvlinectr=\count288
 \bvnumlength=\skip184
-\fb@frw=\dimen175
-\fb@frh=\dimen176
-\FrameRule=\dimen177
-\FrameSep=\dimen178
-\c@cp@cntr=\count272
-LaTeX Info: Redefining \: on input line 12187.
-LaTeX Info: Redefining \! on input line 12189.
-\c@ism@mctr=\count273
-\c@xsm@mctr=\count274
-\c@csm@mctr=\count275
-\c@ksm@mctr=\count276
-\c@xksm@mctr=\count277
-\c@cksm@mctr=\count278
-\c@msm@mctr=\count279
-\c@xmsm@mctr=\count280
-\c@cmsm@mctr=\count281
-\c@bsm@mctr=\count282
-\c@workm@mctr=\count283
-\c@sheetsequence=\count284
-\c@lastsheet=\count285
-\c@lastpage=\count286
+\fb@frw=\dimen178
+\fb@frh=\dimen179
+\FrameRule=\dimen180
+\FrameSep=\dimen181
+\c@cp@cntr=\count289
+\c@ism@mctr=\count290
+\c@xsm@mctr=\count291
+\c@csm@mctr=\count292
+\c@ksm@mctr=\count293
+\c@xksm@mctr=\count294
+\c@cksm@mctr=\count295
+\c@msm@mctr=\count296
+\c@xmsm@mctr=\count297
+\c@cmsm@mctr=\count298
+\c@bsm@mctr=\count299
+\c@workm@mctr=\count300
+\c@sheetsequence=\count301
+\c@lastsheet=\count302
+\c@lastpage=\count303
 
-(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+(/usr/share/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
 )
-\c@figure=\count287
-\c@lofdepth=\count288
+\c@figure=\count304
+\c@lofdepth=\count305
 \cftbeforefigureskip=\skip185
 \cftfigureindent=\skip186
 \cftfigurenumwidth=\skip187
-\c@table=\count289
-\c@lotdepth=\count290
+\c@table=\count306
+\c@lotdepth=\count307
 \cftbeforetableskip=\skip188
 \cfttableindent=\skip189
 \cfttablenumwidth=\skip190
@@ -381,7 +369,6 @@ Package ifmtarg [2008/07/23] emulated by memoir.
 Package index [2008/07/23] emulated by memoir.
 Package makeidx [2008/07/23] emulated by memoir.
 Package moreverb [2008/07/23] emulated by memoir.
-Package mparhack [2008/07/23] emulated by memoir.
 Package needspace [2008/07/23] emulated by memoir.
 Package newfile [2008/07/23] emulated by memoir.
 Package nextpage [2008/07/23] emulated by memoir.
@@ -399,36 +386,116 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
 
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mathdesign.sty
+) (/usr/share/texmf-dist/tex/latex/mathdesign/mathdesign.sty
 Package: mathdesign 2013/08/29 v2.31 Math Design Project
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks26
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.cfg)
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.sty
-Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Design
- Project)
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.cfg)
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/mdbch.sty
+Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Desig
+n Project)
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdfont.def
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdfont.def
 File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdsffont.def
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdsffont.def
 File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdttfont.def
+
+
+LaTeX Info: Font shape OT1/phv/mc/n has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 53.
+
+
+LaTeX Info: Font shape OT1/phv/mc/sc has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 56.
+
+
+LaTeX Info: Font shape OT1/phv/mc/sl has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 59.
+
+
+LaTeX Info: Font shape OT1/phv/mc/it has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 79.
+
+
+LaTeX Info: Font shape T1/phv/mc/n has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 102.
+
+
+LaTeX Info: Font shape T1/phv/mc/sc has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 105.
+
+
+LaTeX Info: Font shape T1/phv/mc/sl has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 108.
+
+
+LaTeX Info: Font shape T1/phv/mc/it has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 128.
+
+
+LaTeX Info: Font shape OT1/uhv/mc/n has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 259.
+
+
+LaTeX Info: Font shape OT1/uhv/mc/sc has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 262.
+
+
+LaTeX Info: Font shape OT1/uhv/mc/sl has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 265.
+
+
+LaTeX Info: Font shape OT1/uhv/mc/it has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 268.
+
+
+LaTeX Info: Font shape T1/uhv/mc/n has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 313.
+
+
+LaTeX Info: Font shape T1/uhv/mc/sc has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 316.
+
+
+LaTeX Info: Font shape T1/uhv/mc/sl has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 319.
+
+
+LaTeX Info: Font shape T1/uhv/mc/it has incorrect series value `mc'.
+            It should not contain an `m'! Please correct it.
+            Found on input line 322.
+
+) (/usr/share/texmf-dist/tex/latex/mathdesign/mdttfont.def
 File: mdttfont.def 2013/08/29 v2.31 (Math Design Project)
 )
 \symmdcal=\mathgroup4
@@ -482,19 +549,19 @@ LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
 LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
 (Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
 
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
 )
-\XKV@depth=\count291
+\XKV@depth=\count308
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-LaTeX Font Info:    Trying to load font information for TU+mdbch on input line 1
-86.
+LaTeX Font Info:    Trying to load font information for TU+mdbch on input line 
+186.
 LaTeX Font Info:    No file TUmdbch.fd. on input line 186.
 
 
@@ -509,336 +576,407 @@ LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
 \symmathdesignB=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
 (Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
-\@emptytoks=\toks27
+\@emptytoks=\toks29
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
 \rulethickness=\skip191
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 1
-12.
+) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+mdbch on input line 
+112.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/t1mdbch.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/t1mdbch.fd
 File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
 )
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 9.60007pt on input line 112.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box50
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box55
 \beforetitleunit=\skip192
 \aftertitleunit=\skip193
-\ttl@plus=\dimen179
-\ttl@minus=\dimen180
-\ttl@toksa=\toks28
-\titlewidth=\dimen181
-\titlewidthlast=\dimen182
-\titlewidthfirst=\dimen183
+\ttl@plus=\dimen182
+\ttl@minus=\dimen183
+\ttl@toksa=\toks30
+\titlewidth=\dimen184
+\titlewidthlast=\dimen185
+\titlewidthfirst=\dimen186
 )
-(/usr/share/texlive/texmf-dist/tex/latex/paracol/paracol.sty
+(/usr/share/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2018/12/31 v1.35 
-\pcol@currcol=\count292
-\pcol@nextcol=\count293
-\pcol@ncol=\count294
-\pcol@ncolleft=\count295
-\pcol@page=\count296
-\pcol@basepage=\count297
-\pcol@toppage=\count298
-\pcol@footnotebase=\count299
-\pcol@nfootnotes=\count300
-\pcol@mcid=\count301
-\pcol@prevdepth=\dimen184
-\pcol@colht=\dimen185
-\pcol@textfloatsep=\dimen186
-\pcol@lrmargin=\dimen187
-\pagerim=\dimen188
+\pcol@currcol=\count309
+\pcol@nextcol=\count310
+\pcol@ncol=\count311
+\pcol@ncolleft=\count312
+\pcol@page=\count313
+\pcol@basepage=\count314
+\pcol@toppage=\count315
+\pcol@footnotebase=\count316
+\pcol@nfootnotes=\count317
+\pcol@mcid=\count318
+\pcol@prevdepth=\dimen187
+\pcol@colht=\dimen188
+\pcol@textfloatsep=\dimen189
+\pcol@lrmargin=\dimen190
+\pagerim=\dimen191
 \pcol@topskip=\skip194
 \belowfootnoteskip=\skip195
-\pcol@topfnotes=\box51
-\pcol@prespan=\box52
-\pcol@rightpage=\box53
-\pcol@colorstack@saved=\box54
-\pcol@tempboxa=\box55
-\pcol@tempboxb=\box56
-\pcol@colorins=\insert251
-\pcol@everyvbox=\toks29
+\pcol@topfnotes=\box56
+\pcol@prespan=\box57
+\pcol@rightpage=\box58
+\pcol@colorstack@saved=\box59
+\pcol@tempboxa=\box60
+\pcol@tempboxb=\box61
+\pcol@colorins=\insert247
+\pcol@everyvbox=\toks31
 )
-(/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+(/usr/share/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-02-14 L3 programming layer (loader) 
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-04-10 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count302
-\l__pdf_internal_box=\box57
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2022-04-14 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count319
+\l__pdf_internal_box=\box62
 ))
-Package: xparse 2020-02-14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count303
-\g__xparse_grabber_int=\count304
-\l__xparse_m_args_int=\count305
-\l__xparse_v_nesting_int=\count306
+Package: xparse 2022-01-12 L3 Experimental document command parser
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count307
-)
-(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
-Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
+(/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
-Package: zref-base 2019/11/29 v2.28 Module base for zref (HO)
+(/usr/share/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
-
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks30
+\pdftexcmds@toks=\toks32
 )
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-Package zref Info: New property list: main on input line 763.
-Package zref Info: New property: default on input line 764.
-Package zref Info: New property: page on input line 765.
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\c@abspage=\count308
-Package zref Info: New property: abspage on input line 66.
+\c@abspage=\count320
+Package zref Info: New property: abspage on input line 65.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: luatex.def on input line 147.
+Package color Info: Driver file: luatex.def on input line 149.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+(/usr/share/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
 ))
-\mdf@templength=\skip256
-\c@mdf@globalstyle@cnt=\count309
-\mdf@skipabove@length=\skip257
-\mdf@skipbelow@length=\skip258
-\mdf@leftmargin@length=\skip259
-\mdf@rightmargin@length=\skip260
-\mdf@innerleftmargin@length=\skip261
-\mdf@innerrightmargin@length=\skip262
-\mdf@innertopmargin@length=\skip263
-\mdf@innerbottommargin@length=\skip264
-\mdf@splittopskip@length=\skip265
-\mdf@splitbottomskip@length=\skip266
-\mdf@outermargin@length=\skip267
-\mdf@innermargin@length=\skip268
-\mdf@linewidth@length=\skip269
-\mdf@innerlinewidth@length=\skip270
-\mdf@middlelinewidth@length=\skip271
-\mdf@outerlinewidth@length=\skip272
-\mdf@roundcorner@length=\skip273
-\mdf@footenotedistance@length=\skip274
-\mdf@userdefinedwidth@length=\skip275
-\mdf@needspace@length=\skip276
-\mdf@frametitleaboveskip@length=\skip277
-\mdf@frametitlebelowskip@length=\skip278
-\mdf@frametitlerulewidth@length=\skip279
-\mdf@frametitleleftmargin@length=\skip280
-\mdf@frametitlerightmargin@length=\skip281
-\mdf@shadowsize@length=\skip282
-\mdf@extratopheight@length=\skip283
-\mdf@subtitleabovelinewidth@length=\skip284
-\mdf@subtitlebelowlinewidth@length=\skip285
-\mdf@subtitleaboveskip@length=\skip286
-\mdf@subtitlebelowskip@length=\skip287
-\mdf@subtitleinneraboveskip@length=\skip288
-\mdf@subtitleinnerbelowskip@length=\skip289
-\mdf@subsubtitleabovelinewidth@length=\skip290
-\mdf@subsubtitlebelowlinewidth@length=\skip291
-\mdf@subsubtitleaboveskip@length=\skip292
-\mdf@subsubtitlebelowskip@length=\skip293
-\mdf@subsubtitleinneraboveskip@length=\skip294
-\mdf@subsubtitleinnerbelowskip@length=\skip295
+\mdf@templength=\skip196
+\c@mdf@globalstyle@cnt=\count321
+\mdf@skipabove@length=\skip197
+\mdf@skipbelow@length=\skip198
+\mdf@leftmargin@length=\skip199
+\mdf@rightmargin@length=\skip256
+\mdf@innerleftmargin@length=\skip257
+\mdf@innerrightmargin@length=\skip258
+\mdf@innertopmargin@length=\skip259
+\mdf@innerbottommargin@length=\skip260
+\mdf@splittopskip@length=\skip261
+\mdf@splitbottomskip@length=\skip262
+\mdf@outermargin@length=\skip263
+\mdf@innermargin@length=\skip264
+\mdf@linewidth@length=\skip265
+\mdf@innerlinewidth@length=\skip266
+\mdf@middlelinewidth@length=\skip267
+\mdf@outerlinewidth@length=\skip268
+\mdf@roundcorner@length=\skip269
+\mdf@footenotedistance@length=\skip270
+\mdf@userdefinedwidth@length=\skip271
+\mdf@needspace@length=\skip272
+\mdf@frametitleaboveskip@length=\skip273
+\mdf@frametitlebelowskip@length=\skip274
+\mdf@frametitlerulewidth@length=\skip275
+\mdf@frametitleleftmargin@length=\skip276
+\mdf@frametitlerightmargin@length=\skip277
+\mdf@shadowsize@length=\skip278
+\mdf@extratopheight@length=\skip279
+\mdf@subtitleabovelinewidth@length=\skip280
+\mdf@subtitlebelowlinewidth@length=\skip281
+\mdf@subtitleaboveskip@length=\skip282
+\mdf@subtitlebelowskip@length=\skip283
+\mdf@subtitleinneraboveskip@length=\skip284
+\mdf@subtitleinnerbelowskip@length=\skip285
+\mdf@subsubtitleabovelinewidth@length=\skip286
+\mdf@subsubtitlebelowlinewidth@length=\skip287
+\mdf@subsubtitleaboveskip@length=\skip288
+\mdf@subsubtitlebelowskip@length=\skip289
+\mdf@subsubtitleinneraboveskip@length=\skip290
+\mdf@subsubtitleinnerbelowskip@length=\skip291
 
-(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+(/usr/share/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box58
-\mdf@footnotebox=\box59
-\mdf@splitbox@one=\box60
-\mdf@splitbox@two=\box61
-\mdf@splitbox@save=\box62
-\mdfsplitboxwidth=\skip296
-\mdfsplitboxtotalwidth=\skip297
-\mdfsplitboxheight=\skip298
-\mdfsplitboxdepth=\skip299
-\mdfsplitboxtotalheight=\skip300
-\mdfframetitleboxwidth=\skip301
-\mdfframetitleboxtotalwidth=\skip302
-\mdfframetitleboxheight=\skip303
-\mdfframetitleboxdepth=\skip304
-\mdfframetitleboxtotalheight=\skip305
-\mdffootnoteboxwidth=\skip306
-\mdffootnoteboxtotalwidth=\skip307
-\mdffootnoteboxheight=\skip308
-\mdffootnoteboxdepth=\skip309
-\mdffootnoteboxtotalheight=\skip310
-\mdftotallinewidth=\skip311
-\mdfboundingboxwidth=\skip312
-\mdfboundingboxtotalwidth=\skip313
-\mdfboundingboxheight=\skip314
-\mdfboundingboxdepth=\skip315
-\mdfboundingboxtotalheight=\skip316
-\mdf@freevspace@length=\skip317
-\mdf@horizontalwidthofbox@length=\skip318
-\mdf@verticalmarginwhole@length=\skip319
-\mdf@horizontalspaceofbox=\skip320
-\mdfsubtitleheight=\skip321
-\mdfsubsubtitleheight=\skip322
-\c@mdfcountframes=\count310
+\mdf@frametitlebox=\box63
+\mdf@footnotebox=\box64
+\mdf@splitbox@one=\box65
+\mdf@splitbox@two=\box66
+\mdf@splitbox@save=\box67
+\mdfsplitboxwidth=\skip292
+\mdfsplitboxtotalwidth=\skip293
+\mdfsplitboxheight=\skip294
+\mdfsplitboxdepth=\skip295
+\mdfsplitboxtotalheight=\skip296
+\mdfframetitleboxwidth=\skip297
+\mdfframetitleboxtotalwidth=\skip298
+\mdfframetitleboxheight=\skip299
+\mdfframetitleboxdepth=\skip300
+\mdfframetitleboxtotalheight=\skip301
+\mdffootnoteboxwidth=\skip302
+\mdffootnoteboxtotalwidth=\skip303
+\mdffootnoteboxheight=\skip304
+\mdffootnoteboxdepth=\skip305
+\mdffootnoteboxtotalheight=\skip306
+\mdftotallinewidth=\skip307
+\mdfboundingboxwidth=\skip308
+\mdfboundingboxtotalwidth=\skip309
+\mdfboundingboxheight=\skip310
+\mdfboundingboxdepth=\skip311
+\mdfboundingboxtotalheight=\skip312
+\mdf@freevspace@length=\skip313
+\mdf@horizontalwidthofbox@length=\skip314
+\mdf@verticalmarginwhole@length=\skip315
+\mdf@horizontalspaceofbox=\skip316
+\mdfsubtitleheight=\skip317
+\mdfsubsubtitleheight=\skip318
+\c@mdfcountframes=\count322
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count311
-\c@mdf@env@i=\count312
-\c@mdf@env@ii=\count313
-\c@mdf@zref@counter=\count314
+\mdf@envdepth=\count323
+\c@mdf@env@i=\count324
+\c@mdf@env@ii=\count325
+\c@mdf@zref@counter=\count326
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+Package xcolor Info: Driver file: luatex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/02/14 3.40 The Babel package
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2020/02/14 3.40 Babel switching mechanism
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+(/usr/share/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read3
 \l@dumylang=\language2
-Package babel Info: Non-standard hyphenation setup on input line 117.
+Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@nohyphenation=\language3
-\l@ukenglish=\language4
-\l@usenglishmax=\language5
+\l@german-x-2022-03-16=\language4
+\l@ngerman-x-2022-03-16=\language5
+\l@afrikaans=\language6
+\l@ancientgreek=\language7
+\l@ibycus=\language8
+\l@arabic=\language9
+\l@armenian=\language10
+\l@basque=\language11
+\l@belarusian=\language12
+\l@bulgarian=\language13
+\l@catalan=\language14
+\l@pinyin=\language15
+\l@churchslavonic=\language16
+\l@coptic=\language17
+\l@croatian=\language18
+\l@czech=\language19
+\l@danish=\language20
+\l@dutch=\language21
+\l@ukenglish=\language22
+\l@usenglishmax=\language23
+\l@esperanto=\language24
+\l@estonian=\language25
+\l@ethiopic=\language26
+\l@farsi=\language27
+\l@finnish=\language28
+\l@schoolfinnish=\language29
+\l@french=\language30
+\l@friulan=\language31
+\l@galician=\language32
+\l@georgian=\language33
+\l@german=\language34
+\l@ngerman=\language35
+\l@swissgerman=\language36
+\l@greek=\language37
+\l@monogreek=\language38
+\l@hungarian=\language39
+\l@icelandic=\language40
+\l@assamese=\language41
+\l@bengali=\language42
+\l@gujarati=\language43
+\l@hindi=\language44
+\l@kannada=\language45
+\l@malayalam=\language46
+\l@marathi=\language47
+\l@oriya=\language48
+\l@pali=\language49
+\l@panjabi=\language50
+\l@tamil=\language51
+\l@telugu=\language52
+\l@indonesian=\language53
+\l@interlingua=\language54
+\l@irish=\language55
+\l@italian=\language56
+\l@kurmanji=\language57
+\l@classiclatin=\language58
+\l@latin=\language59
+\l@liturgicallatin=\language60
+\l@latvian=\language61
+\l@lithuanian=\language62
+\l@macedonian=\language63
+\l@mongolian=\language64
+\l@mongolianlmc=\language65
+\l@bokmal=\language66
+\l@nynorsk=\language67
+\l@occitan=\language68
+\l@piedmontese=\language69
+\l@polish=\language70
+\l@portuguese=\language71
+\l@romanian=\language72
+\l@romansh=\language73
+\l@russian=\language74
+\l@sanskrit=\language75
+\l@serbian=\language76
+\l@serbianc=\language77
+\l@slovak=\language78
+\l@slovenian=\language79
+\l@spanish=\language80
+\l@swedish=\language81
+\l@thai=\language82
+\l@turkish=\language83
+\l@turkmen=\language84
+\l@ukrainian=\language85
+\l@uppersorbian=\language86
+\l@welsh=\language87
+\babelcatcodetablenum=\catcodetable12
+\bbl@pattcodes=\catcodetable13
+)
+\babel@savecnt=\count327
+\U@D=\dimen192
+\l@unhyphenated=\language88
+
+(/usr/share/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
 )
 Package babel Info: You haven't specified a language. I'll use 'nil'
-(babel)             as the main language. Reported on input line 572.
+(babel)             as the main language. Reported on input line 4305.
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
-Language: nil 2020/02/14 3.40 Nil language
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count315
-\U@D=\dimen189
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
-\bbl@attr@locale=\attribute6
+(/usr/share/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2022/02/26 3.73 Nil language
+\l@nil=\language89
 ))
-\l@nil=\language6
-))
-(/usr/local/share/texmf/tex/lualatex/gregoriotex/gregoriotex.sty
+(/usr/share/texmf/tex/lualatex/gregoriotex/gregoriotex.sty
 Package: gregoriotex 2021/03/13 v6.0.0 GregorioTeX system.
 
-(/usr/share/texlive/texmf-dist/tex/latex/luacolor/luacolor.sty
-Package: luacolor 2019/11/29 v1.13 Color support via LuaTeX's attributes (HO)
-\LuaCol@Attribute=\attribute7
+(/usr/share/texmf-dist/tex/latex/luacolor/luacolor.sty
+Package: luacolor 2021-02-17 v1.17 Color support via LuaTeX's attributes (HO)
+Inserting `luacolor.process' at position 1 in `pre_shipout_filter'.
+\LuaCol@Attribute=\attribute5
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 105.
+Package graphics Info: Driver file: luatex.def on input line 107.
 )
-\Gin@req@height=\dimen190
-\Gin@req@width=\dimen191
+\Gin@req@height=\dimen193
+\Gin@req@width=\dimen194
 )
-(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+(/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
 
-(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+(/usr/share/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count316
+\@catcodetablestackcnt=\count328
 )
-\CatcodeTableOther=\catcodetable5
-\CatcodeTableExpl=\catcodetable6
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
 )
-(/usr/share/texlive/texmf-dist/tex/luatex/luamplib/luamplib.sty
-Package: luamplib 2019/12/11 v2.20.4 mplib package for LuaTeX
-Lua module: luamplib 2019/12/11 2.20.4 Lua package to typeset Metapost with LuaT
+(/usr/share/texmf-dist/tex/luatex/luamplib/luamplib.sty
+Package: luamplib 2022/01/12 v2.23.0 mplib package for LuaTeX
+Lua module: luamplib 2022/01/12 2.23.0 Lua package to typeset Metapost with LuaT
 eX's MPLib.
-\mplibtmptoks=\toks31
-\everymplibtoks=\toks32
-\everyendmplibtoks=\toks33
-\mplibscratchbox=\box63
+\mplibtmptoks=\toks33
+\mplibscratchbox=\box68
 )
-(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count317
-\decimalpart=\count318
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count329
+\decimalpart=\count330
 )
-Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 )
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-main.tex
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-common.tex)
-\gre@attr@dash=\attribute8
-\gre@attr@center=\attribute9
-\GreScoreId=\attribute10
-\gre@attr@glyph@id=\attribute11
-\gre@attr@glyph@top=\attribute12
-\gre@attr@glyph@bottom=\attribute13
-\gre@attr@syllable@id=\attribute14
-\gre@atletter=\catcodetable7
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-main.tex
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-common.tex)
+\gre@attr@dash=\attribute6
+\gre@attr@center=\attribute7
+\GreScoreId=\attribute8
+\gre@attr@glyph@id=\attribute9
+\gre@attr@glyph@top=\attribute10
+\gre@attr@glyph@bottom=\attribute11
+\gre@attr@syllable@id=\attribute12
+\gre@atletter=\catcodetable16
 Lua module: gregoriotex 2021/03/13 6.0.0 GregorioTeX module.
 Custom whatsit marker = 1
 Module gregoriotex Info: marker whatsit id is 1 on input line 121
@@ -846,235 +984,230 @@ Module gregoriotex Info: marker whatsit id is 1 on input line 121
 (01-06-2023_Ephiphany_Second_Vespers.gaux)
 Module gregoriotex Info: Reading 01-06-2023_Ephiphany_Second_Vespers.gaux on inp
 ut line 125
-Inserting `gregoriotex.write_greaux' at position 1 in `finish_pdffile'.
+Inserting `gregoriotex.write_greaux' at position 2 in `finish_pdffile'.
 \gre@gaux=\write4
 \gre@read@temp=\read4
-\gre@factor=\count319
+\gre@factor=\count331
 
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-spaces.tex
-\gre@saved@prescore@hyphenpenalty=\count320
-\gre@saved@prescore@exhyphenpenalty=\count321
-\gre@saved@prescore@exhyphenchar=\count322
-\gre@saved@prescore@doublehyphendemerits=\count323
-\gre@saved@prescore@finalhyphendemerits=\count324
-\gre@saved@prescore@brokenpenalty=\count325
-\gre@saved@prescore@looseness=\count326
-\gre@saved@prescore@tolerance=\count327
-\gre@saved@prescore@pretolerance=\count328
-\gre@saved@prescore@emergencystretch=\skip323
-\gre@saved@prescore@widowpenalty=\count329
-\gre@saved@prescore@clubpenalty=\count330
-\gre@saved@prescore@parskip=\skip324
-\gre@saved@prescore@lineskip=\skip325
-\gre@saved@prescore@baselineskip=\skip326
-\gre@saved@prescore@lineskiplimit=\skip327
-\gre@dimen@textlower=\dimen192
-\gre@dimen@stafflinewidth=\dimen193
-\gre@dimen@linewidth=\dimen194
-\gre@dimen@stafflineheight=\dimen195
-\gre@dimen@interstafflinespace=\dimen256
-\gre@dimen@stafflinediff=\dimen257
-\gre@dimen@constantglyphraise=\dimen258
-\gre@dimen@staffheight=\dimen259
-\gre@skip@syllablefinalskip=\skip328
-\gre@skip@minTextDistance=\skip329
-\gre@skip@minNotesDistance=\skip330
-\gre@dimen@curTextDistance=\dimen260
-\gre@dimen@curNotesDistance=\dimen261
-\gre@skip@minShiftText=\skip331
-\gre@skip@minShiftNotes=\skip332
-\gre@dimen@bolshift=\dimen262
-\gre@dimen@bolextra=\dimen263
-\gre@dimen@clefwidth@current=\dimen264
-\gre@dimen@clefwidth@largest=\dimen265
-\gre@dimen@clefwidth@bol=\dimen266
-\gre@dimen@eolshift=\dimen267
-\gre@dimen@glyphraisevalue=\dimen268
-\gre@dimen@additionalbottomspace=\dimen269
-\gre@dimen@additionaltopspace=\dimen270
-\gre@dimen@additionaltopspacealt=\dimen271
-\gre@dimen@additionaltopspacenabc=\dimen272
-\gre@space@count@additionaltopspacethreshold=\count331
-\gre@space@count@additionaltopspacealtthreshold=\count332
-\gre@space@count@additionaltopspacenabcthreshold=\count333
-\gre@space@count@noteadditionalspacelinestextthreshold=\count334
-\gre@saved@prediscretionary@dimen@additionalbottomspace=\dimen273
-\gre@saved@prediscretionary@dimen@additionaltopspace=\dimen274
-\gre@saved@prediscretionary@dimen@additionaltopspacealt=\dimen275
-\gre@saved@prediscretionary@dimen@additionaltopspacenabc=\dimen276
-\gre@saved@prediscretionary@dimen@currenttranslationheight=\dimen277
-\gre@saved@prediscretionary@dimen@textlower=\dimen278
-\gre@saved@prediscretionary@dimen@currentabovelinestextheight=\dimen279
-\gre@saved@prediscretionary@dimen@constantglyphraise=\dimen280
-\gre@dimen@textaligncenter=\dimen281
-\gre@dimen@enddifference=\dimen282
-\gre@dimen@previousenddifference=\dimen283
-\gre@dimen@currenttranslationheight=\dimen284
-\gre@skip@nextbegindifference=\skip333
-\gre@dimen@annotationtrueraise=\dimen285
-\gre@dimen@commentarytrueraise=\dimen286
-\gre@skip@bar@requirement=\skip334
-\gre@skip@bar@allocation=\skip335
-\gre@dimen@bar@shift=\dimen287
-\gre@skip@text@requirement=\skip336
-\gre@skip@text@allocation=\skip337
-\gre@dimen@text@shift=\dimen288
-\gre@dimen@adjustedpreviousenddifference=\dimen289
-\gre@skip@adjustednextbegindifference=\dimen290
-\gre@skip@punctummorashift=\skip338
-\gre@skip@alterationshift=\skip339
-\gre@dimen@begindifference=\dimen291
-\gre@dimen@lastglyphwidth=\dimen292
-\gre@dimen@notesaligncenter=\dimen293
-\gre@dimen@additionalleftspace=\dimen294
-\gre@dimen@initialwidth=\dimen295
-\gre@dimen@currentabovelinestextheight=\dimen296
-\gre@dimen@temp@one=\dimen297
-\gre@dimen@temp@two=\dimen298
-\gre@dimen@temp@three=\dimen299
-\gre@dimen@temp@four=\dimen300
-\gre@dimen@temp@five=\dimen301
-\gre@skip@temp@one=\skip340
-\gre@skip@temp@two=\skip341
-\gre@skip@temp@three=\skip342
-\gre@skip@temp@four=\skip343
-\gre@count@temp@one=\count335
-\gre@count@temp@two=\count336
-\gre@count@temp@three=\count337
-\gre@space@count@newlinepenalty=\count338
-\gre@space@count@nobreakpenalty=\count339
-\gre@space@count@endofwordpenalty=\count340
-\gre@space@count@endofsyllablepenalty=\count341
-\gre@space@count@endafterbarpenalty=\count342
-\gre@space@count@endafterbaraltpenalty=\count343
-\gre@space@count@finalpenalty=\count344
-\gre@space@count@endofelementpenalty=\count345
-\gre@space@count@hyphenpenalty=\count346
-\gre@space@count@brokenpenalty=\count347
-\gre@space@count@looseness=\count348
-\gre@space@count@tolerance=\count349
-\gre@space@count@pretolerance=\count350
-\gre@space@count@widowpenalty=\count351
-\gre@space@count@clubpenalty=\count352
-\greconffactor=\count353
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-spaces.tex
+\gre@saved@prescore@hyphenpenalty=\count332
+\gre@saved@prescore@exhyphenpenalty=\count333
+\gre@saved@prescore@exhyphenchar=\count334
+\gre@saved@prescore@doublehyphendemerits=\count335
+\gre@saved@prescore@finalhyphendemerits=\count336
+\gre@saved@prescore@brokenpenalty=\count337
+\gre@saved@prescore@looseness=\count338
+\gre@saved@prescore@tolerance=\count339
+\gre@saved@prescore@pretolerance=\count340
+\gre@saved@prescore@emergencystretch=\skip319
+\gre@saved@prescore@widowpenalty=\count341
+\gre@saved@prescore@clubpenalty=\count342
+\gre@saved@prescore@parskip=\skip320
+\gre@saved@prescore@lineskip=\skip321
+\gre@saved@prescore@baselineskip=\skip322
+\gre@saved@prescore@lineskiplimit=\skip323
+\gre@dimen@textlower=\dimen195
+\gre@dimen@stafflinewidth=\dimen196
+\gre@dimen@linewidth=\dimen197
+\gre@dimen@stafflineheight=\dimen198
+\gre@dimen@interstafflinespace=\dimen199
+\gre@dimen@stafflinediff=\dimen256
+\gre@dimen@constantglyphraise=\dimen257
+\gre@dimen@staffheight=\dimen258
+\gre@skip@syllablefinalskip=\skip324
+\gre@skip@minTextDistance=\skip325
+\gre@skip@minNotesDistance=\skip326
+\gre@dimen@curTextDistance=\dimen259
+\gre@dimen@curNotesDistance=\dimen260
+\gre@skip@minShiftText=\skip327
+\gre@skip@minShiftNotes=\skip328
+\gre@dimen@bolshift=\dimen261
+\gre@dimen@bolextra=\dimen262
+\gre@dimen@clefwidth@current=\dimen263
+\gre@dimen@clefwidth@largest=\dimen264
+\gre@dimen@clefwidth@bol=\dimen265
+\gre@dimen@eolshift=\dimen266
+\gre@dimen@glyphraisevalue=\dimen267
+\gre@dimen@additionalbottomspace=\dimen268
+\gre@dimen@additionaltopspace=\dimen269
+\gre@dimen@additionaltopspacealt=\dimen270
+\gre@dimen@additionaltopspacenabc=\dimen271
+\gre@space@count@additionaltopspacethreshold=\count343
+\gre@space@count@additionaltopspacealtthreshold=\count344
+\gre@space@count@additionaltopspacenabcthreshold=\count345
+\gre@space@count@noteadditionalspacelinestextthreshold=\count346
+\gre@saved@prediscretionary@dimen@additionalbottomspace=\dimen272
+\gre@saved@prediscretionary@dimen@additionaltopspace=\dimen273
+\gre@saved@prediscretionary@dimen@additionaltopspacealt=\dimen274
+\gre@saved@prediscretionary@dimen@additionaltopspacenabc=\dimen275
+\gre@saved@prediscretionary@dimen@currenttranslationheight=\dimen276
+\gre@saved@prediscretionary@dimen@textlower=\dimen277
+\gre@saved@prediscretionary@dimen@currentabovelinestextheight=\dimen278
+\gre@saved@prediscretionary@dimen@constantglyphraise=\dimen279
+\gre@dimen@textaligncenter=\dimen280
+\gre@dimen@enddifference=\dimen281
+\gre@dimen@previousenddifference=\dimen282
+\gre@dimen@currenttranslationheight=\dimen283
+\gre@skip@nextbegindifference=\skip329
+\gre@dimen@annotationtrueraise=\dimen284
+\gre@dimen@commentarytrueraise=\dimen285
+\gre@skip@bar@requirement=\skip330
+\gre@skip@bar@allocation=\skip331
+\gre@dimen@bar@shift=\dimen286
+\gre@skip@text@requirement=\skip332
+\gre@skip@text@allocation=\skip333
+\gre@dimen@text@shift=\dimen287
+\gre@dimen@adjustedpreviousenddifference=\dimen288
+\gre@skip@adjustednextbegindifference=\dimen289
+\gre@skip@punctummorashift=\skip334
+\gre@skip@alterationshift=\skip335
+\gre@dimen@begindifference=\dimen290
+\gre@dimen@lastglyphwidth=\dimen291
+\gre@dimen@notesaligncenter=\dimen292
+\gre@dimen@additionalleftspace=\dimen293
+\gre@dimen@initialwidth=\dimen294
+\gre@dimen@currentabovelinestextheight=\dimen295
+\gre@dimen@temp@one=\dimen296
+\gre@dimen@temp@two=\dimen297
+\gre@dimen@temp@three=\dimen298
+\gre@dimen@temp@four=\dimen299
+\gre@dimen@temp@five=\dimen300
+\gre@skip@temp@one=\skip336
+\gre@skip@temp@two=\skip337
+\gre@skip@temp@three=\skip338
+\gre@skip@temp@four=\skip339
+\gre@count@temp@one=\count347
+\gre@count@temp@two=\count348
+\gre@count@temp@three=\count349
+\gre@space@count@newlinepenalty=\count350
+\gre@space@count@nobreakpenalty=\count351
+\gre@space@count@endofwordpenalty=\count352
+\gre@space@count@endofsyllablepenalty=\count353
+\gre@space@count@endafterbarpenalty=\count354
+\gre@space@count@endafterbaraltpenalty=\count355
+\gre@space@count@finalpenalty=\count356
+\gre@space@count@endofelementpenalty=\count357
+\gre@space@count@hyphenpenalty=\count358
+\gre@space@count@brokenpenalty=\count359
+\gre@space@count@looseness=\count360
+\gre@space@count@tolerance=\count361
+\gre@space@count@pretolerance=\count362
+\gre@space@count@widowpenalty=\count363
+\gre@space@count@clubpenalty=\count364
+\greconffactor=\count365
 )
-\gre@box@temp@width=\box64
-\gre@box@initial=\box65
-\gre@biginitial=\count354
-\gre@knownline=\count355
-\gre@box@annotation=\box66
-\gre@box@add=\box67
-\gre@box@old=\box68
-\gre@count@annotationvalign=\count356
-\gre@box@commentary=\box69
-\gre@box@lines=\box70
+\gre@box@temp@width=\box69
+\gre@box@initial=\box70
+\gre@biginitial=\count366
+\gre@knownline=\count367
+\gre@box@annotation=\box71
+\gre@box@add=\box72
+\gre@box@old=\box73
+\gre@count@annotationvalign=\count368
+\gre@box@commentary=\box74
+\gre@box@lines=\box75
 Module gregoriotex Info: Registering variant font greciliae as gre@font@variant@
 A. on input line 987
 Module gregoriotex Info: Registering variant font greciliae-hollow as gre@font@v
 ariant@B. on input line 987
 Module gregoriotex Info: Registering variant font greciliae-hole as gre@font@var
 iant@C. on input line 987
-luaotfload | cache : Lookup cache loaded from /home/dan/.texlive2019/texmf-var/l
-uatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from /home/scott/.texlive/texmf-var/lua
+tex-cache/generic/names/luaotfload-lookup-cache.luc.
 Module gregoriotex Info: Mapping font greciliae on input line 992
 Module gregoriotex Info: Mapping font greciliae-hollow on input line 992
 Module gregoriotex Info: Mapping font greciliae-hole on input line 992
 
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-chars.tex
-\gre@box@hep=\box71
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-chars.tex
+\gre@box@hep=\box76
 )
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-signs.tex
-\gre@box@temp@clef=\box72
-\gre@box@temp@cleftwo=\box73
-\greslurheight=\dimen302
-\gre@box@temp@sign=\box74
-\gre@count@shiftaftermora=\count357
-\gre@dimen@morawidth=\dimen303
-\gre@skip@bar@lastskip=\skip344
-\gre@count@lastglyphiscavum=\count358
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-signs.tex
+\gre@box@temp@clef=\box77
+\gre@box@temp@cleftwo=\box78
+\greslurheight=\dimen301
+\gre@box@temp@sign=\box79
+\gre@count@shiftaftermora=\count369
+\gre@dimen@morawidth=\dimen302
+\gre@skip@bar@lastskip=\skip340
+\gre@count@lastglyphiscavum=\count370
 )
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-syllable.tex
-\gre@generate@pointandclick=\count359
-\gre@box@syllablenotes=\box75
-\gre@box@syllabletext=\box76
-\gre@clivisalignment=\count360
-\gre@count@unbreakabletotalnotes=\count361
-\gre@count@unbreakableinitialnotes=\count362
-\gre@count@unbreakablefinalnotes=\count363
-\gre@count@syllablenotes=\count364
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-syllable.tex
+\gre@generate@pointandclick=\count371
+\gre@box@syllablenotes=\box80
+\gre@box@syllabletext=\box81
+\gre@clivisalignment=\count372
+\gre@count@unbreakabletotalnotes=\count373
+\gre@count@unbreakableinitialnotes=\count374
+\gre@count@unbreakablefinalnotes=\count375
+\gre@count@syllablenotes=\count376
 )
-\gre@variableheightexpansion=\count365
-\gre@lastoflinecount=\count366
-\gre@saved@prenlba@nobreakpenalty=\count367
-\gre@saved@prenlba@endofwordpenalty=\count368
-\gre@saved@prenlba@endofsyllablepenalty=\count369
-\gre@saved@prenlba@endafterbarpenalty=\count370
-\gre@saved@prenlba@endafterbaraltpenalty=\count371
-\gre@saved@prenlba@endofelementpenalty=\count372
-\gre@saved@prenlba@hyphenpenalty=\count373
-\gre@lasteuouaeindex=\count374
+\gre@variableheightexpansion=\count377
+\gre@lastoflinecount=\count378
+\gre@saved@prenlba@nobreakpenalty=\count379
+\gre@saved@prenlba@endofwordpenalty=\count380
+\gre@saved@prenlba@endofsyllablepenalty=\count381
+\gre@saved@prenlba@endafterbarpenalty=\count382
+\gre@saved@prenlba@endafterbaraltpenalty=\count383
+\gre@saved@prenlba@endofelementpenalty=\count384
+\gre@saved@prenlba@hyphenpenalty=\count385
+\gre@lasteuouaeindex=\count386
 
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-symbols.tex
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-symbols.tex
 Module gregoriotex Info: Registering variant font greextra as gre@font@variant@D
 . on input line 53
 )
-\gre@dimen@stafflinethicknessbase=\dimen304
-\gre@dimen@glyphraisebase=\dimen305
-\gre@dimen@interstafflinedistancebase=\dimen306
-\gre@dimen@inclinatumonlinemoravshiftbase=\dimen307
-\gre@dimen@inclinatumonlinemorahshiftbase=\dimen308
-\gre@dimen@inclinatumofflinemorahshiftbase=\dimen309
+\gre@dimen@stafflinethicknessbase=\dimen303
+\gre@dimen@glyphraisebase=\dimen304
+\gre@dimen@interstafflinedistancebase=\dimen305
+\gre@dimen@inclinatumonlinemoravshiftbase=\dimen306
+\gre@dimen@inclinatumonlinemorahshiftbase=\dimen307
+\gre@dimen@inclinatumofflinemorahshiftbase=\dimen308
 
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-gsp-default.tex)
-(/usr/local/share/texmf/tex/luatex/gregoriotex/gregoriotex-nabc.tex)))
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-gsp-default.tex)
+(/usr/share/texmf/tex/luatex/gregoriotex/gregoriotex-nabc.tex)))
 
 ******************************************************
-Stock height and width: 614.295pt by 397.48499pt
+Stock height and width: 794.96999pt by 614.295pt
 Top and edge trims: 0pt and 0pt
-Page height and width: 614.295pt by 397.48499pt
-Text height and width: 514pt by 307pt
-Spine and edge margins: 37.64343pt and 52.69406pt
-Upper and lower margins: 49.28589pt and 51.00911pt
+Page height and width: 794.96999pt by 614.295pt
+Text height and width: 658pt by 469pt
+Spine and edge margins: 60.2417pt and 84.29831pt
+Upper and lower margins: 65.7196pt and 71.25038pt
 Headheight and headsep: 12pt and 9.60004pt
 Footskip: 24pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 7pt and 38.69406pt
-Sidecapsep and sidecapwidth: 7pt and 51pt
-Sidebarhsep and sidebarwidth: 7pt and 51pt
+Marginparsep and marginparwidth: 7pt and 70.29831pt
+Sidecapsep and sidecapwidth: 7pt and 128pt
+Sidebarhsep and sidebarwidth: 7pt and 128pt
 Sidebarvsep and sidebartopsep: 12pt and 0pt
-Sidebarheight: 368.39996pt
-Sidefoothsep and sidefootwidth: 7pt and 51pt
-Sidefootvsep and sidefootheight: 12pt and 368.39996pt
+Sidebarheight: 548.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 128pt
+Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count375
-\mult@box=\box77
-\multicol@leftmargin=\dimen310
-\c@unbalance=\count376
-\c@collectmore=\count377
-\doublecol@number=\count378
-\multicoltolerance=\count379
-\multicolpretolerance=\count380
-\full@width=\dimen311
-\page@free=\dimen312
-\premulticols=\dimen313
-\postmulticols=\dimen314
-\multicolsep=\skip345
-\multicolbaselineskip=\skip346
-\partial@page=\box78
-\last@line=\box79
-\maxbalancingoverflow=\dimen315
-\mult@rightbox=\box80
-\mult@grightbox=\box81
-\mult@gfirstbox=\box82
-\mult@firstbox=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
+) (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count387
+\mult@box=\box82
+\multicol@leftmargin=\dimen309
+\c@unbalance=\count388
+\c@collectmore=\count389
+\doublecol@number=\count390
+\multicoltolerance=\count391
+\multicolpretolerance=\count392
+\full@width=\dimen310
+\page@free=\dimen311
+\premulticols=\dimen312
+\postmulticols=\dimen313
+\multicolsep=\skip341
+\multicolbaselineskip=\skip342
+\partial@page=\box83
+\last@line=\box84
+\maxbalancingoverflow=\dimen314
+\mult@rightbox=\box85
+\mult@grightbox=\box86
+\mult@firstbox=\box87
+\mult@gfirstbox=\box88
 \@tempa=\box89
 \@tempa=\box90
 \@tempa=\box91
@@ -1107,24 +1240,28 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box118
 \@tempa=\box119
 \@tempa=\box120
-\c@minrows=\count381
-\c@columnbadness=\count382
-\c@finalcolumnbadness=\count383
-\last@try=\dimen316
-\multicolovershoot=\dimen317
-\multicolundershoot=\dimen318
-\mult@nat@firstbox=\box121
-\colbreak@box=\box122
-\mc@col@check@num=\count384
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\c@minrows=\count393
+\c@columnbadness=\count394
+\c@finalcolumnbadness=\count395
+\last@try=\dimen315
+\multicolovershoot=\dimen316
+\multicolundershoot=\dimen317
+\mult@nat@firstbox=\box125
+\colbreak@box=\box126
+\mc@col@check@num=\count396
 )
 (./01-06-2023_Ephiphany_Second_Vespers.aux
-
-Package babel Warning: Unknown language `latin'. Very likely you
-(babel)                requested it in a previous run. Expect some
-(babel)                wrong results in this run, which should vanish
-(babel)                in the next one. Reported on input line 8.
-
+(/usr/share/texmf-dist/tex/generic/babel/locale/la/babel-latin.tex
+Package babel Info: Importing basic data for latin
+(babel)             from babel-la.ini. Reported on input line 9.
 )
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-la.tex
+UTF-8 Latin hyphenation patterns
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-la.tex)))
 \openout1 = 01-06-2023_Ephiphany_Second_Vespers.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -1136,9 +1273,10 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 4.
@@ -1149,44 +1287,43 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 4.
-LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 4.
+LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 4
+.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 4.
-LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 4.
+LaTeX Font Info:    Trying to load font information for MDB+cmr on input line 4
+.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbcmr.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbcmr.fd
 File: mdbcmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 4.
-\AtBeginShipoutBox=\box123
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count385
-\scratchdimen=\dimen319
-\scratchbox=\box124
-\nofMPsegments=\count386
-\nofMParguments=\count387
+\scratchcounter=\count397
+\scratchdimen=\dimen318
+\scratchbox=\box127
+\nofMPsegments=\count398
+\nofMParguments=\count399
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count388
-\MPscratchDim=\dimen320
-\MPnumerator=\count389
-\makeMPintoPDFobject=\count390
+\MPscratchCnt=\count400
+\MPscratchDim=\dimen319
+\MPnumerator=\count401
+\makeMPintoPDFobject=\count402
 \everyMPtoPDFconversion=\toks35
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
-5.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 16.58891pt on input line 7.
@@ -1199,7 +1336,7 @@ from the input resolution 299dpi x 299dpi
 File: epiphany.jpg Graphic file (type jpg)
 <use epiphany.jpg>
 Package luatex.def Info: epiphany.jpg  used on input line 12.
-(luatex.def)             Requested size: 307.0pt x 205.03499pt.
+(luatex.def)             Requested size: 469.0pt x 313.22984pt.
 [1
 
 
@@ -1220,7 +1357,10 @@ Module gregoriotex Info: Looking in  on input line 28
 Module gregoriotex Info: Found ../common/deus-in-adjutorium-solemn-6_0_0.gtex di
 rectly on input line 28
  (../common/deus-in-adjutorium-solemn-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 7.68005pt on input line 15.
@@ -1228,10 +1368,10 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
 (Font)              scaled to size 7.68005pt on input line 15.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 38.40027pt on input line 15.
-LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 
-32.
+LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line
+ 32.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
 File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
@@ -1240,10 +1380,10 @@ LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 32.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
 (Font)              scaled to size 4.80003pt on input line 32.
-LaTeX Font Info:    Trying to load font information for OML+mdbch on input line 
-32.
+LaTeX Font Info:    Trying to load font information for OML+mdbch on input line
+ 32.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
@@ -1252,10 +1392,10 @@ LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
 (Font)              scaled to size 6.72005pt on input line 32.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
 (Font)              scaled to size 4.80003pt on input line 32.
-LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line 
-32.
+LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line
+ 32.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
@@ -1264,10 +1404,10 @@ LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 32.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
 (Font)              scaled to size 4.80003pt on input line 32.
-LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line 
-32.
+LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
+ 32.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
@@ -1282,10 +1422,10 @@ LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 32.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
 (Font)              scaled to size 4.80003pt on input line 32.
-LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line 
-32.
+LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
+ 32.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
@@ -1294,10 +1434,10 @@ LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
 (Font)              scaled to size 6.72005pt on input line 32.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
 (Font)              scaled to size 4.80003pt on input line 32.
-LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line 
-32.
+LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line
+ 32.
 
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
+(/usr/share/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
@@ -1308,19 +1448,206 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 (Font)              scaled to size 4.80003pt on input line 32.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-[2]
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 39.
+(Font)              scaled to size 11.52008pt on input line 37.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 39.
-Package mdframed Info: mdframed works in twoside mode on input line 45.
-Module gregoriotex Info: Looking in  on input line 52
-Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 52
-Module gregoriotex Info: Looking in  on input line 52
+(Font)              scaled to size 11.52008pt on input line 37.
+Package mdframed Info: mdframed works in twoside mode on input line 42.
+Module gregoriotex Info: Looking in  on input line 49
+Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 49
+Module gregoriotex Info: Looking in  on input line 49
 Module gregoriotex Info: Found ps109-antiphon-6_0_0.gtex directly on input line 
-52
- (./ps109-antiphon-6_0_0.gtex
+49
+
+(./ps109-antiphon-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 52
+Module gregoriotex Info: Found ps109-intonation.gabc directly on input line 52
+Module gregoriotex Info: Looking in  on input line 52
+Module gregoriotex Info: Found ps109-intonation-6_0_0.gtex directly on input lin
+e 52
+ (./ps109-intonation-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+(../psalms/ps109-2.tex)
+LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
+(Font)              scaled to size 8.64006pt on input line 62.
+ (../psalms/english/ps109.tex
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 8.64006pt on input line 14.
+ [2])
+Package mdframed Info: mdframed works in twoside mode on input line 67.
+Module gregoriotex Info: Looking in  on input line 79
+Module gregoriotex Info: Found ps110-antiphon.gabc directly on input line 79
+Module gregoriotex Info: Looking in  on input line 79
+Module gregoriotex Info: Found ps110-antiphon-6_0_0.gtex directly on input line 
+79
+
+(./ps110-antiphon-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 82
+Module gregoriotex Info: Found ps110-intonation.gabc directly on input line 82
+Module gregoriotex Info: Looking in  on input line 82
+Module gregoriotex Info: Found ps110-intonation-6_0_0.gtex directly on input lin
+e 82
+ (./ps110-intonation-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+(../psalms/ps110-1.tex
+Underfull \hbox (badness 2913) in paragraph at lines 1--3
+[]\T1/mdbch/m/n/10 2. Ma-gna \T1/mdbch/b/n/10 ó\T1/mdbch/m/n/10 pera \T1/mdbch
+/b/n/10 Dó\T1/mdbch/m/n/10 mini: * ex-qui-sí-ta in om-nes
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 17--20
+[]\T1/mdbch/m/n/10 7. Fi-dé-lia óm-nia man-dá-ta ejus: \gre@font@variant@D 
+ \T1/mdbch/m/n/10 con-fir-má-ta in
+ []
+
+) (../psalms/english/ps110.tex [3])
+Package mdframed Info: mdframed works in twoside mode on input line 99.
+Module gregoriotex Info: Looking in  on input line 111
+Module gregoriotex Info: Found ps111-antiphon.gabc directly on input line 111
+Module gregoriotex Info: Looking in  on input line 111
+Module gregoriotex Info: Found ps111-antiphon-6_0_0.gtex directly on input line 
+111
+ (./ps111-antiphon-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 116
+Module gregoriotex Info: Found ps111-intonation.gabc directly on input line 116
+Module gregoriotex Info: Looking in  on input line 116
+Module gregoriotex Info: Found ps111-intonation-6_0_0.gtex directly on input lin
+e 116
+
+(./ps111-intonation-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps111
+-1.tex
+Underfull \hbox (badness 1194) in paragraph at lines 11--12
+\T1/mdbch/b/n/10 est \T1/mdbch/m/n/10 cor \T1/mdbch/b/n/10 e\T1/mdbch/m/n/10 jus
+: * non com-mo-vé-bi-tur do-nec de-spí-ciat
+ []
+
+) (../psalms/english/ps111.tex) [4]
+Package mdframed Info: mdframed works in twoside mode on input line 131.
+Package mdframed Info: Not enough space on this page on input line 134.
+Module gregoriotex Info: Looking in  on input line 142
+Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 142
+Module gregoriotex Info: Looking in  on input line 142
+Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
+142
+ (./ps112-antiphon-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 145
+Module gregoriotex Info: Found ps112-intonation.gabc directly on input line 145
+Module gregoriotex Info: Looking in  on input line 145
+Module gregoriotex Info: Found ps112-intonation-6_0_0.gtex directly on input lin
+e 145
+
+(./ps112-intonation-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps112
+-4-E-A-d.tex
+Underfull \hbox (badness 1365) in paragraph at lines 7--8
+[]\T1/mdbch/m/n/10 5. Quis si-cut Dó-mi-nus, Deus no-ster, qui in \T1/mdbch/m/
+it/10 altis
+ []
+
+) (../psalms/english/ps112.tex)
+Package mdframed Info: mdframed works in twoside mode on input line 160.
+ [5]
+Module gregoriotex Info: Looking in  on input line 174
+Module gregoriotex Info: Found ps113-antiphon.gabc directly on input line 174
+Module gregoriotex Info: Looking in  on input line 174
+Module gregoriotex Info: Found ps113-antiphon-6_0_0.gtex directly on input line 
+174
+ (./ps113-antiphon-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 177
+Module gregoriotex Info: Found ps113-intonation.gabc directly on input line 177
+Module gregoriotex Info: Looking in  on input line 177
+Module gregoriotex Info: Found ps113-intonation-6_0_0.gtex directly on input lin
+e 177
+
+(./ps113-intonation-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps113
+-7.tex
+Underfull \hbox (badness 1107) in paragraph at lines 4--6
+[]\T1/mdbch/m/n/10 3. Ma-re \T1/mdbch/b/n/10 vi\T1/mdbch/m/n/10 dit, et \T1/mdb
+ch/b/n/10 fu\T1/mdbch/m/n/10 git: * Jor-dá-nis con-vér-sus \T1/mdbch/b/n/10 es
+t
+ []
+
+) (../psalms/english/ps113.tex [6])
+Package mdframed Info: mdframed works in twoside mode on input line 194.
+Module gregoriotex Info: Looking in  on input line 220
+Module gregoriotex Info: Found ../hymns/hostis-herodes.gabc directly on input li
+ne 220
+Module gregoriotex Info: Looking in  on input line 220
+Module gregoriotex Info: Found ../hymns/hostis-herodes-6_0_0.gtex directly on in
+put line 220
+ (../hymns/hostis-herodes-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
 (Font)              scaled to size 9.60007pt on input line 12.
@@ -1328,560 +1655,137 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 9.60007pt on input line 12.
 LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
 (Font)              scaled to size 9.60007pt on input line 12.
+
+[7
+Missing character: There is no ǽ (U+01FD) in font mdbchr8t!
+]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 55
-Module gregoriotex Info: Found ps109-intonation.gabc directly on input line 55
-Module gregoriotex Info: Looking in  on input line 55
-Module gregoriotex Info: Found ps109-intonation-6_0_0.gtex directly on input lin
-e 55
- (./ps109-intonation-6_0_0.gtex
+Module gregoriotex Info: Processing gabc snippet... on input line 256
+Module gregoriotex Info: will use gregorio-6_0_0 on input line 256
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package babel Info: \l@latin = using hyphenrules for nil
-(babel)             (\language6) on input line 65.
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/la/babel-latin.tex
-Package babel Info: Importing basic data for latin
-(babel)             from babel-la.ini. Reported on input line 9.
-)
-(../psalms/ps109-2.tex
-Underfull \hbox (badness 2608) in paragraph at lines 4--6
-[]\T1/mdbch/m/n/10 3. Virgam virtútis tuæ emíttet
- []
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 4--6
-\T1/mdbch/m/n/10 Dó\T1/mdbch/m/it/10 minus ex \T1/mdbch/b/n/10 Si\T1/mdbch/m/n
-/10 on: * domináre in
- []
-
-
-Underfull \hbox (badness 4492) in paragraph at lines 13--15
-[]\T1/mdbch/m/n/10 6. Dóminus \T1/mdbch/m/it/10 a dextris \T1/mdbch/b/n/10 tu\
-T1/mdbch/m/n/10 is, *
- []
-
-
-Underfull \hbox (badness 2837) in paragraph at lines 16--18
-\T1/mdbch/m/it/10 ru\T1/mdbch/b/n/10 í\T1/mdbch/m/n/10 nas: * conquassábit c
-ápita in
- []
-
-)
-LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 8.64006pt on input line 65.
- (../psalms/english/ps109.tex
-LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 16.
- [3
-Missing character: There is no œ (U+0153) in font mdbchr8t!
-])
-Module gregoriotex Info: Looking in  on input line 70
-Module gregoriotex Info: Found ps109-antiphon.gabc directly on input line 70
-Module gregoriotex Info: Looking in  on input line 70
-Module gregoriotex Info: Found ps109-antiphon-6_0_0.gtex directly on input line 
-70
- (./ps109-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4]
-Package mdframed Info: mdframed works in twoside mode on input line 82.
-Module gregoriotex Info: Looking in  on input line 89
-Module gregoriotex Info: Found ps110-antiphon.gabc directly on input line 89
-Module gregoriotex Info: Looking in  on input line 89
-Module gregoriotex Info: Found ps110-antiphon-6_0_0.gtex directly on input line 
-89
-
-(./ps110-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 92
-Module gregoriotex Info: Found ps110-intonation.gabc directly on input line 92
-Module gregoriotex Info: Looking in  on input line 92
-Module gregoriotex Info: Found ps110-intonation-6_0_0.gtex directly on input lin
-e 92
- (./ps110-intonation-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(../psalms/ps110-1g2.tex
-Underfull \hbox (badness 1571) in paragraph at lines 4--6
-\T1/mdbch/b/n/10 e\T1/mdbch/m/n/10 jus: * et justítia ejus manet in
- []
-
-
-Underfull \hbox (badness 3439) in paragraph at lines 7--9
-[]\T1/mdbch/m/n/10 4. Memóriam fecit mirabílium
- []
-
-
-Overfull \hbox (2.32004pt too wide) in paragraph at lines 10--12
-[]\T1/mdbch/m/n/10 5. Memor erit in s[]æculum tes\T1/mdbch/m/it/10 taménti
- []
-
-
-Underfull \hbox (badness 3333) in paragraph at lines 10--12
-\T1/mdbch/b/n/10 su\T1/mdbch/m/n/10 i: * virtútem óperum suórum
- []
-
-
-Overfull \hbox (3.11685pt too wide) in paragraph at lines 13--15
-[]\T1/mdbch/m/n/10 6. Ut det illis here\T1/mdbch/m/it/10 ditátem \T1/mdbch/b/n
-/10 génti\T1/mdbch/m/n/10 um: *
- []
-
-
-Underfull \hbox (badness 2689) in paragraph at lines 19--21
-[]\T1/mdbch/m/n/10 8. Redemptiónem misit \T1/mdbch/m/it/10 pópulo
- []
-
-
-Underfull \hbox (badness 1721) in paragraph at lines 22--24
-[]\T1/mdbch/m/n/10 9. Sanctum, et terríbi\T1/mdbch/m/it/10 le nomen
- []
-
-
-Underfull \hbox (badness 3428) in paragraph at lines 25--27
-[]\T1/mdbch/m/n/10 10. Intelléctus bonus ómnibus
- []
-
-)
-Underfull \hbox (badness 2103) in paragraph at lines 31--102
-[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
- []
-
-(../psalms/english/ps110.tex [5])
-Module gregoriotex Info: Looking in  on input line 109
-Module gregoriotex Info: Found ps110-antiphon.gabc directly on input line 109
-Module gregoriotex Info: Looking in  on input line 109
-Module gregoriotex Info: Found ps110-antiphon-6_0_0.gtex directly on input line 
-109
- (./ps110-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [6]
-Package mdframed Info: mdframed works in twoside mode on input line 119.
-Module gregoriotex Info: Looking in  on input line 126
-Module gregoriotex Info: Found ps111-antiphon.gabc directly on input line 126
-Module gregoriotex Info: Looking in  on input line 126
-Module gregoriotex Info: Found ps111-antiphon-6_0_0.gtex directly on input line 
-126
-
-(./ps111-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 131
-Module gregoriotex Info: Found ps111-intonation.gabc directly on input line 131
-Module gregoriotex Info: Looking in  on input line 131
-Module gregoriotex Info: Found ps111-intonation-6_0_0.gtex directly on input lin
-e 131
- (./ps111-intonation-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-(../psalms/ps111-1g3.tex
-Underfull \hbox (badness 1389) in paragraph at lines 16--18
-[]\T1/mdbch/m/n/10 7. Parátum cor ejus speráre in
- []
-
-
-Overfull \hbox (4.54091pt too wide) in paragraph at lines 16--18
-\T1/mdbch/m/n/10 Dómino, \gre@font@variant@D  \T1/mdbch/m/n/10 confirmá\T1
-/mdbch/m/it/10 tum est cor \T1/mdbch/b/n/10 e\T1/mdbch/m/n/10 jus: *
- []
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 19--21
-[]\T1/mdbch/m/n/10 8. Dispérsit, dedit paupéribus: 
- []
-
-
-Underfull \hbox (badness 1281) in paragraph at lines 19--21
-\gre@font@variant@D  \T1/mdbch/m/n/10 justítia ejus manet in \T1/mdbch/m/it
-/10 s[]æculum
- []
-
-)
-Underfull \hbox (badness 2103) in paragraph at lines 28--141
-[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
- []
-
-(../psalms/english/ps111.tex
-Underfull \hbox (badness 1354) in paragraph at lines 7--8
-[]\T1/mdbch/m/it/9 4. To the righteous a light is risen
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 7--8
-\T1/mdbch/m/it/9 up in darkness: he is merciful, and
- []
-
-
-Underfull \hbox (badness 2384) in paragraph at lines 12--13
-[]\T1/mdbch/m/it/9 6. The just shall be in everlasting
- []
-
-[7])
-Module gregoriotex Info: Looking in  on input line 146
-Module gregoriotex Info: Found ps111-antiphon.gabc directly on input line 146
-Module gregoriotex Info: Looking in  on input line 146
-Module gregoriotex Info: Found ps111-antiphon-6_0_0.gtex directly on input line 
-146
- (./ps111-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [8]
-Package mdframed Info: mdframed works in twoside mode on input line 158.
-Module gregoriotex Info: Looking in  on input line 165
-Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 165
-Module gregoriotex Info: Looking in  on input line 165
-Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
-165
- (./ps112-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 168
-Module gregoriotex Info: Found ps112-intonation.gabc directly on input line 168
-Module gregoriotex Info: Looking in  on input line 168
-Module gregoriotex Info: Found ps112-intonation-6_0_0.gtex directly on input lin
-e 168
-
-(./ps112-intonation-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps112
--4-E-A-d.tex
-Underfull \hbox (badness 1226) in paragraph at lines 5--6
-[]\T1/mdbch/m/n/10 4. Excélsus super omnes \T1/mdbch/m/it/10 gentes
- []
-
-
-Overfull \hbox (3.33765pt too wide) in paragraph at lines 11--12
-[]\T1/mdbch/m/n/10 7. Ut cóllocet eum \T1/mdbch/m/it/10 cum prin\T1/mdbch/b/n/
-10 cí\T1/mdbch/m/n/10 pibus, *
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 15--16
-[]\T1/mdbch/m/it/10 (bow) \T1/mdbch/m/n/10 Glória Pa\T1/mdbch/m/it/10 tri\T1/m
-dbch/m/n/10 , \T1/mdbch/m/it/10 et \T1/mdbch/b/n/10 Fí\T1/mdbch/m/n/10 lio, * 
-et
- []
-
-)
-Underfull \hbox (badness 2103) in paragraph at lines 17--178
-[]\T1/mdbch/m/it/10 (rise) \T1/mdbch/m/n/10 Sicut erat in princípio, et
- []
-
-
-Underfull \hbox (badness 1460) in paragraph at lines 17--178
-\T1/mdbch/m/it/10 nunc\T1/mdbch/m/n/10 , \T1/mdbch/m/it/10 et \T1/mdbch/b/n/10 
-sem\T1/mdbch/m/n/10 per, * et in s[]æcula
- []
-
-(../psalms/english/ps112.tex
-Underfull \hbox (badness 1460) in paragraph at lines 9--10
-[]\T1/mdbch/m/it/9 5.Who is as the Lord our God, who
- []
-
-
-Underfull \hbox (badness 2799) in paragraph at lines 11--12
-[]\T1/mdbch/m/it/9 6. Raising up the needy from the
- []
-
-[9])
-Module gregoriotex Info: Looking in  on input line 183
-Module gregoriotex Info: Found ps112-antiphon.gabc directly on input line 183
-Module gregoriotex Info: Looking in  on input line 183
-Module gregoriotex Info: Found ps112-antiphon-6_0_0.gtex directly on input line 
-183
- (./ps112-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [10]
-Package mdframed Info: mdframed works in twoside mode on input line 195.
-Module gregoriotex Info: Looking in  on input line 202
-Module gregoriotex Info: Found ps113-antiphon.gabc directly on input line 202
-Module gregoriotex Info: Looking in  on input line 202
-Module gregoriotex Info: Found ps113-antiphon-6_0_0.gtex directly on input line 
-202
- (./ps113-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 205
-Module gregoriotex Info: Found ps113-intonation.gabc directly on input line 205
-Module gregoriotex Info: Looking in  on input line 205
-Module gregoriotex Info: Found ps113-intonation-6_0_0.gtex directly on input lin
-e 205
-
-(./ps113-intonation-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/ps113
--7c2.tex
-Underfull \hbox (badness 1077) in paragraph at lines 1--3
-[]\T1/mdbch/m/n/10 2. Facta est Jud[]æa sanctifi\T1/mdbch/b/n/10 cá\T1/mdbch/
-m/n/10 tio
- []
-
-
-Overfull \hbox (2.81924pt too wide) in paragraph at lines 7--9
-[]\T1/mdbch/m/n/10 4. Montes exsultavérunt \T1/mdbch/b/n/10 ut \T1/mdbch/m/n/1
-0 a\T1/mdbch/b/n/10 ríe\T1/mdbch/m/n/10 tes, *
- []
-
-
-Underfull \hbox (badness 2875) in paragraph at lines 10--12
-[]\T1/mdbch/m/n/10 5. Quid est tibi, mare, \T1/mdbch/b/n/10 quod
- []
-
-
-Underfull \hbox (badness 3803) in paragraph at lines 10--12
-\T1/mdbch/m/n/10 fu\T1/mdbch/b/n/10 gís\T1/mdbch/m/n/10 ti: * et tu, Jordánis
-, quia
- []
-
-
-Overfull \hbox (3.25502pt too wide) in paragraph at lines 13--15
-[]\T1/mdbch/m/n/10 6. Montes, exsultástis \T1/mdbch/b/n/10 sic\T1/mdbch/m/n/10
- ut a\T1/mdbch/b/n/10 ríe\T1/mdbch/m/n/10 tes, *
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 19--21
-\T1/mdbch/m/n/10 a\T1/mdbch/b/n/10 quá\T1/mdbch/m/n/10 rum, * et rupem in \T1/
-mdbch/b/n/10 fon\T1/mdbch/m/n/10 tes
- []
-
-
-Underfull \hbox (badness 2096) in paragraph at lines 25--27
-[]\T1/mdbch/m/n/10 10. Super misericórdia tua, et
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 25--27
-\T1/mdbch/m/n/10 veri\T1/mdbch/b/n/10 tá\T1/mdbch/m/n/10 te \T1/mdbch/b/n/10 t
-u\T1/mdbch/m/n/10 a: * nequándo dicant
- []
-
-
-Overfull \hbox (6.07759pt too wide) in paragraph at lines 40--42
-[]\T1/mdbch/m/n/10 15. Manus habent, et non palpábunt: 
- []
-
-
-Underfull \hbox (badness 4913) in paragraph at lines 46--48
-[]\T1/mdbch/m/n/10 17. Domus Israël spe\T1/mdbch/b/n/10 rá\T1/mdbch/m/n/10 vi
-t in
- []
-
-
-Underfull \hbox (badness 2735) in paragraph at lines 58--60
-[]\T1/mdbch/m/n/10 21. Benedíxit \T1/mdbch/b/n/10 dó\T1/mdbch/m/n/10 mui \T1/
-mdbch/b/n/10 Isra\T1/mdbch/m/n/10 ël: *
- []
-
-
-Overfull \hbox (2.02885pt too wide) in paragraph at lines 61--63
-\T1/mdbch/b/n/10 Dómi\T1/mdbch/m/n/10 num, * pusíllis \T1/mdbch/b/n/10 cum \T
-1/mdbch/m/n/10 ma\T1/mdbch/b/n/10 jó\T1/mdbch/m/n/10 ribus. 
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 73--75
-[]\T1/mdbch/m/n/10 26. Non mórtui lau\T1/mdbch/b/n/10 dá\T1/mdbch/m/n/10 bunt
- te,
- []
-
-) (../psalms/english/ps113.tex [11] [12])
-Module gregoriotex Info: Looking in  on input line 222
-Module gregoriotex Info: Found ps113-antiphon.gabc directly on input line 222
-Module gregoriotex Info: Looking in  on input line 222
-Module gregoriotex Info: Found ps113-antiphon-6_0_0.gtex directly on input line 
-222
- (./ps113-antiphon-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-[13]
-Module gregoriotex Info: Looking in  on input line 247
-Module gregoriotex Info: Found ../hymns/crudelis-herodes-deum.gabc directly on i
-nput line 247
-Module gregoriotex Info: Looking in  on input line 247
-Module gregoriotex Info: Found ../hymns/crudelis-herodes-deum-6_0_0.gtex directl
-y on input line 247
- (../hymns/crudelis-herodes-deum-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [14]
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Processing gabc snippet... on input line 282
-Module gregoriotex Info: will use gregorio-6_0_0 on input line 282
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
-Module gregoriotex Info: Processing gabc snippet... on input line 287
+Module gregoriotex Info: Processing gabc snippet... on input line 261
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'. [15]
-Package mdframed Info: mdframed works in twoside mode on input line 300.
-Module gregoriotex Info: Looking in  on input line 306
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.
+Package mdframed Info: mdframed works in twoside mode on input line 273.
+Module gregoriotex Info: Looking in  on input line 279
 Module gregoriotex Info: Found magnificat-antiphon-only.gabc directly on input l
-ine 306
-Module gregoriotex Info: Looking in  on input line 306
+ine 279
+Module gregoriotex Info: Looking in  on input line 279
 Module gregoriotex Info: Found magnificat-antiphon-only-6_0_0.gtex directly on i
-nput line 306
-
-(./magnificat-antiphon-only-6_0_0.gtex
+nput line 279
+ (./magnificat-antiphon-only-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'. [8]
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Package mdframed Info: mdframed works in twoside mode on input line 309.
- [16]
-Module gregoriotex Info: Looking in  on input line 317
+Package mdframed Info: mdframed works in twoside mode on input line 282.
+Module gregoriotex Info: Looking in  on input line 288
 Module gregoriotex Info: Found magnificat-intonation.gabc directly on input line
- 317
-Module gregoriotex Info: Looking in  on input line 317
+ 288
+Module gregoriotex Info: Looking in  on input line 288
 Module gregoriotex Info: Found magnificat-intonation-6_0_0.gtex directly on inpu
-t line 317
+t line 288
 
 (./magnificat-intonation-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Overfull \hbox (0.784pt too wide) in paragraph at lines 347--347
-[]\T1/mdbch/m/n/10 3. \T1/mdbch/m/it/10 Quia \T1/mdbch/m/n/10 respéxit humilit
-átem \T1/mdbch/m/it/10 ancíllæ
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 347--347
-[]\T1/mdbch/m/n/10 10. \T1/mdbch/m/it/10 Sicut \T1/mdbch/m/n/10 locútus est \T
-1/mdbch/m/it/10 ad patres
- []
-
-(../psalms/english/magnificat.tex
-Overfull \hbox (8.61629pt too wide) in paragraph at lines 5--6
-\T1/mdbch/m/it/9 of his handmaid; for behold from henceforth
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 19--20
-[]\T1/mdbch/m/it/9 10. As he spoke to our fathers, to
- []
-
-) [17]
-Module gregoriotex Info: Looking in  on input line 360
-Module gregoriotex Info: Found magnificat-antiphon-only.gabc directly on input l
-ine 360
-Module gregoriotex Info: Looking in  on input line 360
-Module gregoriotex Info: Found magnificat-antiphon-only-6_0_0.gtex directly on i
-nput line 360
- (./magnificat-antiphon-only-6_0_0.gtex
-Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
-Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
-Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [18]
-Underfull \hbox (badness 2142) in paragraph at lines 386--386
-\T1/mdbch/m/n/10 Unigénitum tuum géntibus stella
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 386--386
-\T1/mdbch/m/n/10 Sancti, Deus, per ómnia s[]æcula
- []
-
-Module gregoriotex Info: Looking in  on input line 407
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) (../psalms/magni
+ficat-1.tex)
+(../psalms/english/magnificat.tex)
+Package mdframed Info: mdframed works in twoside mode on input line 301.
+ [9]
+Module gregoriotex Info: Looking in  on input line 349
 Module gregoriotex Info: Found ../common/benedicamus-2v-solem.gabc directly on i
-nput line 407
-Module gregoriotex Info: Looking in  on input line 407
+nput line 349
+Module gregoriotex Info: Looking in  on input line 349
 Module gregoriotex Info: Found ../common/benedicamus-2v-solem-6_0_0.gtex directl
-y on input line 407
+y on input line 349
+
 (../common/benedicamus-2v-solem-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
 Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-Module gregoriotex Info: Looking in  on input line 442
-Module gregoriotex Info: Found ../marian-anthems/ave-regina-caelorum-solemn.gabc
- directly on input line 442
-Module gregoriotex Info: Looking in  on input line 442
-Module gregoriotex Info: Found ../marian-anthems/ave-regina-caelorum-solemn-6_0_
-0.gtex directly on input line 442
+Module gregoriotex Info: Looking in  on input line 381
+Module gregoriotex Info: Found ../marian-anthems/alma-redemptoris-mater-solemn.g
+abc directly on input line 381
+Module gregoriotex Info: Looking in  on input line 381
+Module gregoriotex Info: Found ../marian-anthems/alma-redemptoris-mater-solemn-6
+_0_0.gtex directly on input line 381
 
-(../marian-anthems/ave-regina-caelorum-solemn-6_0_0.gtex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
+(../marian-anthems/alma-redemptoris-mater-solemn-6_0_0.gtex
+Removing  `luaotfload.harf.finalize_vlist' from `post_linebreak_filter'.
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_vlist' at position 2 in `post_linebreak_filt
+er'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Overfull \hbox (8.17033pt too wide) detected at line 504
+|
+ []
+
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
-[20]
-Underfull \hbox (badness 1728) in paragraph at lines 480--480
-[][][]\T1/mdbch/m/n/10 V. Dignáre me laudáre te, Virgo
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [10]
+Underfull \hbox (badness 1132) in paragraph at lines 408--408
+[]\T1/mdbch/m/n/10 Deus, qui sa-lú-tis ætér-nae, beá-tæ Ma-ríæ vir-gi-ni-
+tá-te
  []
 
-
-Underfull \hbox (badness 3417) in paragraph at lines 493--494
-[][][]\T1/mdbch/m/it/9 V. May the divine assistance remain
- []
-
-Package mdframed Info: mdframed works in twoside mode on input line 497.
-[21] (./01-06-2023_Ephiphany_Second_Vespers.aux)
+Package mdframed Info: mdframed works in twoside mode on input line 426.
+[11] (./01-06-2023_Ephiphany_Second_Vespers.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 29694 strings out of 481365
- 156270,794899 words of node,token memory allocated
- 5036 words of node memory still in use:
-   15 hlist, 7 vlist, 9 rule, 1 local_par, 120 glue, 17 kern, 6 penalty, 7 glyph
-, 956 attribute, 299 glue_spec, 138 attribute_list, 2 write, 1 user_defined node
+ 30399 strings out of 477762
+ 244164,953878 words of node,token memory allocated
+ 4665 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 108 glue, 17 kern, 6 penalty, 7 glyph
+, 844 attribute, 300 glue_spec, 122 attribute_list, 2 write, 1 user_defined node
 s
-   avail lists: 1:5,2:25539,3:1889,4:47,5:3014,6:209,7:4721,8:2,9:3957,10:46,11:
-2
- 45907 multiletter control sequences out of 65536+600000
- 121 fonts using 12154203 bytes
- 51i,12n,65p,883b,4842s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/local/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf></usr/loc
-al/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texli
-ve/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texlive/texmf-dist/fo
-nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
-/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
-n/mdbch/md-chrma.pfb>
-Output written on 01-06-2023_Ephiphany_Second_Vespers.pdf (21 pages, 1119271 byt
+   avail lists: 1:1,2:28042,3:3892,4:50,5:6057,6:512,7:9261,8:2,9:7751,10:44,11:
+252
+ 50213 multiletter control sequences out of 65536+600000
+ 111 fonts using 9617119 bytes
+ 88i,12n,86p,639b,4749s stack positions out of 5000i,500n,10000p,200000b,80000s
+Module gregoriotex Info: Writing 01-06-2023_Ephiphany_Second_Vespers.gaux on inp
+ut line 0
+Module gregoriotex Warning: Line heights or variable brace lengths may have chan
+ged. Rerun to fix. on input line 0
+</usr/share/texmf-dist/fonts/truetype/public/gregoriotex/greextra.ttf></usr/shar
+e/texmf-dist/fonts/truetype/public/gregoriotex/greciliae.ttf>{/usr/share/texmf-d
+ist/fonts/enc/dvips/ly1/texnansi.enc}</usr/share/texmf-dist/fonts/type1/bitstrea
+/charter/bchb8a.pfb></usr/share/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.p
+fb></usr/share/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/share/t
+exmf-dist/fonts/type1/public/mathdesign/mdbch/md-chrma.pfb>
+Output written on 01-06-2023_Ephiphany_Second_Vespers.pdf (11 pages, 1106395 byt
 es).
 
-PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+PDF statistics: 72 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

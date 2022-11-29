@@ -7,8 +7,10 @@
 \GreHeader{mode}{1}%
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 291}%
 \GreHeader{transcriber}{Andrew Hinkley, Br Michæl Reyes}%
+\GreHeader{annotation}{I g 2}%
 \GreEndHeaders %
-\GreBeginScore{3b9f4c33f75162a921edd8e44e75e04e6f2b08e6}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{750ca8137fb7de197e61e53de34b45bb7d243e66}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreAnnotationLines{I g 2}{}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
