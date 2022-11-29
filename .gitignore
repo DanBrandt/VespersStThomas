@@ -1,5 +1,6 @@
 *.gtex
 *.pdf
+*.log
 *.glog
 *.aux
 *.gaux
