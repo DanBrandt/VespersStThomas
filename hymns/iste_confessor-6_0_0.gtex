@@ -7,14 +7,14 @@
 \GreHeader{mode}{1}%
 \GreHeader{transcriber}{Dominique CROCHU}%
 \GreEndHeaders %
-\GreBeginScore{bf29fa8917181770d9fe975b5c7c050bf87b70bc}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{247950608846e7ba207d01077fc63ab8fa2c0b80}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{0}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{I}{}{}{{}{\GreFirstWord{}}{}}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{I}}}}{}}{\GreEmptyFirstSyllableHyphen}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{t}}{\GreFirstWord{e}}{}{\GreFirstWord{t}}{\GreFirstWord{e}}}{}{{8}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{I}{S}{}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{S}}}}{}}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{I}}}}{\GreFirstWord{\GreFirstSyllable{S}}}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{t}}{\GreFirstWord{e}}{}{\GreFirstWord{t}}{\GreFirstWord{e}}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{4}%
 \GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{7}{}}{0}%
 {%

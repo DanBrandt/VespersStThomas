@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  3 SEP 2022 15:05
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.11.17)  16 NOV 2022 23:51
  system commands enabled.
 **12-02-2022.tex
 (./12-02-2022.tex
@@ -1332,27 +1332,36 @@ Underfull \hbox (badness 1112) in paragraph at lines 162--162
 \T1/mdbch/m/n/10 Christum, Fílium tuum: qui tecum vivit et regnat
  []
 
-Module gregoriotex Info: Looking in  on input line 185
-Module gregoriotex Info: Found ../../common/benedicamus-advent-lent.gabc directl
-y on input line 185
-Module gregoriotex Info: Looking in  on input line 185
-Module gregoriotex Info: Found ../../common/benedicamus-advent-lent-6_0_0.gtex d
-irectly on input line 185
-(../../common/benedicamus-advent-lent-6_0_0.gtex
+Module gregoriotex Info: Looking in  on input line 171
+Module gregoriotex Info: Found comm-advent.gabc directly on input line 171
+Module gregoriotex Info: Looking in  on input line 171
+Module gregoriotex Info: Found comm-advent-6_0_0.gtex directly on input line 171
+
+(./comm-advent-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
-Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [4]
-Package mdframed Info: mdframed works in twoside mode on input line 216.
-Package mdframed Info: Not enough space on this page on input line 220.
-Module gregoriotex Info: Looking in  on input line 223
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+Module gregoriotex Info: Looking in  on input line 214
+Module gregoriotex Info: Found ../../common/benedicamus-advent-lent.gabc directl
+y on input line 214
+Module gregoriotex Info: Looking in  on input line 214
+Module gregoriotex Info: Found ../../common/benedicamus-advent-lent-6_0_0.gtex d
+irectly on input line 214
+ (../../common/benedicamus-advent-lent-6_0_0.gtex
+Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
+Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
+Removing  `gregoriotex.post_linebreak' from `post_linebreak_filter'.
+Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.)
+[4]
+Package mdframed Info: mdframed works in twoside mode on input line 243.
+Module gregoriotex Info: Looking in  on input line 250
 Module gregoriotex Info: Found ../../marian-anthems/alma-redemptoris-mater-solem
-n.gabc directly on input line 223
-Module gregoriotex Info: Looking in  on input line 223
+n.gabc directly on input line 250
+Module gregoriotex Info: Looking in  on input line 250
 Module gregoriotex Info: Found ../../marian-anthems/alma-redemptoris-mater-solem
-n-6_0_0.gtex directly on input line 223
-
-(../../marian-anthems/alma-redemptoris-mater-solemn-6_0_0.gtex
+n-6_0_0.gtex directly on input line 250
+ (../../marian-anthems/alma-redemptoris-mater-solemn-6_0_0.gtex
 Inserting `gregoriotex.post_linebreak' at position 1 in `post_linebreak_filter'.
 Inserting `gregoriotex.disable_hyphenation' at position 1 in `hyphenate'.
 Overfull \hbox (8.17033pt too wide) detected at line 504
@@ -1365,19 +1374,22 @@ Removing  `gregoriotex.disable_hyphenation' from `hyphenate'.) [5] (./12-02-202
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 )
 
 Here is how much of LuaTeX's memory you used:
- 29330 strings out of 481365
- 195333,794899 words of node,token memory allocated
- 4081 words of node memory still in use:
-   15 hlist, 3 vlist, 9 rule, 1 local_par, 90 glue, 13 kern, 6 penalty, 7 glyph,
- 680 attribute, 286 glue_spec, 102 attribute_list, 2 write, 1 user_defined nodes
-
-   avail lists: 1:5,2:29794,3:2355,4:71,5:3551,6:244,7:4622,8:2,9:4595,10:62,11:
+ 29339 strings out of 481365
+ 195335,794899 words of node,token memory allocated
+ 4382 words of node memory still in use:
+   15 hlist, 3 vlist, 9 rule, 1 local_par, 102 glue, 13 kern, 6 penalty, 7 glyph
+, 764 attribute, 291 glue_spec, 114 attribute_list, 2 write, 1 user_defined node
+s
+   avail lists: 1:3,2:29698,3:2355,4:71,5:3544,6:244,7:4611,8:2,9:4595,10:62,11:
 1
  45744 multiletter control sequences out of 65536+600000
- 118 fonts using 11949099 bytes
+ 118 fonts using 11949755 bytes
  51i,12n,77p,837b,5674s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/share/texmf/fonts/truetype/public/gregoriotex/greciliae.ttf></usr/lo
 cal/share/texmf/fonts/truetype/public/gregoriotex/greextra.ttf>{/usr/share/texli
@@ -1386,7 +1398,7 @@ nts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea
 /charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesig
 n/mdbch/md-chrma.pfb>
-Output written on 12-02-2022.pdf (5 pages, 84752 bytes).
+Output written on 12-02-2022.pdf (5 pages, 86889 bytes).
 
 PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
