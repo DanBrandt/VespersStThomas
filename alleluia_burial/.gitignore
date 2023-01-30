@@ -1,0 +1,5 @@
+*.log
+*.glog
+*.gtex
+*.pdf
+*.synctex.gz
