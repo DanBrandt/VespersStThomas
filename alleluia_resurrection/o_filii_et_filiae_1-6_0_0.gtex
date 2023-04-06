@@ -8,7 +8,7 @@
 \GreHeader{book}{Chants of the Church, 1956, p. 118}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{efdd673a12369ea0e53d83f0fa2feb98fc86b1a7}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{8606d32094098a9495dcc65de2eb1aefc045a06d}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreMode{\GreModeNumber{2}}{}{}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -111,15 +111,10 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}\GreLastOfLine}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{1.  }{O}{}{1}{.  O}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioFinalis{0}{}%
 }%
-%
-%
-%
-\GreNewParLine %
-%
 %
 \GreSyllable{\GreSetThisSyllable{1.  }{O}{}{1}{.  O}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{f}{í}{}{f}{í}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
