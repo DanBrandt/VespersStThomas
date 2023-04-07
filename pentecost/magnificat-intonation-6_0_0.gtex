@@ -9,7 +9,7 @@
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreHeader{annotation}{1D}%
 \GreEndHeaders %
-\GreBeginScore{0a147c4684771cf92ccfabc51a134d4e22ec7fb0}{11}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{b795baf8fa2655e4a63d9497db90dbcfe4990303}{11}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreAnnotationLines{1D}{}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
@@ -38,7 +38,7 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{\GreFirstWord{c}}{\GreFirstWord{a}}{\GreFirstWord{t}}{\GreFirstWord{c}}{\GreFirstWord{a}\GreFirstWord{t}}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{{13}{0}}{}{%
+\GreSetFixedNextTextFormat{6}\GreSyllable{\GreSetThisSyllable{\GreFirstWord{c}}{\GreFirstWord{a}}{\GreFirstWord{t}}{\GreFirstWord{c}}{\GreFirstWord{a}\GreFirstWord{t}}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{}{\maltese}{}{\maltese}{}}{}{{18}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
@@ -48,9 +48,8 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{\GreStar{}}{}{\GreStar{}}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{á}{}{á}{}}{}{{0}{0}}{}{%
+\GreSetFixedTextFormat{6}\GreNoNoteSyllable{\GreSetThisSyllable{}{\maltese}{}{\maltese}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{á}{}{á}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioMaior{1}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{á}{}{á}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{i}{}{n}{i}}{}{{0}{0}}{}{%
