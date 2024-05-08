@@ -1,7 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{vespers-booklet}
 
-\LoadClass[statementpaper, 10pt, twoside]{memoir}
+\LoadClass[letterpaper, 10pt, twoside]{memoir}
 
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[bitstream-charter]{mathdesign}
@@ -19,7 +19,7 @@
 
 % memoir page format setup
 \settrims{0pt}{0pt}
-\settypeblocksize{7in}{4.25in}{*}
+\settypeblocksize{9in}{6.5in}{*}
 \setlrmargins{*}{*}{1.4}
 \setulmargins{*}{*}{1.2}
 \setheadfoot{\onelineskip}{2\onelineskip}
